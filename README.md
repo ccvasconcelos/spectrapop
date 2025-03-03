@@ -4,4 +4,4 @@ Neste repositório compartilharemos dois dos principais produtos do projeto **"P
 + Manual de operação e uso dos espectrômetros portáteis (MicroNIRs modelo NIR-S-G1, InnoSpectra, Taiwan) focados em espécimes de herbário
 + Tutorial de manipulação, visualização e análise de dados espectrais obtidos com micronirs focados em espécimes de herbário
 
-Até as próximas atualizações
+Até as próximas atualizações!
