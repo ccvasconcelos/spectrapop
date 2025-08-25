@@ -12,4 +12,4 @@ Neste repositório compartilharemos os principais produtos do projeto **"Popular
 + Cavender-Bares J, DM White, NI Ahlstrand, M Austin, D Bastianelli, S Bazan, K Boughalmi, W Cardinal-McTeague, E Chacón-Madrigal, TLP Couvreur, C Davis, FM Durgante, OM Grace, JA Guzmán, K Hansen, MS Hernández-Leal, MJG Hopkins, R Jackson, S Kothari, AK Lee, E Léveillé-Bourret, J Pinto-Ledezma, NLQ Casaverde, JE Meireles, CO Nichodemus, M Schmull, DE Soltis, PS Soltis, H Tuomisto, S Ustin, & CC Vasconcelos. "NextGeneration specimen digitization: The international herbarium community goes spectral!". Manuscrito submetido ao periódico *New Phytologist*, 2025. Preprint: https://doi.org/10.32942/X2V927
 + Hadlich HL, J Schöngart, F Wittmann, CC Vasconcelos, CL Mallmann, MLG Conde, PA Sá, LO Demarchi, GB Mori, MTF Piedade, & FM Durgante. “Exploring the potential of field spectroscopy for tree species identification in different Amazonian forest ecosystems”. Manuscrito submetido ao periódico *Global Ecology and Conservation*, 2025. Preprint: https://doi.org/10.1101/2025.03.26.645444
 
-Até as próximas atualizações!
+👋 Até as próximas atualizações!
