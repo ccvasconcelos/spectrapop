@@ -1,0 +1,12 @@
+---
+title: "Curso Parabotânicos"
+format:
+  html:
+    toc: true
+    toc-location: right
+    toc-title: "Navegação"
+---
+
+Previsto para 23 a 30 de março de 2026 (Sítio ATTO, São Sebastião do Uatumã, AM).
+
+Mais informações em breve!

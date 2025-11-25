@@ -1,0 +1,191 @@
+---
+title: "2º Curso de Espectroscopia em herbário com MicroNIR"
+subtitle: "Teoria e prática"
+---
+
+# Apresentação
+
+Damos boas-vindas aos participantes do **2º Curso Espectroscopia em Herbário com MicroNIR: Teoria e Prática**! 😊
+
+Este curso foi desenvolvido para capacitar estudantes e profissionais no uso do espectrômetro portátil MicroNIR, abrangendo desde a configuração inicial do equipamento até a análise dos dados espectrais.
+
+Ao longo de três dias de atividades teóricas e práticas, os participantes explorarão os fundamentos da espectroscopia no infravermelho próximo (NIR) e sua aplicação na identificação de plantas.
+
+Além disso, o curso busca identificar desafios práticos no uso do equipamento, contribuindo para o desenvolvimento de um protocolo padronizado de aplicação no âmbito do [Projeto SpectraPop](/index.html).
+
+# Detalhes do curso
+
+**Onde:** Instituto Nacional de Pesquisas da Amazônia (INPA, campus I), Av. André Araújo, 2.936 - 69067-375 - Petrópolis, Manaus, Amazonas.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(leaflet)
+leaflet() %>%
+  addTiles %>% # Add default OpenStreetMap map tiles
+  setView(lng = -59.98748286262644, lat = -3.0950992004397473, zoom = 17)
+```
+
+**Data:** De 17 a 19 de dezembro de 2025.\
+
+**Público-alvo:** Estudantes e profissionais envolvidos no fluxo de trabalho de herbário/coleções de referência que tenham interesse no uso de espectroscopia portátil para pesquisa científica.\
+
+**Número de vagas:** 20 (vagas presenciais).\
+
+**Carga horária:** 18h (com emissão de certificado de participação).\
+
+**Formato:** Híbrido, com aulas teóricas virtuais e aulas práticas presenciais. Para as atividades práticas, quatro *laptops* estarão disponíveis, e os participantes serão organizados em quatro grupos.
+
+**Material:** Slides, *scripts* e dados obtidos durante o curso serão disponibilizados diretamente aos alunos ou via [GitHub](https://github.com/ccvasconcelos/spectrapop).
+
+**Observações importantes:**
+
+-   Participantes externos devem apresentar um documento de identificação com foto (p. ex. RG) e informar em qualquer portaria do INPA que estão [participando de um treinamento no Herbário INPA]{.underline}.
+
+-   Ao final do curso, cada participante deve responder um formulário de aproveitamento para avaliação da capacitação e sugestões para aprimoramento do protocolo de uso do MicroNIR, que futuramente será disponibilizado para toda a comunidade interessada.
+
+# Cronograma
+
+## Visão geral
+
+As atividades do curso ocorrerão durante três dias seguidos, de quarta a sexta-feira.
+
+As sessões da manhã serão entre 09h00 e 12h00 (horário padrão do Amazonas).
+
+As sessões da tarde serão entre 14h00 e 17h00 (horário padrão do Amazonas).
+
+## Linha do tempo
+
+### Dia 1 (quarta-feira)
+
+#### Manhã (Flávia)
+
+Fundamentos teóricos da espectroscopia NIR e suas aplicações
+
+Link para acessar a aula: [[https://meet.jit.si/Spectrapop]{.underline}](https://meet.jit.si/Spectrapop)
+
+Link para acessar a lista de presença: \[em breve\]
+
+Vídeo Tour do Espectro Eletromagnético (NASA): <https://www.youtube.com/watch?v=2p7FPFvu_j0>
+
+#### Tarde (Caroline)
+
+-   Apresentação do dispositivo NIR-S-G1 (MicroNIR, InnoSpectra Corp.) e acessórios
+
+-   Configuração do aplicativo ISC-NIRScan GUI (*laptop* e *smartphone*)
+
+-   Calibração, coleta de dados espectrais e cuidados necessários na obtenção dos espectros
+
+-   Entendendo os arquivos de saída
+
+Link para acessar a lista de presença: \[em breve\]
+
+### Dia 2 (quinta-feira)
+
+#### Manhã (Luiz e Caroline)
+
+Operações com o micronir e exercício prático de aquisição espectros. \[Grupo de espécies a ser selecionado\]
+
+Obtenção de metadados associados aos espécimes de herbário
+
+Link para acessar a lista de presença: \[em breve\]
+
+#### Tarde (Caroline)
+
+-   Instalação das bibliotecas necessárias
+
+-   Como importar as leituras espectrais para o R
+
+-   Como visualizar espectros e avaliar a qualidade dos dados espectrais
+
+-   Como preparar os conjuntos de dados para análise
+
+Link para acessar a lista de presença: \[em breve\]
+
+### Dia 3 (sexta-feira)
+
+#### Manhã (Flávia)
+
+Fundamentos teóricos da espectroscopia NIR e suas aplicações
+
+Link para acessar a aula: [[https://meet.jit.si/Spectrapop]{.underline}](https://meet.jit.si/Spectrapop)
+
+Link para acessar a lista de presença: \[em breve\]
+
+#### Tarde (Caroline)
+
+-   Análise discriminante (LDA) com validação cruzada *Leave-One-Out* (LOO)
+
+-   Avaliação básica dos modelos (acurácia e matriz de confusão)
+
+-   Responder formulário de aproveitamento do curso
+
+Link para acessar a lista de presença: \[em breve\]
+
+Link para acessar acessar o formulário de feedback: \[em breve\]
+
+# Equipe de organização e treinamento
+
+👤Profa. Dra. [Flávia Durgante](http://lattes.cnpq.br/9866263113578229) (Coordenadora do Projeto SpectraPop), KIT/ INPA/MAUA
+
+👤Dra. [Caroline Vasconcelos](http://lattes.cnpq.br/1535461703335857) (Bolsista AT/III do Projeto SpectraPop), INPA
+
+👤Prof. Dr. [Michael Hopkins](http://lattes.cnpq.br/5738793047673962) (Colaborador), Curadoria do Herbário INPA
+
+👤Dra. [Samyra Ramos](http://lattes.cnpq.br/1333559162162849) (Colaboradora), INPA
+
+👤Me. [Kaio Cunha](http://lattes.cnpq.br/2664299098538335) (Colaborador), INPA
+
+👤Me. [Luiz Melo](http://lattes.cnpq.br/0848738423393318) (Colaborador), INPA
+
+# Financiamento
+
+Este curso é parte do Projeto “Popularização do uso da Assinatura Espectral da Espécie na identificação das árvores do Manejo Florestal Sustentável na Amazônia - SPECTRA POP”, financiado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - Mulher Faz Ciência, e apoiado pelo Herbário INPA via Chamada pública MCTI/FINEP/FNDCT no. 02/2016 – Centros Nacionais Multiusuários.
+
+# Participantes
+
+1.  Eduardo Cunha
+
+2.  Maria Clara Ferro
+
+3.  Jéssica Iara Soares
+
+4.  Ana Leticia Reis Almeida
+
+5.  Ana Luiza Tuma
+
+6.  Álvaro Brasil Barbosa Neto
+
+7.  Junior Ribeiro Carvalho
+
+8.  Kellen Trajano de Lima
+
+9.  Paula Ribeiro
+
+10. Flávia Dayane Félix Farias
+
+11. Tiago Cabral Nóbrega
+
+12. Cristiane Cunha Guimarães
+
+13. Jaqueline Ferreira Gomes
+
+14. Túlio Alex Martins
+
+15. Patricia Alfaia Pereira
+
+16. Ana Paula Alfaia Castro
+
+17. Douglas de Moraes Couceiro
+
+18. Katell Uguen
+
+19. Sérgio Dantas de Oliveira Júnior
+
+20. Caris Viana
+
+**Ouvintes (participação parcial)\***
+
+1.  Yasmin Guimarães - Virtual
+
+2.  Eliandra Rodrigues - Virtual
+
+\*Ouvintes (virtuais e presenciais) não terão direito a certificado.

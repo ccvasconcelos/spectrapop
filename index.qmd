@@ -1,0 +1,82 @@
+---
+title: "Popularização do uso da Assinatura Espectral da Espécie na identificação das árvores do Manejo Florestal Sustentável na Amazônia"
+subtitle: "Edital no. 006/2024 - Mulher Faz Ciência - FAPEAM"
+---
+
+# Resumo
+
+Erros na identificação de espécies madeireiras afetam toda a cadeia produtiva do manejo florestal, desde a sustentabilidade do manejo de espécies de alto valor comercial para futuros ciclos de exploração, até a fiscalização e a venda e comercialização da madeira. Assim, buscando aprimorar o processo de identificação de espécies para o manejo florestal sustentável, esta proposta visa desenvolver e popularizar o uso da assinatura espetral das espécies na identificação de espécies de alto valor comercial. O uso combinado de instrumentos de alta tecnologia e técnicas apropriadas para discriminar espécies arbóreas é necessário para melhorar o sistema de inventário da biodiversidade em países tropicais. A espetroscopia foliar no infravermelho próximo tem-se mostrado promissora na discriminação de espécies vegetais. Desta forma, pretendemos produzir um herbário espetral, utilizar protocolos, testar equipamentos mais acessíveis e treinar pessoas de diferentes grupos da sociedade. Assim, acreditamos na popularização do uso dessa ferramenta desenvolvida no Instituto Nacional de Pesquisas da Amazônia para melhorar a qualidade das identificações do manejo florestal na Amazônia. A popularização e aplicação dessa ferramenta aumentará a sustentabilidade do manejo florestal no estado do Amazonas. Desta forma, este projeto visa desenvolver e popularizar uma tecnologia que beneficiará o Amazonas ambiental, social e economicamente.
+
+# Objetivo geral
+
+Desenvolver e popularizar o herbário espectral (espectroscopia no infravermelho próximo) de espécies madeireiras e não madeireiras de alto valor comercial para aplicar no manejo florestal sustentável do estado do Amazonas.
+
+# Integrantes
+
+## Coordenação
+
+👤 **Flávia M. Durgante** (KIT/INPA/MAUA/ATTO) <a href="http://lattes.cnpq.br/9866263113578229" target="_blank"> <img src="http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png" width="18"/> </a>
+
+## Colaboradores
+
+👤 **Florian Wittmann** (KIT/MAUA/ATTO) <a href="http://lattes.cnpq.br/5130662662509830" target="_blank"> ![](http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png){width="18"} </a>
+
+👤 **Jochen Schöngart** (INPA/MAUA/ATTO) <a href="http://lattes.cnpq.br/2468979908831549" target="_blank"> ![](http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png){width="18"} </a>
+
+👤 **Maria T. F. Piedade** (INPA/ATTO/MAUA) <a href="http://lattes.cnpq.br/0626509177712805" target="_blank"> ![](http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png){width="18"} </a>
+
+👤 **Layon O. Demarchi** (INPA/MAUA) <a href="http://lattes.cnpq.br/2504309339279053" target="_blank"> ![](http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png){width="18"} </a>
+
+👤 **Alberto Vicentini** (INPA) <a href="http://lattes.cnpq.br/1416853089847332" target="_blank"> ![](http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png){width="18"} </a>
+
+👤 **Michael J. G. Hopkins** (INPA) <a href="http://lattes.cnpq.br/5738793047673962" target="_blank"> ![](http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png){width="18"} </a>
+
+👤 **Hilana L. Hadlich** (INPA/MAUA) <a href="http://lattes.cnpq.br/2228944258807319" target="_blank"> ![](http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png){width="18"} </a>
+
+👤 **Caroline L. Mallmann** (UFSM/MAUA) <a href="http://lattes.cnpq.br/2812901246354210" target="_blank"> ![](http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png){width="18"} </a>
+
+👤 **Kelly C. Torralvo** (IDSM) <a href="http://lattes.cnpq.br/8990804799144033" target="_blank"> ![](http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png){width="18"} </a>
+
+👤 **Rafael M. Rabelo** (IDSM) <a href="http://lattes.cnpq.br/5351330534364245" target="_blank"> ![](http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png){width="18"} </a>
+
+👤 **Darlene Gris** (IDSM) <a href="http://lattes.cnpq.br/9797541704067903" target="_blank"> ![](http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png){width="18"} </a>
+
+## Bolsistas
+
+👤 **Caroline C. Vasconcelos** (INPA) - Bolsista FAPEAM AT/III <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"> ![](http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png){width="18"} </a>
+
+Subprojeto: Rumo a uma biblioteca espectral: reconhecendo espécies arbóreas comerciais por meio dos espectros das folhas. Início: 2025. Supervisão: Flávia Durgante.
+
+👤 **Maria Clara Abreu Mota de Oliveira Ramos Ferro** (INPA) - Bolsista CAPES Mestrado <a href="http://lattes.cnpq.br/8490385946321507" target="_blank"> ![](http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png){width="18"} </a>
+
+Subprojeto: Material de fundo importa? Testando padrões de reflectância na espectroscopia de folhas herborizadas em diferentes tipos de materiais de fundo e sua eficácia na discriminação de espécies. Início: 2025. Supervisão: Flávia Durgante.
+
+👤 **Eduardo Leandro Cunha** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/2142166621987119" target="_blank"> ![](http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png){width="18"} </a>
+
+Subprojeto: Inteligência artificial aplicada à taxonomia de *Ecclinusa* (Sapotaceae): validação espectral e interoperabilidade com espectrômetros portáteis. Início: 2025. Supervisão: Michael Hopkins, Caroline Vasconcelos e Flávia Durgante.
+
+👤 **Eliandra Rodrigues Ferreira** (Estácio) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/3358526069960413" target="_blank"> ![](http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png){width="18"} </a>
+
+Subprojeto: Desenvolvimento de bibliotecas espectrais para identificação de espécies no Herbário INPA: um estudo com Fabaceae e Meliaceae. Início: 2025. Supervisão: Michael Hopkins, Flávia Durgante e Caroline Vasconcelos.
+
+👤 **Yasmin Jéssica Guimarães Guedes** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/7129000327997949" target="_blank"> ![](http://www2.ufac.br/ccsd/saudecoletiva/iconlattes.png){width="18"} </a>
+
+Subprojeto: Construção de biblioteca espectral aplicada à identificação de Bignoniaceae no Herbário INPA. Início: 2025. Supervisão: Michael Hopkins, Flávia Durgante e Caroline Vasconcelos.
+
+# Cursos oferecidos
+
+📚 [**1º Curso**](/cursos/cursomicronir1.html)**:** 02 a 04 de abril de 2025 (INPA, Manaus, AM)
+
+📚 [**2º Curso**](/cursos/cursomicronir2.html)**:** 17 a 19 de dezembro de 2025 (INPA, Manaus, AM)
+
+📚 [**3º Curso**](/cursos/cursomicronir3.html)**:** previsto para 17 a 19 de março de 2026 (Instituto Mamirauá, Tefé, AM)
+
+📚 [**4º Curso**](/cursos/cursoparabotanicos.html)**:** previsto para 23 a 30 de março de 2026 (Sítio ATTO, São Sebastião do Uatumã, AM)
+
+# Financiamento
+
+O projeto SPECTRA POP é financiado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - Mulher Faz Ciência, e apoiado pelo Herbário INPA via Chamada pública MCTI/FINEP/FNDCT no. 02/2016 – Centros Nacionais Multiusuários.
+
+# Parcerias institucionais
+
+![](images/logos.png)

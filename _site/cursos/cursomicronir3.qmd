@@ -1,0 +1,13 @@
+---
+title: "3º Curso de Espectroscopia em herbário com MicroNIR"
+subtitle: "Teoria e prática"
+format:
+  html:
+    toc: true
+    toc-location: right
+    toc-title: "Navegação"
+---
+
+Previsto para 17 a 19 de março de 2026 (Instituto de Desenvolvimento Sustentável Mamirauá, Tefé, AM)
+
+Mais informações em breve!

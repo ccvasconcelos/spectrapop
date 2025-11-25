@@ -1,0 +1,42 @@
+project:
+  type: website
+
+website:
+  title: "Projeto SpectraPop"
+
+  navbar:
+    left:
+      - text: "Início"
+        href: index.qmd
+        
+      - text: "Cursos"
+        menu:
+          - text: "1º Curso (2025)"
+            href: cursos/cursomicronir1.qmd
+          - text: "2º Curso (2025)"
+            href: cursos/cursomicronir2.qmd
+          - text: "3º Curso (2026)"
+            href: cursos/cursomicronir3.qmd
+          - text: "4º Curso (2026)"
+            href: cursos/cursoparabotanicos.qmd
+   #       - text: "Galeria de Fotos"
+   #         href: cursos/galeria.qmd
+
+
+      - text: "Publicações"
+        href: publicacoes.qmd
+        
+      - text: "Contato"
+        href: contato.qmd
+    
+  page-footer:
+    center: "© 2025 Projeto SpectraPop"
+    
+
+format:
+  html:
+    lightbox: true
+    css: styles.css
+    toc: true
+    toc-location: right
+    toc-title: "Nesta página"
