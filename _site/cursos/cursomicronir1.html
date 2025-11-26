@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>1º Curso de Espectroscopia em herbário com MicroNIR – Projeto SpectraPop</title>
+<title>1º Curso de Espectroscopia em herbário com MicroNIR</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,161 +23,44 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
-  "copy-button": false,
-  "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
-  "limit": 50,
-  "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
-  ],
-  "show-item-context": false,
-  "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
-    "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
-  }
-}</script>
-<link href="../site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
+<script src="cursomicronir1_files/libs/clipboard/clipboard.min.js"></script>
+<script src="cursomicronir1_files/libs/quarto-html/quarto.js"></script>
+<script src="cursomicronir1_files/libs/quarto-html/popper.min.js"></script>
+<script src="cursomicronir1_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="cursomicronir1_files/libs/quarto-html/anchor.min.js"></script>
+<link href="cursomicronir1_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="cursomicronir1_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="cursomicronir1_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="cursomicronir1_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="cursomicronir1_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="cursomicronir1_files/libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
 
-<script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+<script src="cursomicronir1_files/libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
 
-<script src="../site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="cursomicronir1_files/libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 
-<link href="../site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
+<link href="cursomicronir1_files/libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
 
-<script src="../site_libs/leaflet-1.3.1/leaflet.js"></script>
+<script src="cursomicronir1_files/libs/leaflet-1.3.1/leaflet.js"></script>
 
-<link href="../site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
+<link href="cursomicronir1_files/libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
 
-<script src="../site_libs/proj4-2.6.2/proj4.min.js"></script>
+<script src="cursomicronir1_files/libs/proj4-2.6.2/proj4.min.js"></script>
 
-<script src="../site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+<script src="cursomicronir1_files/libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
 
-<link href="../site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
+<link href="cursomicronir1_files/libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
 
-<script src="../site_libs/leaflet-binding-2.2.2/leaflet.js"></script>
+<script src="cursomicronir1_files/libs/leaflet-binding-2.2.2/leaflet.js"></script>
 
 
 
-<link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="fullcontent">
 
-<div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
-      <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
-    <span class="navbar-title">Projeto SpectraPop</span>
-    </a>
-  </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-  <span class="navbar-toggler-icon"></span>
-</button>
-          <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
-<span class="menu-text">Início</span></a>
-  </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-cursos" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Cursos</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-cursos">    
-        <li>
-    <a class="dropdown-item" href="../cursos/cursomicronir1.html">
- <span class="dropdown-text">1º Curso (2025)</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../cursos/cursomicronir2.html">
- <span class="dropdown-text">2º Curso (2025)</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../cursos/cursomicronir3.html">
- <span class="dropdown-text">3º Curso (2026)</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../cursos/cursoparabotanicos.html">
- <span class="dropdown-text">4º Curso (2026)</span></a>
-  </li>  
-    </ul>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="../publicacoes.html"> 
-<span class="menu-text">Publicações</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../contato.html"> 
-<span class="menu-text">Contato</span></a>
-  </li>  
-</ul>
-          </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
-</div>
-      </div> <!-- /container-fluid -->
-    </nav>
-</header>
-<!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
-<!-- sidebar -->
-<!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Nesta página</h2>
-   
-  <ul>
-  <li><a href="#apresentação" id="toc-apresentação" class="nav-link active" data-scroll-target="#apresentação">Apresentação</a></li>
-  <li><a href="#detalhes-do-curso" id="toc-detalhes-do-curso" class="nav-link" data-scroll-target="#detalhes-do-curso">Detalhes do curso</a></li>
-  <li><a href="#cronograma" id="toc-cronograma" class="nav-link" data-scroll-target="#cronograma">Cronograma</a>
-  <ul class="collapse">
-  <li><a href="#visão-geral" id="toc-visão-geral" class="nav-link" data-scroll-target="#visão-geral">Visão geral</a></li>
-  <li><a href="#linha-do-tempo" id="toc-linha-do-tempo" class="nav-link" data-scroll-target="#linha-do-tempo">Linha do tempo</a>
-  <ul class="collapse">
-  <li><a href="#dia-1-quarta-feira" id="toc-dia-1-quarta-feira" class="nav-link" data-scroll-target="#dia-1-quarta-feira">Dia 1 (quarta-feira)</a></li>
-  <li><a href="#dia-2-quinta-feira" id="toc-dia-2-quinta-feira" class="nav-link" data-scroll-target="#dia-2-quinta-feira">Dia 2 (quinta-feira)</a></li>
-  <li><a href="#dia-3-sexta-feira" id="toc-dia-3-sexta-feira" class="nav-link" data-scroll-target="#dia-3-sexta-feira">Dia 3 (sexta-feira)</a></li>
-  </ul></li>
-  </ul></li>
-  <li><a href="#equipe-de-organização-e-treinamento" id="toc-equipe-de-organização-e-treinamento" class="nav-link" data-scroll-target="#equipe-de-organização-e-treinamento">Equipe de organização e treinamento</a></li>
-  <li><a href="#financiamento" id="toc-financiamento" class="nav-link" data-scroll-target="#financiamento">Financiamento</a></li>
-  <li><a href="#participantes" id="toc-participantes" class="nav-link" data-scroll-target="#participantes">Participantes</a></li>
-  </ul>
-</nav>
-    </div>
-<!-- main -->
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
@@ -205,15 +88,15 @@ ul.task-list li input[type="checkbox"] {
 <p>Damos boas-vindas aos participantes do <strong>1º Curso Espectroscopia em Herbário com MicroNIR: Teoria e Prática</strong>! 😊</p>
 <p>Este curso foi desenvolvido para capacitar funcionários e bolsistas no uso do espectrômetro portátil MicroNIR, abrangendo desde a configuração inicial do equipamento até a análise dos dados espectrais.</p>
 <p>Ao longo de três dias de atividades teóricas e práticas, os participantes explorarão os fundamentos da espectroscopia no infravermelho próximo (NIR) e sua aplicação na identificação de plantas.</p>
-<p>Além disso, o curso busca identificar desafios práticos no uso do equipamento, contribuindo para o desenvolvimento de um protocolo de aplicação no âmbito do <a href="..\index.html">Projeto SpectraPop</a>.</p>
+<p>Além disso, o curso busca identificar desafios práticos no uso do equipamento, contribuindo para o desenvolvimento de um protocolo de aplicação no âmbito do <a href=".\index.html">Projeto SpectraPop</a>.</p>
 </section>
 <section id="detalhes-do-curso" class="level1">
 <h1>Detalhes do curso</h1>
 <p><strong>Onde:</strong> Herbário INPA (1º andar, Sala IFN), Av. André Araújo, 2.936 - 69067-375 - Petrópolis, Manaus, Amazonas.</p>
 <div class="cell">
 <div class="cell-output-display">
-<div class="leaflet html-widget html-fill-item" id="htmlwidget-a9c98409930eaa9bd6a8" style="width:100%;height:464px;"></div>
-<script type="application/json" data-for="htmlwidget-a9c98409930eaa9bd6a8">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]}],"setView":[[-3.095099200439747,-59.98748286262644],17,[]]},"evals":[],"jsHooks":[]}</script>
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-174e89c0a6c8efda59fd" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-174e89c0a6c8efda59fd">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]}],"setView":[[-3.095099200439747,-59.98748286262644],17,[]]},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 <p><strong>Data:</strong> De 02 a 04 de abril de 2025.<br>
@@ -338,7 +221,7 @@ ul.task-list li input[type="checkbox"] {
 <tr class="even">
 <td>13</td>
 <td>Fabaceae</td>
-<td><em>D. punctate</em></td>
+<td><em>D. punctata</em></td>
 </tr>
 </tbody>
 </table>
@@ -412,11 +295,10 @@ ul.task-list li input[type="checkbox"] {
 </ol>
 <p>*Ouvintes (virtuais e presenciais) não terão direito a certificado.</p>
 <p><img src="fotos/1.jpg" class="slide" style="width:100%; display:block;"></p>
-
-
 </section>
 
-</main> <!-- /main -->
+</main>
+<!-- /main column -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -838,19 +720,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
-    <div class="nav-footer-left">
-      &nbsp;
-    </div>   
-    <div class="nav-footer-center">
-<p>© 2025 Projeto SpectraPop</p>
-</div>
-    <div class="nav-footer-right">
-      &nbsp;
-    </div>
-  </div>
-</footer>
 
 
 
