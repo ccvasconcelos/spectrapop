@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Projeto SpectraPop"
+   favicon: images/flavicon.png
 
   navbar:
     left:
