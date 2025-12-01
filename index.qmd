@@ -15,53 +15,59 @@ Desenvolver e popularizar o herbário espectral (espectroscopia no infravermelho
 
 ## Coordenação
 
-👤 **Flávia M. Durgante** (KIT/INPA/MAUA/ATTO) <a href="http://lattes.cnpq.br/9866263113578229" target="_blank"> <img src="https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png" width="18"/> </a>
+<img src="images/user.png" width="16"/></a> **Flávia M. Durgante** (KIT/INPA/MAUA/ATTO) <a href="http://lattes.cnpq.br/9866263113578229" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-5517-8821" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
 ## Colaboradores
 
-👤 **Florian Wittmann** (KIT/MAUA/ATTO) <a href="http://lattes.cnpq.br/5130662662509830" target="_blank"> ![](https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png){width="18"} </a>
+<img src="images/user.png" width="16"/></a> **Florian Wittmann** (KIT/MAUA/ATTO) <a href="http://lattes.cnpq.br/5130662662509830" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0001-9180-356X" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
-👤 **Jochen Schöngart** (INPA/MAUA/ATTO) <a href="http://lattes.cnpq.br/2468979908831549" target="_blank"> ![](https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png){width="18"} </a>
+<img src="images/user.png" width="16"/></a> **Jochen Schöngart** (INPA/MAUA/ATTO) <a href="http://lattes.cnpq.br/2468979908831549" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7696-9657" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
-👤 **Maria T. F. Piedade** (INPA/ATTO/MAUA) <a href="http://lattes.cnpq.br/0626509177712805" target="_blank"> ![](https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png){width="18"} </a>
+<img src="images/user.png" width="16"/></a> **Maria T. F. Piedade** (INPA/ATTO/MAUA) <a href="http://lattes.cnpq.br/0626509177712805" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7320-0498" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
-👤 **Layon O. Demarchi** (INPA/MAUA) <a href="http://lattes.cnpq.br/2504309339279053" target="_blank"> ![](https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png){width="18"} </a>
+<img src="images/user.png" width="16"/></a> **Layon O. Demarchi** (INPA/MAUA) <a href="http://lattes.cnpq.br/2504309339279053" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0001-8441-2106" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
-👤 **Alberto Vicentini** (INPA) <a href="http://lattes.cnpq.br/1416853089847332" target="_blank"> ![](https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png){width="18"} </a>
+<img src="images/user.png" width="16"/></a> **Alberto Vicentini** (INPA) <a href="http://lattes.cnpq.br/1416853089847332" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-5906-9358" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
-👤 **Michael J. G. Hopkins** (INPA) <a href="http://lattes.cnpq.br/5738793047673962" target="_blank"> ![](https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png){width="18"} </a>
+<img src="images/user.png" width="16"/></a> **Michael J. G. Hopkins** (INPA) <a href="http://lattes.cnpq.br/5738793047673962" target="_blank"> <img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0001-5473-2942" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
-👤 **Hilana L. Hadlich** (INPA/MAUA) <a href="http://lattes.cnpq.br/2228944258807319" target="_blank"> ![](https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png){width="18"} </a>
+<img src="images/user.png" width="16"/></a> **Caroline C. Vasconcelos** (INPA) <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7850-6672" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
-👤 **Caroline L. Mallmann** (UFSM/MAUA) <a href="http://lattes.cnpq.br/2812901246354210" target="_blank"> ![](https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png){width="18"} </a>
+<img src="images/user.png" width="16"/></a> **Hilana L. Hadlich** (INPA/MAUA) <a href="http://lattes.cnpq.br/2228944258807319" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-3054-8574" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
-👤 **Kelly C. Torralvo** (IDSM) <a href="http://lattes.cnpq.br/8990804799144033" target="_blank"> ![](https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png){width="18"} </a>
+<img src="images/user.png" width="16"/></a> **Caroline L. Mallmann** (UFSM/MAUA) <a href="http://lattes.cnpq.br/2812901246354210" ttarget="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-2967-1313" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
-👤 **Rafael M. Rabelo** (IDSM) <a href="http://lattes.cnpq.br/5351330534364245" target="_blank"> ![](https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png){width="18"} </a>
+<img src="images/user.png" width="16"/></a> **Kelly C. Torralvo** (IDSM) <a href="http://lattes.cnpq.br/8990804799144033" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0001-8089-7652" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
-👤 **Darlene Gris** (IDSM) <a href="http://lattes.cnpq.br/9797541704067903" target="_blank"> ![](https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png){width="18"} </a>
+<img src="images/user.png" width="16"/></a> **Rafael M. Rabelo** (IDSM) <a href="http://lattes.cnpq.br/5351330534364245" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0001-5290-7024" target="_blank"><img src="images/orcid.png" width="18"/></a>
+
+<img src="images/user.png" width="16"/></a> **Darlene Gris** (IDSM) <a href="http://lattes.cnpq.br/9797541704067903" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0003-1165-9997" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
 ## Bolsistas
 
-👤 **Caroline C. Vasconcelos** (INPA) - Bolsista FAPEAM AT/III <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"> ![](https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png){width="18"} </a>
+<img src="images/user.png" width="16"/></a> **Samyra Ramos Chaves** (INPA) - Bolsista FAPEAM AT/III <a href="http://lattes.cnpq.br/1333559162162849" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-Subprojeto: Rumo a uma biblioteca espectral: reconhecendo espécies arbóreas comerciais por meio dos espectros das folhas. Início: 2025. Supervisão: Flávia Durgante.
+Subprojeto: Rumo a uma biblioteca espectral: reconhecendo espécies arbóreas comerciais por meio dos espectros das folhas. Início: Dez/2025. Supervisão: Flávia Durgante.
 
-👤 **Maria Clara Abreu Mota de Oliveira Ramos Ferro** (INPA) - Bolsista CAPES Mestrado <a href="http://lattes.cnpq.br/8490385946321507" target="_blank"> ![](https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png){width="18"} </a>
+<img src="images/user.png" width="16"/></a> **Maria Clara Abreu Mota de Oliveira Ramos Ferro** (INPA) - Bolsista CAPES Mestrado <a href="http://lattes.cnpq.br/8490385946321507" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-Subprojeto: Material de fundo importa? Testando padrões de reflectância na espectroscopia de folhas herborizadas em diferentes tipos de materiais de fundo e sua eficácia na discriminação de espécies. Início: 2025. Supervisão: Flávia Durgante.
+Subprojeto: Material de fundo importa? Testando padrões de reflectância na espectroscopia de folhas herborizadas em diferentes tipos de materiais de fundo e sua eficácia na discriminação de espécies. Início: Mar/2025. Supervisão: Flávia Durgante.
 
-👤 **Eduardo Leandro Cunha** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/2142166621987119" target="_blank"> ![](https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png){width="18"} </a>
+<img src="images/user.png" width="16"/></a> **Eduardo Leandro Cunha** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/2142166621987119" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-Subprojeto: Inteligência artificial aplicada à taxonomia de *Ecclinusa* (Sapotaceae): validação espectral e interoperabilidade com espectrômetros portáteis. Início: 2025. Supervisão: Michael Hopkins, Caroline Vasconcelos e Flávia Durgante.
+Subprojeto: Inteligência artificial aplicada à taxonomia de *Ecclinusa* (Sapotaceae): validação espectral e interoperabilidade com espectrômetros portáteis. Início: Set/2025. Supervisão: Michael Hopkins, Caroline Vasconcelos e Flávia Durgante.
 
-👤 **Eliandra Rodrigues Ferreira** (Estácio) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/3358526069960413" target="_blank"> ![](https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png){width="18"} </a>
+<img src="images/user.png" width="16"/></a> **Eliandra Rodrigues Ferreira** (Estácio) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/3358526069960413" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-Subprojeto: Desenvolvimento de bibliotecas espectrais para identificação de espécies no Herbário INPA: um estudo com Fabaceae e Meliaceae. Início: 2025. Supervisão: Michael Hopkins, Flávia Durgante e Caroline Vasconcelos.
+Subprojeto: Desenvolvimento de bibliotecas espectrais para identificação de espécies no Herbário INPA: um estudo com Fabaceae e Meliaceae. Início: Set/2025. Supervisão: Michael Hopkins, Flávia Durgante e Caroline Vasconcelos.
 
-👤 **Yasmin Jéssica Guimarães Guedes** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/7129000327997949" target="_blank"> ![](https://ibpw.org.br/wp-content/uploads/2021/02/icon-lattes.png){width="18"} </a>
+<img src="images/user.png" width="16"/></a> **Yasmin Jéssica Guimarães Guedes** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/7129000327997949" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-Subprojeto: Construção de biblioteca espectral aplicada à identificação de Bignoniaceae no Herbário INPA. Início: 2025. Supervisão: Michael Hopkins, Flávia Durgante e Caroline Vasconcelos.
+Subprojeto: Construção de biblioteca espectral aplicada à identificação de Bignoniaceae no Herbário INPA. Início: Set/2025. Supervisão: Michael Hopkins, Flávia Durgante e Caroline Vasconcelos.
+
+<img src="images/user.png" width="16"/></a> **Caroline C. Vasconcelos** (INPA) - Bolsista FAPEAM AT/III <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7850-6672" target="_blank"><img src="images/orcid.png" width="18"/></a>
+
+Subprojeto: Rumo a uma biblioteca espectral: reconhecendo espécies arbóreas comerciais por meio dos espectros das folhas. Início: Jan/2025. Término: Nov/2025. Supervisão: Flávia Durgante.
 
 # Cursos oferecidos
 
@@ -77,6 +83,10 @@ Subprojeto: Construção de biblioteca espectral aplicada à identificação de 
 
 O projeto SPECTRA POP é financiado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - Mulher Faz Ciência, e apoiado pelo Herbário INPA via Chamada pública MCTI/FINEP/FNDCT no. 02/2016 – Centros Nacionais Multiusuários.
 
-# Parcerias institucionais
+# Financiamento
 
-![](images/logos.png)
+![](images/financiamento.png)
+
+# Realização
+
+![](images/realizacao.png)

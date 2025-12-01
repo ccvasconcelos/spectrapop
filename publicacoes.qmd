@@ -12,6 +12,8 @@ title: "Publicações"
 
 # Artigos científicos
 
+-  Durgante FM, CC Vasconcelos, HL Hadlich, CL Mallmann, RO Perdiz, KCM Cunha, C Paquini, K Torralvo, M Hopkins, J Schöngart, MTF Piedade, PA Sá, MLG Conde, & F Wittmann. **Portable spectrometer as a low-cost tool for tree species identification in herbaria and field studies**. Submetido, 2025.
+
 -   Hadlich HL, J Schöngart, F Wittmann, CC Vasconcelos, CL Mallmann, MLG Conde, PA Sá, LO Demarchi, GB Mori, MTF Piedade, & FM Durgante. 2025. **Exploring the potential of field spectroscopy for tree species identification in different Amazonian forest ecosystems**. *Global Ecology and Conservation*, 54: e03970. DOI: <https://doi.org/10.1016/j.gecco.2025.e03970>
 
 -   Cavender-Bares J, DM White, NI Ahlstrand, M Austin, D Bastianelli, S Bazan, K Boughalmi, W Cardinal-McTeague, E Chacón-Madrigal, TLP Couvreur, C Davis, FM Durgante, OM Grace, JA Guzmán, K Hansen, MS Hernández-Leal, MJG Hopkins, R Jackson, S Kothari, AK Lee, E Léveillé-Bourret, J Pinto-Ledezma, NLQ Casaverde, JE Meireles, B Neto-Bradley, CO Nichodemus, RH Ree, M Schmull, DE Soltis, PS Soltis, H Tuomisto, S Ustin, & CC Vasconcelos. 2025. **Next-generation specimen digitization: capturing reflectance spectra from the world's herbaria for modeling plant biology across time, space, and taxa**. *New Phytologist* (version of record). DOI: <https://doi.org/10.1111/nph.70645>

@@ -191,4 +191,9 @@ Este curso é parte do Projeto “Popularização do uso da Assinatura Espectral
 
 \*Ouvintes (virtuais e presenciais) não terão direito a certificado.
 
-<img src="fotos/1.jpg" class="slide" style="width:100%; display:block;"/>
+<figure style="text-align:center;">
+  <img src="fotos/1.jpg" class="slide" style="width:100%; display:block;"/>
+  <figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+        Participantes do 1º Curso do Projeto SpectraPop, Herbário INPA, abril de 2025.
+  </figcaption>
+</figure>
