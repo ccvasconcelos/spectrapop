@@ -83,8 +83,6 @@ Subprojeto: Rumo a uma biblioteca espectral: reconhecendo espécies arbóreas co
 
 O projeto SPECTRA POP é financiado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - Mulher Faz Ciência, e apoiado pelo Herbário INPA via Chamada pública MCTI/FINEP/FNDCT no. 02/2016 – Centros Nacionais Multiusuários.
 
-# Financiamento
-
 ![](images/financiamento.png)
 
 # Realização
