@@ -1,5 +1,5 @@
 ---
-title: Conheça nossos alunos de Iniciação Científica (PIBIC/INPA 2025–2026) [Portuguese text]
+title: Conheça nossos alunos de Iniciação Científica (PIBIC/INPA 2025–2026)
 date: '2025-12-06'
 slug: conheca-nossos-pibics-2025
 tags:
