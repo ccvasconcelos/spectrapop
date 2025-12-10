@@ -19,13 +19,16 @@ website:
           - text: "3º Curso (2026)"
             href: cursos/cursomicronir3.qmd
           - text: "4º Curso (2026)"
-            href: cursos/cursoparabotanicos.qmd
+            href: cursos/cursoauxiliardecampo.qmd
    #       - text: "Galeria de Fotos"
    #         href: cursos/galeria.qmd
 
 
-      - text: "Publicações"
-        href: publicacoes.qmd
+      - text: "Produção Intelectual"
+        href: producaointelectual.qmd
+      
+      - text: "Biblioteca Espectral"
+        href: biblioteca.qmd
         
       - text: "Blog"
         menu:
@@ -36,7 +39,7 @@ website:
         href: contato.qmd
     
   page-footer:
-    center: "Copyright © 2025 Projeto SpectraPop (Grupo de Estudos Espectrais da Biodiversidade - Biodivspec)"
+    center: "© 2025 Projeto SpectraPop (Grupo de Estudos Espectrais da Biodiversidade)"
     
 
 format:

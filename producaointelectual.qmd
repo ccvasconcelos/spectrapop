@@ -1,0 +1,35 @@
+---
+title: "Produção Intelectual"
+---
+
+## Artigos científicos
+
+-  Durgante FM, CC Vasconcelos, HL Hadlich, CL Mallmann, RO Perdiz, KCM Cunha, C Paquini, K Torralvo, M Hopkins, J Schöngart, MTF Piedade, PA Sá, MLG Conde, & F Wittmann. **Portable spectrometer as a low-cost tool for tree species identification in herbaria and field studies**. Submetido ao periódico *Plant Methods*, 2025.
+
+-   Hadlich HL, J Schöngart, F Wittmann, CC Vasconcelos, CL Mallmann, MLG Conde, PA Sá, LO Demarchi, GB Mori, MTF Piedade, & FM Durgante. 2025. **Exploring the potential of field spectroscopy for tree species identification in different Amazonian forest ecosystems**. *Global Ecology and Conservation*, 54: e03970. DOI: <https://doi.org/10.1016/j.gecco.2025.e03970>
+
+-   Cavender-Bares J, DM White, NI Ahlstrand, M Austin, D Bastianelli, S Bazan, K Boughalmi, W Cardinal-McTeague, E Chacón-Madrigal, TLP Couvreur, C Davis, FM Durgante, OM Grace, JA Guzmán, K Hansen, MS Hernández-Leal, MJG Hopkins, R Jackson, S Kothari, AK Lee, E Léveillé-Bourret, J Pinto-Ledezma, NLQ Casaverde, JE Meireles, B Neto-Bradley, CO Nichodemus, RH Ree, M Schmull, DE Soltis, PS Soltis, H Tuomisto, S Ustin, & CC Vasconcelos. 2025. **Next-generation specimen digitization: capturing reflectance spectra from the world's herbaria for modeling plant biology across time, space, and taxa**. *New Phytologist* (version of record). DOI: <https://doi.org/10.1111/nph.70645>
+
+-   Vasconcelos CC, IDK Ferraz, FM Durgante, F Wittmann, J Schöngart, MTF Piedade, JLC Camargo, & MH Terra-Araujo. 2025. ***Ecclinusa nervosa*** **(Sapotaceae, Chrysophylloideae), a new species discovered in Central Amazonia**. *Systematic Botany* 50(1): 55-66. DOI: <https://doi.org/10.1600/036364425X17466502618821>
+
+## Material instrucional
+
+-   White DM, NI Ahlstrand, MW Austin, D Bastianelli, S Bazan, K Boughalmi, W Cardinal-McTeague, TLP Couvreur, F Durgante, OM Grace, JA Guzmán Q, K Hansen, M Hopkins, R Jackson, JA Kennedy, S Kothari, AK Lee, É Léveillé-Bourret, JE Meireles, BM Neto-Bradley, CO Nichodemus, NL Quinteros Casaverde, C Rodrigues-Vaz, M Schmull, PS Soltis, D Spalink, CC Vasconcelos, JL Viana, H Tuomisto, T Wells, & J Cavender-Bares. 2025. **IHerbSpec Protocol**. *Zenodo*. DOI: <https://doi.org/10.5281/zenodo.15849668>
+
+-   Vasconcelos CC & FM Durgante. 2025. **R codes and datasets used in the course 'Herbarium Spectroscopy with MicroNIR: theory and practice'**. *Zenodo*. DOI: <https://doi.org/10.5281/zenodo.15531968>
+
+- Vasconcelos CC, MCAMOR Abreu, SR Chaves, MJG Hopkins, & FM Durgante. \[em produção\] **Manual de operação e uso dos espectrômetros portáteis (MicroNIRs modelo NIR-S-G1, InnoSpectra, Taiwan) focados em espécimes de herbário**.
+
+## Eventos
+
+- Lima KT, KAL Santos, JB Moreira, CC Vasconcelos, FM Durgante, & HS Pereira. 2025. Pôster: **Espectroscopia NIR aplicada à identificação de etnovariedades de *Ananas comosus***. *In:* XXI Semana de Agronomia (SEMAGRO), Universidade Federal do Amazonas (UFAM), Manaus, AM, Brasil.
+
+- Durgante FM, JL Viana, CC Vasconcelos, HL Hadlich, & CL Mallmann. Simpósio: **Espectroscopia aplicada à identificação de plantas: avanços para herbários, manejo e conservação**. *In:* 75° Congresso Nacional de Botânica e 39ª Reunião Nordestina de Botânica, Universidade Federal do Delta do Parnaíba (UFDPar), Parnaíba, PI, Brasil. 
+
+- Os nossos bolsistas do PIBIC/INPA — Eduardo Cunha, Eliandra Rodrigues e Yasmin Guedes — participaram da 22ª Semana Nacional de Ciência e Tecnologia do INPA, realizada nos dias 21, 22 e 23 de outubro de 2025. Eles integraram a equipe do Herbário INPA na divulgação das atividades desenvolvidas na coleção, apresentando ao público um pouco do trabalho científico que realizam no dia a dia.
+
+## Aplicações web
+
+-  Vasconcelos CC & FM Durgante. 2025. `iscreader app` (<https://spectrapop.shinyapps.io/iscreaderapp/>) - Aplicação web desenvolvida para facilitar a importação, visualização e processamento de arquivos brutos gerados pelo espectrômetro portátil MicroNIR modelo NIR-S-G1 (InnoSpectra Corp).
+
+-  Vasconcelos CC & FM Durgante. 2025. `multispecreader app` (<https://spectrapop.shinyapps.io/multispecreaderapp/>) - Aplicação web desenvolvida para facilitar a importação, visualização e processamento de arquivos brutos gerados pelos espectrômetros Antaris™ II (FT-NIR Analyzer, Thermo Fisher Scientific Inc.) e ASD FieldSpec® (Malvern Panalytical Ltd).

@@ -1,0 +1,14 @@
+---
+title: "Biblioteca Espectral"
+format:
+  html:
+    theme: cosmo
+---
+
+Mais informações em breve! ⚠️
+
+<a href="">
+  <button style="background-color:#0e0740 ; color:white; border:none; padding:10px 18px; border-radius:6px;">
+    Acessar Dashboard
+  </button>
+</a>
