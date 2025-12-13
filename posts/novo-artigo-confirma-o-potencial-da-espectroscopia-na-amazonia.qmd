@@ -1,0 +1,61 @@
+"
+
+---
+title: Novo artigo do projeto SpectraPop confirma o potencial da espectroscopia na Amazônia
+date: '2025-12-12'
+slug: novo-artigo-confirma-o-potencial-da-espectroscopia-na-amazonia
+subtitle: 'Você sabia que identificar árvores na Amazônia é um dos maiores desafios para a ciência e para o manejo florestal?'
+summary: ''
+authors:
+  - name: 'Caroline C. Vasconcelos'
+    url: 'https://ccvasconcelos.github.io/pt/'
+lastmod: '2025-12-12T22:53:02-04:00'
+---
+
+Com milhares de espécies e pouquíssimos especialistas taxonômicos, erros de identificação são comuns e podem prejudicar a conservação da biodiversidade e a economia da floresta. Mas e se pudéssemos identificar uma árvore apenas pela forma como ela reflete a luz?
+
+É com muito orgulho que divulgamos a mais recente publicação produzida no âmbito do nosso projeto! O artigo **“Exploring the potential of field spectroscopy for tree species identification in different Amazonian forest ecosystems”**, liderado por Hilana Hadlich e com participação da nossa coordenadora Flávia Durgante e equipe, acaba de ser publicado na revista *Global Ecology and Conservation*.
+
+<figure>
+
+![](/images/hilana%20e%20equipe.jpg)
+
+<figcaption style="font-size: 0.8em;">
+
+Pesquisadoras Caroline Mallmann (esquerda) e Hilana Hadlich (direta) e os assistentes de campo, coletando espectros de casca em uma floresta de terra-firme no Sítio ATTO. Foto cedida por Hilana Hadlich.
+
+</figcaption>
+
+</figure>
+
+------------------------------------------------------------------------
+
+# O que o estudo descobriu?
+
+A pesquisa testou o uso de um espectrorradiômetro portátil (o ASD FieldSpec 4) para ler a “assinatura espectral” de árvores em três ecossistemas distintos da Amazônia Central: a floresta de terra-firme, a campinarana (solo de areia branca) e o igapó (floresta inundável).
+
+Os pesquisadores coletaram dados de três partes diferentes das árvores: casca externa (direto no tronco), casca interna (após retirar superficialmente a casca externa), e folhas frescas.
+
+# Resultados surpreendentes
+
+O estudo mostrou que a espectroscopia é uma ferramenta poderosa! Os modelos conseguiram diferenciar as espécies com altíssima precisão:
+
+• 🍃 Folhas Frescas: Foram as campeãs, com precisão entre 92,4% e 100% na identificação das espécies.
+
+• 🪵 Casca Interna: Se mostrou uma excelente alternativa para o campo! Como coletar folhas no alto da copa é difícil e caro, a casca interna atingiu precisão de 91% a 97%, quase tão boa quanto as folhas e muito mais acessível.
+
+• 🌳 Modelo Geral: Uma das maiores descobertas foi que é possível criar um modelo “geral” que funciona para todos esses ecossistemas juntos, mantendo uma alta taxa de acerto (até 98% para folhas e 97% para casca interna).
+
+# Por que isso é importante para o SpectraPop?
+
+Este trabalho valida cientificamente o objetivo central do nosso projeto: popularizar o uso da assinatura espectral para a identificação de espécies de alto valor comercial.
+
+Os resultados provam que essa tecnologia funciona não apenas em um local, mas em diferentes tipos de floresta e até mesmo quando testada em árvores localizadas a centenas de quilômetros de distância (validação externa). Isso abre portas para um futuro onde inventários florestais serão mais rápidos, precisos e tecnológicos, apoiando diretamente o manejo sustentável no estado do Amazonas.
+
+# Quer saber mais?
+
+Este estudo contou com financiamento da FAPEAM (Edital Mulher Faz Ciência) e apoio do projeto ATTO (Amazon Tall Tower Observatory) e do grupo de pesquisa MAUA (Ecologia, Monitoramento e Uso Sustentável de Áreas Úmidas).
+
+🔗 Acesse o artigo completo aqui: <https://doi.org/10.1016/j.gecco.2025.e03970> (acesso aberto)
+
+Fique ligado(a) no nosso blog para mais novidades!

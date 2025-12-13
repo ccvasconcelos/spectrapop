@@ -15,7 +15,7 @@ Além disso, o curso busca identificar desafios práticos no uso do equipamento,
 
 # Detalhes do curso
 
-**Onde:** Instituto Nacional de Pesquisas da Amazônia (INPA, campus I), Av. André Araújo, 2.936 - 69067-375 - Petrópolis, Manaus, Amazonas.
+**Onde:** Sala de aula do PPG-Botânica e Herbário INPA, Instituto Nacional de Pesquisas da Amazônia (INPA, campus I), Av. André Araújo, 2.936 - 69067-375 - Petrópolis, Manaus, Amazonas.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(leaflet)
@@ -32,7 +32,7 @@ leaflet() %>%
 
 **Carga horária:** 18h (com emissão de certificado de participação).\
 
-**Formato:** Híbrido, com aulas teóricas virtuais e aulas práticas presenciais. Para as atividades práticas, quatro *laptops* estarão disponíveis, e os participantes serão organizados em quatro grupos.
+**Formato:** Híbrido, contemplando aulas teóricas ministradas em ambiente virtual, com opção de participação presencial em sala de aula no INPA, e aulas práticas exclusivamente presenciais. Para as atividades práticas, quatro laptops estarão disponíveis, e os participantes serão organizados em quatro grupos.
 
 **Material:** Slides, *scripts* e dados obtidos durante o curso serão disponibilizados diretamente aos alunos ou via [GitHub](https://github.com/ccvasconcelos/spectrapop).
 
@@ -54,15 +54,15 @@ As sessões da tarde serão entre 14h00 e 17h00 (horário padrão do Amazonas).
 
 ## Linha do tempo
 
-### Dia 1 (quarta-feira)
+### Dia 1 (quarta-feira, 17/dez)
 
 #### Manhã (Flávia)
 
 Fundamentos teóricos da espectroscopia NIR e suas aplicações
 
-Link para acessar a aula: [[https://meet.jit.si/Spectrapop]{.underline}](https://meet.jit.si/Spectrapop)
+Link para acessar a aula: <https://meet.jit.si/CursoSpectraPop>
 
-Link para acessar a lista de presença: \[em breve\]
+Link para acessar a lista de presença: <https://forms.gle/a2zAf1EhNPwFJcek6>
 
 Vídeo Tour do Espectro Eletromagnético (NASA): <https://www.youtube.com/watch?v=2p7FPFvu_j0>
 
@@ -76,17 +76,17 @@ Vídeo Tour do Espectro Eletromagnético (NASA): <https://www.youtube.com/watch?
 
 -   Entendendo os arquivos de saída
 
-Link para acessar a lista de presença: \[em breve\]
+Link para acessar a lista de presença: <https://forms.gle/UUx6esK5UtvfUoNs5>
 
-### Dia 2 (quinta-feira)
+### Dia 2 (quinta-feira, 18/dez)
 
 #### Manhã (Luiz e Caroline)
 
-Operações com o micronir e exercício prático de aquisição espectros. \[Grupo de espécies a ser selecionado\]
+Operações com o micronir e exercício prático de aquisição espectros.
 
-Obtenção de metadados associados aos espécimes de herbário
+Obtenção de metadados associados aos espécimes de herbário.
 
-Link para acessar a lista de presença: \[em breve\]
+Link para acessar a lista de presença: <https://forms.gle/fWo12i6eGNRvphZ38>
 
 #### Tarde (Caroline)
 
@@ -98,17 +98,17 @@ Link para acessar a lista de presença: \[em breve\]
 
 -   Como preparar os conjuntos de dados para análise
 
-Link para acessar a lista de presença: \[em breve\]
+Link para acessar a lista de presença: <https://forms.gle/6rTMCeVAexLfMfeN8>
 
-### Dia 3 (sexta-feira)
+### Dia 3 (sexta-feira, 19/dez)
 
 #### Manhã (Flávia)
 
 Fundamentos teóricos da espectroscopia NIR e suas aplicações
 
-Link para acessar a aula: [[https://meet.jit.si/Spectrapop]{.underline}](https://meet.jit.si/Spectrapop)
+Link para acessar a aula: <https://meet.jit.si/CursoSpectraPop>
 
-Link para acessar a lista de presença: \[em breve\]
+Link para acessar a lista de presença: <https://forms.gle/TzM6XT7Y8AfPhQ8F7>
 
 #### Tarde (Caroline)
 
@@ -118,23 +118,23 @@ Link para acessar a lista de presença: \[em breve\]
 
 -   Responder formulário de aproveitamento do curso
 
-Link para acessar a lista de presença: \[em breve\]
+Link para acessar a lista de presença: <https://forms.gle/metm2uActUHtmSZr7>
 
-Link para acessar acessar o formulário de feedback: \[em breve\]
+Link para acessar acessar o formulário de feedback: <https://forms.gle/GPvYc9k3WZgeBdXX8>
 
 # Equipe de organização e treinamento
 
-👤Profa. Dra. [Flávia Durgante](http://lattes.cnpq.br/9866263113578229) (Coordenadora do Projeto SpectraPop), KIT/ INPA/MAUA
+Profa. Dra. [Flávia Durgante](http://lattes.cnpq.br/9866263113578229) (Coordenadora do Projeto SpectraPop), KIT/ INPA/MAUA/ATTO
 
-👤Dra. [Caroline Vasconcelos](http://lattes.cnpq.br/1535461703335857) (Bolsista AT/III do Projeto SpectraPop), INPA
+![](/images/user.png){width="16"} Dra. [Caroline Vasconcelos](http://lattes.cnpq.br/1535461703335857) (Bolsista do Projeto SpectraPop), INPA
 
-👤Prof. Dr. [Michael Hopkins](http://lattes.cnpq.br/5738793047673962) (Colaborador), Curadoria do Herbário INPA
+![](/images/user.png){width="16" style="font-size: 11pt;"} Prof. Dr. [Michael Hopkins](http://lattes.cnpq.br/5738793047673962) (Colaborador), Curadoria do Herbário INPA
 
-👤Dra. [Samyra Ramos](http://lattes.cnpq.br/1333559162162849) (Colaboradora), INPA
+![](/images/user.png){width="16" style="font-size: 11pt;"} Dra. [Samyra Ramos](http://lattes.cnpq.br/1333559162162849) (Colaboradora), INPA
 
-👤Me. [Kaio Cunha](http://lattes.cnpq.br/2664299098538335) (Colaborador), INPA
+![](/images/user.png){width="16" style="font-size: 11pt;"} Me. [Kaio Cunha](http://lattes.cnpq.br/2664299098538335) (Colaborador), INPA
 
-👤Me. [Luiz Melo](http://lattes.cnpq.br/0848738423393318) (Colaborador), INPA
+![](/images/user.png){width="16" style="font-size: 11pt;"} Me. [Luiz Melo](http://lattes.cnpq.br/0848738423393318) (Colaborador), INPA
 
 # Financiamento
 
@@ -144,30 +144,34 @@ Este curso é parte do Projeto “Popularização do uso da Assinatura Espectral
 
 Lista atualizada em 10-12-2025:
 
-1.	Álvaro Brasil Barbosa Neto
-2.	Ana Leticia Reis Almeida
-3.	Ana Paula Alfaia Castro
-4.	Caris Viana
-5.	Cristiane Cunha Guimarães
-6.	Douglas de Moraes Couceiro
-7.	Eduardo Cunha
-8.	Eliandra Rodrigues
-9.	Flávia Dayane Félix Farias
-10.	Giovanni Melo de Lima
-11.	Jaqueline Ferreira Gomes
-12.	Jéssica Iara Soares
-13.	Katell Uguen
-14.	Kellen Trajano de Lima
-15.	Maria Clara Ferro
-16.	Patricia Alfaia Pereira
-17.	Paula Ribeiro
-18.	Sérgio Dantas de Oliveira Júnior
-19.	Tiago Cabral Nóbrega
-20.	Túlio Alex Martins
+1.  Álvaro Brasil Barbosa Neto
+2.  Ana Leticia Reis Almeida
+3.  Ana Paula Alfaia Castro
+4.  Caris Viana
+5.  Cristiane Cunha Guimarães
+6.  Douglas de Moraes Couceiro
+7.  Eduardo Cunha
+8.  Eliandra Rodrigues
+9.  Flávia Dayane Félix Farias
+10. Giovanni Melo de Lima
+11. Jaqueline Ferreira Gomes
+12. Jéssica Iara Soares
+13. Katell Uguen
+14. Kellen Trajano de Lima
+15. Maria Clara Ferro
+16. Patricia Alfaia Pereira
+17. Paula Ribeiro
+18. Sérgio Dantas de Oliveira Júnior
+19. Tiago Cabral Nóbrega
+20. Túlio Alex Martins
 
 **Ouvintes (participação parcial)\***
 
 1.  Yasmin Guimarães - Virtual
-
+2.  Ana Luiza Tuma - Virtual
 
 \*Ouvintes (virtuais e presenciais) não terão direito a certificado.
+
+# Certificados
+
+Para gerar seu certificado preencha o formulário: <https://forms.gle/XGg3XCmdMGUPxqCq9>

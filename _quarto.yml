@@ -34,6 +34,9 @@ website:
         menu:
           - text: "Conheça nossos alunos de Iniciação Científica (PIBIC/INPA 2025–2026)"
             href: posts/conheca-nossos-pibics-2025.qmd
+            
+          - text: "Novo artigo confirma o potencial da espectroscopia na Amazônia"
+            href: posts/novo-artigo-confirma-o-potencial-da-espectroscopia-na-amazonia.qmd
                   
       - text: "Contato"
         href: contato.qmd
