@@ -1,5 +1,3 @@
-"
-
 ---
 title: Novo artigo do projeto SpectraPop confirma o potencial da espectroscopia na Amazônia
 date: '2025-12-12'
@@ -56,6 +54,6 @@ Os resultados provam que essa tecnologia funciona não apenas em um local, mas e
 
 Este estudo contou com financiamento da FAPEAM (Edital Mulher Faz Ciência) e apoio do projeto ATTO (Amazon Tall Tower Observatory) e do grupo de pesquisa MAUA (Ecologia, Monitoramento e Uso Sustentável de Áreas Úmidas).
 
-🔗 Acesse o artigo completo aqui: <https://doi.org/10.1016/j.gecco.2025.e03970> (acesso aberto)
+🔗 Acesse o artigo completo aqui: <https://doi.org/10.1016/j.gecco.2025.e03970> ![](/images/Open_Access_logo_PLoS_transparent.svg.png){width="10" height="14"}
 
 Fique ligado(a) no nosso blog para mais novidades!

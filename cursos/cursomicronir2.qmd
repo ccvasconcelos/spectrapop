@@ -124,7 +124,7 @@ Link para acessar acessar o formulário de feedback: <https://forms.gle/GPvYc9k3
 
 # Equipe de organização e treinamento
 
-Profa. Dra. [Flávia Durgante](http://lattes.cnpq.br/9866263113578229) (Coordenadora do Projeto SpectraPop), KIT/ INPA/MAUA/ATTO
+![](images/clipboard-768440372.png){width="16"} Profa. Dra. [Flávia Durgante](http://lattes.cnpq.br/9866263113578229) (Coordenadora do Projeto SpectraPop), KIT/ INPA/MAUA/ATTO
 
 ![](/images/user.png){width="16"} Dra. [Caroline Vasconcelos](http://lattes.cnpq.br/1535461703335857) (Bolsista do Projeto SpectraPop), INPA
 
@@ -142,7 +142,7 @@ Este curso é parte do Projeto “Popularização do uso da Assinatura Espectral
 
 # Participantes
 
-Lista atualizada em 10-12-2025:
+Lista atualizada em 15-12-2025:
 
 1.  Álvaro Brasil Barbosa Neto
 2.  Ana Leticia Reis Almeida
@@ -162,8 +162,7 @@ Lista atualizada em 10-12-2025:
 16. Patricia Alfaia Pereira
 17. Paula Ribeiro
 18. Sérgio Dantas de Oliveira Júnior
-19. Tiago Cabral Nóbrega
-20. Túlio Alex Martins
+19. Túlio Alex Martins
 
 **Ouvintes (participação parcial)\***
 
