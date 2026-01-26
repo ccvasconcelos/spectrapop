@@ -1,18 +1,18 @@
 ---
-title: Novo artigo do projeto SpectraPop confirma o potencial da espectroscopia na Amazônia
-date: '2025-12-12'
+title: 'Novo artigo do projeto SpectraPop confirma o potencial da espectroscopia na Amazônia'
+date: '2025-11-24'
 slug: novo-artigo-confirma-o-potencial-da-espectroscopia-na-amazonia
 subtitle: 'Você sabia que identificar árvores na Amazônia é um dos maiores desafios para a ciência e para o manejo florestal?'
 summary: ''
 authors:
   - name: 'Caroline C. Vasconcelos'
     url: 'https://ccvasconcelos.github.io/pt/'
-lastmod: '2025-12-12T22:53:02-04:00'
+lastmod: '2025-11-24T22:00:00-04:00'
 ---
 
 Com milhares de espécies e pouquíssimos especialistas taxonômicos, erros de identificação são comuns e podem prejudicar a conservação da biodiversidade e a economia da floresta. Mas e se pudéssemos identificar uma árvore apenas pela forma como ela reflete a luz?
 
-É com muito orgulho que divulgamos a mais recente publicação produzida no âmbito do nosso projeto! O artigo **“Exploring the potential of field spectroscopy for tree species identification in different Amazonian forest ecosystems”**, liderado por Hilana Hadlich e com participação da nossa coordenadora Flávia Durgante e equipe, acaba de ser publicado na revista *Global Ecology and Conservation*.
+É com muito orgulho que divulgamos a mais recente publicação produzida no âmbito do nosso projeto! O artigo **“Exploring the potential of field spectroscopy for tree species identification in different Amazonian forest ecosystems”**, em Português **"Explorando o potencial da espectroscopia de campo para a identificação de espécies arbóreas em diferentes ecossistemas florestais da Amazônia"**, liderado por Hilana Hadlich e com participação da nossa coordenadora Flávia Durgante e equipe, acaba de ser publicado na revista de alto impacto *Global Ecology and Conservation*.
 
 <figure>
 

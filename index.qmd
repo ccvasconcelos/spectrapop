@@ -47,27 +47,15 @@ Desenvolver e popularizar o herbário espectral (espectroscopia no infravermelho
 
 <img src="images/user.png" width="16"/></a> **Samyra Ramos Chaves** (INPA) - Bolsista FAPEAM AT/III <a href="http://lattes.cnpq.br/1333559162162849" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-Subprojeto: Rumo a uma biblioteca espectral: reconhecendo espécies arbóreas comerciais por meio dos espectros das folhas. Início: Dez/2025. Supervisão: Flávia Durgante.
-
 <img src="images/user.png" width="16"/></a> **Maria Clara Abreu Mota de Oliveira Ramos Ferro** (INPA) - Bolsista CAPES Mestrado <a href="http://lattes.cnpq.br/8490385946321507" target="_blank"><img src="images/lattes.png" width="18"/></a>
-
-Subprojeto: Material de fundo importa? Testando padrões de reflectância na espectroscopia de folhas herborizadas em diferentes tipos de materiais de fundo e sua eficácia na discriminação de espécies. Início: Mar/2025. Supervisão: Flávia Durgante.
 
 <img src="images/user.png" width="16"/></a> **Eduardo Leandro Cunha** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/2142166621987119" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-Subprojeto: Inteligência artificial aplicada à taxonomia de *Ecclinusa* (Sapotaceae): validação espectral e interoperabilidade com espectrômetros portáteis. Início: Set/2025. Supervisão: Michael Hopkins, Caroline Vasconcelos e Flávia Durgante.
-
 <img src="images/user.png" width="16"/></a> **Eliandra Rodrigues Ferreira** (Estácio) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/3358526069960413" target="_blank"><img src="images/lattes.png" width="18"/></a>
-
-Subprojeto: Desenvolvimento de bibliotecas espectrais para identificação de espécies no Herbário INPA: um estudo com Fabaceae e Meliaceae. Início: Set/2025. Supervisão: Michael Hopkins, Flávia Durgante e Caroline Vasconcelos.
 
 <img src="images/user.png" width="16"/></a> **Yasmin Jéssica Guimarães Guedes** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/7129000327997949" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-Subprojeto: Construção de biblioteca espectral aplicada à identificação de Bignoniaceae no Herbário INPA. Início: Set/2025. Supervisão: Michael Hopkins, Flávia Durgante e Caroline Vasconcelos.
-
 <img src="images/user.png" width="16"/></a> **Caroline C. Vasconcelos** (INPA) - Bolsista FAPEAM AT/III <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7850-6672" target="_blank"><img src="images/orcid.png" width="18"/></a>
-
-Subprojeto: Rumo a uma biblioteca espectral: reconhecendo espécies arbóreas comerciais por meio dos espectros das folhas. Início: Jan/2025. Término: Nov/2025. Supervisão: Flávia Durgante.
 
 # Cursos oferecidos
 
@@ -75,9 +63,9 @@ Subprojeto: Rumo a uma biblioteca espectral: reconhecendo espécies arbóreas co
 
 📚 [**2º Curso**](/cursos/cursomicronir2.html)**:** 17 a 19 de dezembro de 2025 (INPA, Manaus, AM)
 
-📚 [**3º Curso**](/cursos/cursomicronir3.html)**:** previsto para 17 a 19 de março de 2026 (Instituto Mamirauá, Tefé, AM)
+📚 [**3º Curso**](/cursos/cursomicronir3.html)**:** previsto para maio de 2026 (Instituto Mamirauá, Tefé, AM)
 
-📚 [**4º Curso**](/cursos/cursoparabotanicos.html)**:** previsto para 23 a 30 de março de 2026 (Sítio ATTO, São Sebastião do Uatumã, AM)
+📚 [**Curso Auxiliar de Campo**](/cursos/cursoparabotanicos.html)**:** previsto para 23 a 30 de março de 2026 (Sítio ATTO, São Sebastião do Uatumã, AM)
 
 # Financiamento
 

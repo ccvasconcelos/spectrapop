@@ -1,14 +1,14 @@
 
 ---
 title: Conheça nossos alunos de Iniciação Científica (PIBIC/INPA 2025–2026)
-date: '2025-12-06'
+date: '2025-11-20'
 slug: conheca-nossos-pibics-2025
 subtitle: 'Este post apresenta um pouco sobre quem são esses jovens pesquisadores e os projetos que estão desenvolvendo no Herbário INPA'
 summary: ''
 authors:
   - name: 'Caroline C. Vasconcelos'
     url: 'https://ccvasconcelos.github.io/pt/'
-lastmod: '2025-12-06T23:43:02-04:00'
+lastmod: '2025-11-20T22:00:00-04:00'
 
 ---
 

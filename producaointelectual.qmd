@@ -4,7 +4,7 @@ title: "Produção Intelectual"
 
 ## Artigos científicos
 
--  Durgante FM, CC Vasconcelos, HL Hadlich, CL Mallmann, RO Perdiz, KCM Cunha, C Paquini, K Torralvo, M Hopkins, J Schöngart, MTF Piedade, PA Sá, MLG Conde, & F Wittmann. **Portable spectrometer as a low-cost tool for tree species identification in herbaria and field studies**. Submetido ao periódico *Plant Methods*, 2025.
+-  Durgante FM, CC Vasconcelos, HL Hadlich, CL Mallmann, RO Perdiz, KCM Cunha, C Paquini, K Torralvo, M Hopkins, J Schöngart, MTF Piedade, PA Sá, MLG Conde, & F Wittmann. **Portable spectrometer as a low-cost tool for tree species identification in herbaria and field studies**. Submetido para publicação, 2025.
 
 -   Hadlich HL, J Schöngart, F Wittmann, CC Vasconcelos, CL Mallmann, MLG Conde, PA Sá, LO Demarchi, GB Mori, MTF Piedade, & FM Durgante. 2025. **Exploring the potential of field spectroscopy for tree species identification in different Amazonian forest ecosystems**. *Global Ecology and Conservation*, 54: e03970. DOI: <https://doi.org/10.1016/j.gecco.2025.e03970>
 
@@ -18,15 +18,35 @@ title: "Produção Intelectual"
 
 -   Vasconcelos CC & FM Durgante. 2025. **R codes and datasets used in the course 'Herbarium Spectroscopy with MicroNIR: theory and practice'**. *Zenodo*. DOI: <https://doi.org/10.5281/zenodo.15531968>
 
-- Vasconcelos CC, MCAMOR Abreu, SR Chaves, MJG Hopkins, & FM Durgante. \[em produção\]. **Manual de operação e uso dos espectrômetros portáteis (MicroNIRs modelo NIR-S-G1, InnoSpectra, Taiwan) focados em espécimes de herbário**.
 
-## Eventos
+## Participação em eventos
 
-- Lima KT, KAL Santos, JB Moreira, CC Vasconcelos, FM Durgante, & HS Pereira. 2025. Pôster: **Espectroscopia NIR aplicada à identificação de etnovariedades de *Ananas comosus***. *In:* XXI Semana de Agronomia (SEMAGRO), Universidade Federal do Amazonas (UFAM), Manaus, AM, Brasil.
+- Durgante FM. Palestra: **Spectral herbarium from INPA: equipment, methods and applications to species identification**. *In:* International Herbarium Spectral Digitization (IHerbSpec) Working Group, Harvard University Herbaria, Cambridge, MA, USA. Maio/2025.
 
-- Durgante FM, JL Viana, CC Vasconcelos, HL Hadlich, & CL Mallmann. Simpósio: **Espectroscopia aplicada à identificação de plantas: avanços para herbários, manejo e conservação**. *In:* 75° Congresso Nacional de Botânica e 39ª Reunião Nordestina de Botânica, Universidade Federal do Delta do Parnaíba (UFDPar), Parnaíba, PI, Brasil. 
+- Torralvo KC. Minicurso: **Teoria e delineamento de coletas espectrais de Infravermelho Próximo (NIR) para reconhecimento da biodiversidade**. *In:* 21° Simpósio Sobre Conservação e Manejo Participativo na Amazônia, Instituto de Desenvolvimento Sustentável Mamirauá, Tefé, AM, Brasil. Julho/2025. 
 
-- Os nossos bolsistas do PIBIC/INPA — Eduardo Cunha, Eliandra Rodrigues e Yasmin Guedes — participaram da 22ª Semana Nacional de Ciência e Tecnologia do INPA, realizada nos dias 21, 22 e 23 de outubro de 2025. Eles integraram a equipe do Herbário INPA na divulgação das atividades desenvolvidas na coleção, apresentando ao público um pouco do trabalho científico que realizam no dia a dia.
+- Durgante FM, JL Viana, CC Vasconcelos, HL Hadlich, & CL Mallmann. Simpósio: **Espectroscopia aplicada à identificação de plantas: avanços para herbários, manejo e conservação**. *In:* 75° Congresso Nacional de Botânica e 39ª Reunião Nordestina de Botânica, Universidade Federal do Delta do Parnaíba (UFDPar), Parnaíba, PI, Brasil. Agosto/2025. 
+
+- Torralvo KC, R Holanda, IY Fernandes, AP Lima, C Pasquini, FM Durgante, & WE Magnusson. Apresentação oral: **Uso da espectroscopia nir no reconhecimento de anuros: método, testes de eficiência e perspectivas de aplicação incluindo equipamento de baixo-custo**. *In:* XI Congresso Brasileiro de Herpetologia, Sociedade Brasileira de Herpetologia, Manaus, AM, Brasil. Agosto/2025. 
+
+- Lima KT, KAL Santos, JB Moreira, CC Vasconcelos, FM Durgante, & HS Pereira. Pôster: **Espectroscopia NIR aplicada à identificação de etnovariedades de *Ananas comosus***. *In:* XXI Semana de Agronomia (SEMAGRO), Universidade Federal do Amazonas (UFAM), Manaus, AM, Brasil. Outubro/2025.
+
+- Os nossos bolsistas do PIBIC/INPA — Eduardo Cunha, Eliandra Rodrigues e Yasmin Guedes — participaram da 22ª Semana Nacional de Ciência e Tecnologia do INPA. Eles integraram a equipe do Herbário INPA na divulgação das atividades desenvolvidas na coleção, apresentando ao público um pouco do trabalho científico que realizam no dia a dia. Outubro/2025.
+
+##  Orientações em andamento
+
+- Maria Clara Abreu Mota de Oliveira Ramos Ferro (INPA). Mestrado PPGBOT-INPA: **Material de fundo importa? Testando padrões de reflectância na espectroscopia de folhas herborizadas em diferentes tipos de materiais de fundo e sua eficácia na discriminação de espécies**. Início: Março/2025. Orientação: Flávia Durgante.
+
+- Eduardo Leandro Cunha (UFAM). PIBIC-INPA: **Inteligência artificial aplicada à taxonomia de Ecclinusa (Sapotaceae): validação espectral e interoperabilidade com espectrômetros portáteis**. Início: Setembro/2025. Supervisão: Michael Hopkins.
+
+- Eliandra Rodrigues Ferreira (Estácio). PIBIC-INPA: **Desenvolvimento de bibliotecas espectrais para identificação de espécies no Herbário INPA: um estudo com Fabaceae e Meliaceae**. Início: Setembro/2025. Orientação: Michael Hopkins.
+
+- Yasmin Jéssica Guimarães Guedes (UFAM). PIBIC-INPA: **Construção de biblioteca espectral aplicada à identificação de Bignoniaceae no Herbário INPA**. Início: Setembro/2025. Orientação: Michael Hopkins.
+
+## Disciplinas
+
+- Durgante FM. Disciplina: **Tópico Especial - Uso de espectroscopia para reconhecimento da Biodiversidade**, realizada no período de 25/08 a 06/09/2025 (60 horas). Instituto Nacional de Pesquisas da Amazônia, curso de mestrado e doutorado do Programa de Pós-Graduação em Botânica (PPGBOT).
+
 
 ## Aplicações web
 

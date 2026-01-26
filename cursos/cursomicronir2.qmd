@@ -195,3 +195,15 @@ Lista atualizada em 16-12-2025:
 # Certificados
 
 Para gerar seu certificado preencha o formulário: <https://forms.gle/XGg3XCmdMGUPxqCq9>
+
+<figure style="text-align:center;">
+
+![](2.jpeg){.slide style="display:block;"}
+
+<figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+
+Participantes do 2º Curso do Projeto SpectraPop, Herbário INPA, dezembro de 2025.
+
+</figcaption>
+
+</figure>

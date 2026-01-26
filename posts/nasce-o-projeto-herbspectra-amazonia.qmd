@@ -1,0 +1,199 @@
+---
+title: 'INPA aprova proposta no CNPq: nasce o projeto HerbSpectra-Amazônia'
+date: '2025-11-20'
+slug: nasce-o-projeto-herbspectra-amazonia
+subtitle: 'Tem notícia boa chegando da floresta!'
+summary: ''
+authors:
+  - name: 'Caroline C. Vasconcelos'
+    url: 'https://ccvasconcelos.github.io/pt/'
+lastmod: '2025-11-20T22:00:00-04:00'
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+O CNPq divulgou recentemente o resultado da [Chamada MCTI/CNPq nº
+03/2025 -
+Pró-Amazônia](http://memoria2.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas&detalha=chamadaDivulgada&idDivulgacao=12865),
+e o Instituto Nacional de Pesquisas da Amazônia (INPA) teve três
+propostas aprovadas — entre elas, uma que nos enche de orgulho: o
+projeto **"Rede de Herbários Espectrais da Amazônia: Espectroscopia e
+inteligência artificial para a identificação automatizada da
+biodiversidade em herbários amazônicos – HerbSpectra-Amazônia"**,
+coordenado pela Dra. Flávia Durgante, cuja equipe e objetivos estão
+diretamente conectados ao espírito do SpectraPop.
+
+Essa aprovação representa um marco para a modernização das coleções
+botânicas amazônicas e para o avanço da espectroscopia como ferramenta
+complementar de identificação da biodiversidade. E, claro, é uma grande
+conquista coletiva para todas as instituições parceiras brasileiras e
+internacionais envolvidas.
+
+![Rede colaborativa para a construção de herbários espectrais da
+Amazônia.](mapa-herbspectra-amazonia.png){fig-align="center"
+width="800"}
+
+------------------------------------------------------------------------
+
+# O que é o HerbSpectra-Amazônia?
+
+O projeto propõe algo inédito no Brasil: criar a primeira rede
+internacional de herbários amazônicos equipados com tecnologia de
+espectroscopia NIR e treinados para padronizar a leitura espectral de
+plantas em coleções científicas.
+
+A ideia central é simples: digitalizar, de forma padronizada e
+acessível, as assinaturas espectrais de plantas amazônicas, treinar
+algoritmos de inteligência artificial para reconhecer espécies
+automaticamente, modernizar a taxonomia botânica, tornando-a mais
+rápida, reprodutível e alinhada às tecnologias digitais emergentes.
+
+Para um bioma com mais de 15 mil espécies de plantas, onde a
+identificação tradicional demanda tempo, especialistas e condições
+ideais, a combinação de IA + espectroscopia pode mudar tudo.
+
+# Uma rede amazônica e internacional de colaboração
+
+A proposta foi enviada com o apoio de 16 instituições nacionais e
+internacionais, mostrando o alcance e a relevância da iniciativa. A rede
+de herbários executores inclui:
+
+## Cinco herbários brasileiros
+
+-   INPA – Instituto Nacional de Pesquisas da Amazônia (Manaus,
+    Amazonas) - núcleo coordenador
+
+-   Herbário HSTM – Universidade Federal do Oeste do Pará (Santarém,
+    Pará)
+
+-   Herbário MG – Museu Paraense Emílio Goeldi (Belém, Pará)
+
+-   Herbário UFACPZ – Universidade Federal do Acre (Rio Branco, Acre)
+
+-   Herbário UFRR – Universidade Federal de Roraima (Boa Vista, Roraima)
+
+## Cinco herbários de países da OTCA (Bolívia, Colômbia, Peru e Equador)
+
+Todos já manifestaram interesse em digitalizar seu acervo, alguns
+inclusive iniciando a aquisição de espectrômetros MicroNIR.
+
+-   Herbário COAH – Instituto Amazónico de Investigaciones Científicas
+    SINCHI (Bogotá, Colômbia)
+-   Herbário HUTI – Universidad Tecnológica Indoamérica (Quito, Equador)
+-   Herbário LPB – Instituto de Ecología de la Universidad Mayor de San
+    Andrés/ Museo Nacional de Historia Natural (La Paz, Bolívia)
+-   Herbário QCNE – Museo Ecuatoriano de Ciencias Naturales del
+    Instituto Nacional de Biodiversidad (Quito, Equador)
+-   Herbário TKN – Instituto de Investigación de la Universidad Nacional
+    Jorge Basadre Grohmann (Tacna, Peru)
+
+## E mais:
+
+Instituições internacionais de peso, integrantes do
+[iHerbSpec](https://iherbspec.github.io/), como o Herbário de Harvard, o
+Jardim Botânico de Missouri, a Universidade de Aarhus e o Instituto de
+Tecnologia de Karlsruhe, também participam oferecendo expertise,
+treinamento e padronização global.
+
+# Por que isso importa?
+
+A Amazônia é uma das regiões mais diversas do planeta — mas também uma
+das mais desafiadoras para taxonomistas. A espectroscopia no
+infravermelho próximo (NIR):
+
+-   é rápida
+
+-   não destrutiva
+
+-   menos custosa comparada aos métodos baseados em DNA
+
+-   e capaz de reconhecer características químicas e físicas das plantas
+    com precisão impressionante.
+
+Pesquisas recentes mostram que assinaturas espectrais podem corroborar
+resultados moleculares, prever características funcionais e até
+identificar espécies com alta acurácia.
+
+Com milhares de amostras sendo digitalizadas em diferentes herbários
+amazônicos, o projeto criará o maior banco de dados espectral da flora
+amazônica, algo inédito em escala mundial.
+
+# E os modelos de IA?
+
+Outro eixo central do projeto será o desenvolvimento de modelos de
+aprendizado de máquina — de Random Forest a redes neurais e deep
+learning — para reconhecer espécies, prever traços funcionais e testar a
+transferibilidade dos modelos entre herbários de diferentes países.
+
+O time prevê ainda:
+
+-   uso de XAI (SHAP, LIME) para interpretar modelos
+
+-   pipelines documentados e publicados no GitHub e Zenodo
+
+-   acurácia mínima de 85% na identificação de espécies
+
+Uma verdadeira revolução tecnológica para a botânica amazônica!
+
+# Capacitação para toda a Amazônia
+
+O projeto tem forte caráter formativo, incluindo:
+
+-   cursos online (em português e espanhol) sobre espectroscopia em
+    herbários
+
+-   oficinas presenciais em nove herbários amazônicos
+
+-   seminários de IA e biodiversidade
+
+-   um curso internacional de 40h em IA aplicada à biodiversidade
+
+-   criação de materiais para divulgação científica e treinamento
+    técnico
+
+> ***Ou seja: o projeto não só faz ciência, como forma pessoas, constrói
+> redes e moderniza coleções inteiras.***
+
+# Um pouco do que vamos entregar
+
+O HerbSpectra-Amazônia prevê, entre outros produtos:
+
+-   Rede internacional de herbários espectrais consolidada
+
+-   Treinamento de mais de 100 pessoas
+
+-   Banco de dados espectral padronizado
+
+-   Modelos de IA para identificação de espécies
+
+-   Publicações científicas e scripts reprodutíveis
+
+-   Workshop internacional de encerramento
+
+O cronograma se estende por 24 meses, com impacto duradouro para toda a
+região amazônica.
+
+# Por que isso também é uma vitória do SpectraPop?
+
+O SpectraPop, financiado pela FAPEAM, tem sido fundamental para
+popularizar o uso da espectroscopia vegetal na Amazônia, testando
+equipamentos acessíveis como o MicroNIR e levando a técnica a
+estudantes, técnicos e comunidades.
+
+Agora, com o HerbSpectra-Amazônia, esse impacto se multiplica: o que
+começou como um esforço pioneiro em Manaus se torna uma rede
+pan-amazônica.
+
+# Celebramos juntos!
+
+Com orgulho e entusiasmo, celebramos esta conquista ao lado do INPA e de
+todos os parceiros.
+
+O HerbSpectra-Amazônia representa o futuro da botânica amazônica — um
+futuro mais rápido, mais integrador, mais tecnológico e mais
+colaborativo. Em breve compartilharemos novidades: treinamentos,
+oficinas, cursos e os bastidores da construção desse megaprojeto.
+
+A ciência amazônica segue viva, forte e inovadora. E nós seguimos juntos
+iluminando a biodiversidade… um espectro por vez.😅
