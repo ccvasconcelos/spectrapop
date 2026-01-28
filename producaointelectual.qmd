@@ -37,7 +37,7 @@ title: "Produção Intelectual"
 
 - Maria Clara Abreu Mota de Oliveira Ramos Ferro (INPA). Mestrado PPGBOT-INPA: **Material de fundo importa? Testando padrões de reflectância na espectroscopia de folhas herborizadas em diferentes tipos de materiais de fundo e sua eficácia na discriminação de espécies**. Início: Março/2025. Orientação: Flávia Durgante.
 
-- Eduardo Leandro Cunha (UFAM). PIBIC-INPA: **Inteligência artificial aplicada à taxonomia de Ecclinusa (Sapotaceae): validação espectral e interoperabilidade com espectrômetros portáteis**. Início: Setembro/2025. Supervisão: Michael Hopkins.
+- Eduardo Leandro Cunha (UFAM). PIBIC-INPA: **Inteligência artificial aplicada à taxonomia de *Ecclinusa* (Sapotaceae): validação espectral e interoperabilidade com espectrômetros portáteis**. Início: Setembro/2025. Supervisão: Michael Hopkins.
 
 - Eliandra Rodrigues Ferreira (Estácio). PIBIC-INPA: **Desenvolvimento de bibliotecas espectrais para identificação de espécies no Herbário INPA: um estudo com Fabaceae e Meliaceae**. Início: Setembro/2025. Orientação: Michael Hopkins.
 
@@ -50,6 +50,6 @@ title: "Produção Intelectual"
 
 ## Aplicações web
 
--  Vasconcelos CC & FM Durgante. 2025. `iscreader app` (<https://spectrapop.shinyapps.io/iscreaderapp/>) - Aplicação web desenvolvida para facilitar a importação, visualização e processamento de arquivos brutos gerados pelo espectrômetro portátil MicroNIR modelo NIR-S-G1 (InnoSpectra Corp).
+-  Vasconcelos CC, KCM Cunha, & FM Durgante. 2025. `iscreader app` (<https://spectrapop.shinyapps.io/iscreaderapp/>) - Aplicação web desenvolvida para facilitar a importação, visualização e processamento de arquivos brutos gerados pelo espectrômetro portátil MicroNIR modelo NIR-S-G1 (InnoSpectra Corp).
 
 -  Vasconcelos CC & FM Durgante. 2025. `multispecreader app` (<https://spectrapop.shinyapps.io/multispecreaderapp/>) - Aplicação web desenvolvida para facilitar a importação, visualização e processamento de arquivos brutos gerados pelos espectrômetros Antaris™ II (FT-NIR Analyzer, Thermo Fisher Scientific Inc.) e ASD FieldSpec® (Malvern Panalytical Ltd).
