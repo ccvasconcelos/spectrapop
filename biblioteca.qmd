@@ -3,12 +3,14 @@ title: "Biblioteca Espectral"
 format:
   html:
     theme: cosmo
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 Mais informações em breve! ⚠️
 
 <a href="">
-  <button style="background-color:#0e0740 ; color:white; border:none; padding:10px 18px; border-radius:6px;">
-    Acessar Dashboard
-  </button>
-</a>
+<button style="background-color:#0e0740 ; color:white; border:none; padding:10px 18px; border-radius:6px;">
+[Acessar Dashboard](https://spectrapop.shinyapps.io/dashboard/)
+</button> </a>
