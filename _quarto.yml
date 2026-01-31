@@ -23,12 +23,14 @@ website:
    #       - text: "Galeria de Fotos"
    #         href: cursos/galeria.qmd
 
-
       - text: "Produção Intelectual"
         href: producaointelectual.qmd
       
       - text: "Biblioteca Espectral"
         href: biblioteca.qmd
+      
+      - text: "Herbário INPA"
+        href: herbarioinpa.qmd
         
       - text: "Blog"
         menu:
@@ -43,13 +45,12 @@ website:
             
           - text: "Novo artigo confirma o potencial da espectroscopia na Amazônia"
             href: posts/novo-artigo-confirma-o-potencial-da-espectroscopia-na-amazonia.qmd
-            
+          
       - text: "Contato"
         href: contato.qmd
     
   page-footer:
-    center: "Todos os direitos reservados © 2026. Projeto SpectraPop. Grupo de Estudos Espectrais e Ecofisiológicos da Biodiversidade (BiodivSpEc)."
-    
+    center: "Todos os direitos reservados © 2026. Projeto SpectraPop - Grupo de Estudos Espectrais e Ecofisiológicos da Biodiversidade (BiodivSpEc)."
 
 format:
   html:

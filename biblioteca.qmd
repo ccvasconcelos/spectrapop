@@ -8,15 +8,9 @@ editor:
     wrap: 72
 ---
 
-<a href="https://spectrapop.shinyapps.io/dashboard/" target="_blank">
-  <button style="
-    background-color:#0e0740;
-    color:white;
-    border:none;
-    padding:10px 18px;
-    border-radius:6px;
-    cursor:pointer;
-  ">
-    Acessar Dashboard
-  </button>
-</a>
+<iframe 
+  src="https://spectrapop.shinyapps.io/dashboard/"
+  width="130%" 
+  height="1000px" 
+  style="border:none; border-radius:8px;">
+</iframe>

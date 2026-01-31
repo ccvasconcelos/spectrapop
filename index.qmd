@@ -43,6 +43,8 @@ Desenvolver e popularizar o herbário espectral (espectroscopia no infravermelho
 
 <img src="images/user.png" width="16"/></a> **Darlene Gris** (IDSM) <a href="http://lattes.cnpq.br/9797541704067903" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0003-1165-9997" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
+![](images/user.png){width="16"}</a> **Kaio Cesar Marinho da Cunha** (INPA) <a href="http://lattes.cnpq.br/2664299098538335" target="_blank">![](images/lattes.png){width="18"}</a><a href="https://orcid.org/0000-0003-2197-9687" target="_blank">![](images/orcid.png){width="18"}</a>
+
 ## Bolsistas
 
 <img src="images/user.png" width="16"/></a> **Samyra Ramos Chaves** (INPA) - Bolsista FAPEAM AT/III <a href="http://lattes.cnpq.br/1333559162162849" target="_blank"><img src="images/lattes.png" width="18"/></a>
@@ -54,8 +56,6 @@ Desenvolver e popularizar o herbário espectral (espectroscopia no infravermelho
 <img src="images/user.png" width="16"/></a> **Eliandra Rodrigues Ferreira** (Estácio) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/3358526069960413" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
 <img src="images/user.png" width="16"/></a> **Yasmin Jéssica Guimarães Guedes** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/7129000327997949" target="_blank"><img src="images/lattes.png" width="18"/></a>
-
-<img src="images/user.png" width="16"/></a> **Caroline C. Vasconcelos** (INPA) - Bolsista FAPEAM AT/III <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7850-6672" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
 # Cursos oferecidos
 
