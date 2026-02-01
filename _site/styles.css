@@ -85,6 +85,24 @@
   text-decoration: none;
 }
 
+/* Fundo visite o acervo */
+.cta-section {
+  background-color: #f0f7f0;
+  padding: 40px;
+  border-radius: 15px;
+  margin: 3rem 0;
+  /* Adiciona uma sombra bem suave */
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05); 
+  border: 1px solid #e0eee0; /* Uma borda sutil para definir o limite */
+}
+
+/* Ajuste opcional: remove a margem do título dentro do destaque para ficar centralizado */
+.cta-section h3 {
+  margin-top: 0;
+  text-align: center;
+}
+
+
 /* Contato */
 
 .contact-list li {

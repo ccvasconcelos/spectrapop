@@ -22,7 +22,7 @@ editor:
 
 ::: {.icon-card}
 <img src="icons/plant.svg" alt="Herbário">
-<h4>270.293 amostras</h4>
+<h4>270.293 registros</h4>
 <p>
   O maior herbário na Amazônia brasileira e 5º maior do Brasil. A flora brasileira representa mais de 90% dos exemplares, sendo referência nacional e internacional.
 </p>
@@ -30,7 +30,7 @@ editor:
 
 ::: {.icon-card}
 <img src="icons/fungi.svg" alt="Fungos">
-<h4>27.169 amostras</h4>
+<h4>27.169 registros</h4>
 <p>
  Importante referência para fungos da região amazônica, especialmente para macrofungos.
 </p>
@@ -38,7 +38,7 @@ editor:
 
 ::: {.icon-card}
 <img src="icons/wood.svg" alt="Xiloteca">
-<h4>10.696 amostras</h4>
+<h4>10.696 registros</h4>
 <p>
   A xiloteca tem grande valor científico, histórico e cultural, sendo um referencial para estudos da biodiversidade da região. 
 </p>
@@ -46,17 +46,17 @@ editor:
 
 ::: {.icon-card}
 <img src="icons/carpo.svg" alt="Carpoteca">
-<h4>2.696 amostras</h4>
+<h4>2.696 registros</h4>
 <p>
- A coleção carpológica contribui para a sistemática de frutos amazônicos.
+ A coleção carpológica mais representativa da Amazônia. Contribui significativamente para a sistemática de frutos amazônicos.
 </p>
 :::
 
-
+::: {.cta-section}
 ### Visite o acervo
 
 <p class="text-justify">
-Atualmente, o acervo virtual do Herbário INPA conta com <strong>310.625 amostras</strong>, e está disponível na plataforma da rede
+Atualmente, o acervo do Herbário INPA conta com <strong>310.625 exemplares</strong>, e está disponível na plataforma da rede
 <strong><i>species</i>Link</strong>, que reúne registros biológicos de
 diversas regiões do Brasil e da América do Sul.
 </p>
@@ -66,6 +66,7 @@ diversas regiões do Brasil e da América do Sul.
      href="https://specieslink.net/search/records/col/694"
      target="_blank"> Acesse o acervo virtual \> </a>
 :::
+::: 
 
 ### Contato
 
@@ -88,7 +89,7 @@ library(leaflet)
 
 leaflet() %>%
   addTiles() %>% 
-  setView(lng = -59.98748286262644, lat = -3.0950992004397473, zoom = 17)
+  setView(lng =  -59.986914, lat = -3.095557, zoom = 17)
 ```
 
 ### Acompanhe o Herbário INPA
