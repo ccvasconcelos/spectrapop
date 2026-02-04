@@ -21,7 +21,7 @@ title: "Produção Intelectual"
 
 ## Participação em eventos
 
-- Durgante FM. Palestra: **Spectral herbarium from INPA: equipment, methods and applications to species identification**. *In:* International Herbarium Spectral Digitization (IHerbSpec) Working Group, Harvard University Herbaria, Cambridge, MA, USA. Maio/2025.
+- Durgante FM. Palestra: **Spectral herbarium from INPA: equipment, methods and applications to species identification**. *In:* International Herbarium Spectral Digitization (IHerbSpec) Working Group, Harvard University Herbaria, Cambridge, MA, USA. Maio/2025. Vídeo: <https://www.youtube.com/live/Zko1-NvlGUE>
 
 - Torralvo KC. Minicurso: **Teoria e delineamento de coletas espectrais de Infravermelho Próximo (NIR) para reconhecimento da biodiversidade**. *In:* 21° Simpósio Sobre Conservação e Manejo Participativo na Amazônia, Instituto de Desenvolvimento Sustentável Mamirauá, Tefé, AM, Brasil. Julho/2025. 
 
@@ -29,7 +29,7 @@ title: "Produção Intelectual"
 
 - Torralvo KC, R Holanda, IY Fernandes, AP Lima, C Pasquini, FM Durgante, & WE Magnusson. Apresentação oral: **Uso da espectroscopia nir no reconhecimento de anuros: método, testes de eficiência e perspectivas de aplicação incluindo equipamento de baixo-custo**. *In:* XI Congresso Brasileiro de Herpetologia, Sociedade Brasileira de Herpetologia, Manaus, AM, Brasil. Agosto/2025. 
 
-- Lima KT, KAL Santos, JB Moreira, CC Vasconcelos, FM Durgante, & HS Pereira. Pôster: **Espectroscopia NIR aplicada à identificação de etnovariedades de *Ananas comosus***. *In:* XXI Semana de Agronomia (SEMAGRO), Universidade Federal do Amazonas (UFAM), Manaus, AM, Brasil. Outubro/2025.
+- Lima KT, KAL Santos, JB Moreira, CC Vasconcelos, FM Durgante, & HS Pereira. Pôster: **Espectroscopia NIR aplicada à identificação de etnovariedades de *Ananas comosus***. *In:* XXI Semana de Agronomia (SEMAGRO), Universidade Federal do Amazonas (UFAM), Manaus, AM, Brasil. Outubro/2025. Resumo em PDF: <https://www.even3.com.br/anais/xxi-semana-agronomia-universidade-federal-do-amazonas/1374068-espectroscopia-nir-aplicada-a-identificacao-de-etnovariedades-de-ananas-comosus>
 
 - Os nossos bolsistas do PIBIC/INPA — Eduardo Cunha, Eliandra Rodrigues e Yasmin Guedes — participaram da 22ª Semana Nacional de Ciência e Tecnologia do INPA. Eles integraram a equipe do Herbário INPA na divulgação das atividades desenvolvidas na coleção, apresentando ao público um pouco do trabalho científico que realizam no dia a dia. Outubro/2025.
 
@@ -49,6 +49,8 @@ title: "Produção Intelectual"
 
 
 ## Aplicações web
+
+-  Vasconcelos CC, M Hopkins, & FM Durgante. 2026. `Biblioteca Espectral do Projeto SpectraPop` (<https://spectrapop.shinyapps.io/dashboard/>) - Dashboard desenvolvido para facilitar a visualização da biblioteca espectral do Projeto SpectraPop junto ao Herbário INPA.
 
 -  Vasconcelos CC, KCM Cunha, & FM Durgante. 2025. `iscreader app` (<https://spectrapop.shinyapps.io/iscreaderapp/>) - Aplicação web desenvolvida para facilitar a importação, visualização e processamento de arquivos brutos gerados pelo espectrômetro portátil MicroNIR modelo NIR-S-G1 (InnoSpectra Corp).
 

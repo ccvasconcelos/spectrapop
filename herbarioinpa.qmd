@@ -22,7 +22,7 @@ editor:
 
 ::: {.icon-card}
 <img src="icons/plant.svg" alt="Herbário">
-<h4>270.293 registros</h4>
+<h4> +300.000 registros</h4>
 <p>
   O maior herbário na Amazônia brasileira e 5º maior do Brasil. A flora brasileira representa mais de 90% dos exemplares, sendo referência nacional e internacional.
 </p>
@@ -30,15 +30,21 @@ editor:
 
 ::: {.icon-card}
 <img src="icons/fungi.svg" alt="Fungos">
-<h4>27.169 registros</h4>
+<h4> +30.000 registros</h4>
 <p>
  Importante referência para fungos da região amazônica, especialmente para macrofungos.
 </p>
 :::
 
 ::: {.icon-card}
+<img src="icons/briofitas.svg" alt="Briófitas">
+<h4> +20.000 registros</h4>
+<p>Coleção de briófitas…</p>
+:::
+
+::: {.icon-card}
 <img src="icons/wood.svg" alt="Xiloteca">
-<h4>10.696 registros</h4>
+<h4> +10.000 registros</h4>
 <p>
   A xiloteca tem grande valor científico, histórico e cultural, sendo um referencial para estudos da biodiversidade da região. 
 </p>
@@ -46,7 +52,7 @@ editor:
 
 ::: {.icon-card}
 <img src="icons/carpo.svg" alt="Carpoteca">
-<h4>2.696 registros</h4>
+<h4> +3.000 registros</h4>
 <p>
  A coleção carpológica mais representativa da Amazônia. Contribui significativamente para a sistemática de frutos amazônicos.
 </p>
@@ -56,7 +62,7 @@ editor:
 ### Visite o acervo
 
 <p class="text-justify">
-Atualmente, o acervo do Herbário INPA conta com <strong>310.625 exemplares</strong>, e está disponível na plataforma da rede
+Atualmente, o acervo do Herbário INPA está disponível na plataforma da rede
 <strong><i>species</i>Link</strong>, que reúne registros biológicos de
 diversas regiões do Brasil e da América do Sul.
 </p>

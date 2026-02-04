@@ -20,14 +20,14 @@ website:
             href: cursos/cursomicronir3.qmd
           - text: "4º Curso (2026)"
             href: cursos/cursoauxiliardecampo.qmd
-   #       - text: "Galeria de Fotos"
-   #         href: cursos/galeria.qmd
+          - text: "Galeria de Fotos"
+            href: cursos/galeria.qmd
 
       - text: "Produção Intelectual"
         href: producaointelectual.qmd
       
       - text: "Biblioteca Espectral"
-        href: biblioteca.qmd
+        href: bibliotecaespectral.qmd
       
       - text: "Herbário INPA"
         href: herbarioinpa.qmd
@@ -45,7 +45,10 @@ website:
             
           - text: "Novo artigo confirma o potencial da espectroscopia na Amazônia"
             href: posts/novo-artigo-confirma-o-potencial-da-espectroscopia-na-amazonia.qmd
-          
+     
+      - text: "Galeria de Fotos"
+        href: galeria.qmd         
+     
       - text: "Contato"
         href: contato.qmd
     
