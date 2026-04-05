@@ -110,4 +110,14 @@ editor: visual
     <figcaption>Aula prática do 2º Curso SpectraPop</figcaption>
    </figure>
    
+   <figure>
+    <img src="galeria/13_curso4.jpeg">
+    <figcaption>Turma do curso para formação de Auxiliares de Campo realizado no sítio ATTO. Mar/2026 </figcaption>
+   </figure>
+   
+   <figure>
+    <img src="galeria/14_disciplinaMike.jpeg">
+    <figcaption>Turma de mestrado do PPGBOT conhecendo sobre os estudos espectrais. Mar/2026 </figcaption>
+   </figure>
+   
   </div>

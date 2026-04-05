@@ -67,6 +67,26 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link href="../site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
+
+<script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+
+<script src="../site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+
+<link href="../site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
+
+<script src="../site_libs/leaflet-1.3.1/leaflet.js"></script>
+
+<link href="../site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
+
+<script src="../site_libs/proj4-2.6.2/proj4.min.js"></script>
+
+<script src="../site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+
+<link href="../site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
+
+<script src="../site_libs/leaflet-binding-2.2.2/leaflet.js"></script>
+
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -112,7 +132,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="../cursos/cursoauxiliardecampo.html">
- <span class="dropdown-text">4º Curso (2026)</span></a>
+ <span class="dropdown-text">Curso Auxiliar de Campo (2026)</span></a>
   </li>  
     </ul>
   </li>
@@ -121,8 +141,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Produção Intelectual</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../biblioteca.html"> 
+    <a class="nav-link" href="../bibliotecaespectral.html"> 
 <span class="menu-text">Biblioteca Espectral</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../herbarioinpa.html"> 
+<span class="menu-text">Herbário INPA</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-blog" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -148,6 +172,10 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
+    <a class="nav-link" href="../galeria.html"> 
+<span class="menu-text">Galeria de Fotos</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../contato.html"> 
 <span class="menu-text">Contato</span></a>
   </li>  
@@ -162,8 +190,29 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Nesta página</h2>
+   
+  <ul>
+  <li><a href="#apresentação" id="toc-apresentação" class="nav-link active" data-scroll-target="#apresentação">Apresentação</a></li>
+  <li><a href="#detalhes-do-curso" id="toc-detalhes-do-curso" class="nav-link" data-scroll-target="#detalhes-do-curso">Detalhes do curso</a></li>
+  <li><a href="#cronograma" id="toc-cronograma" class="nav-link" data-scroll-target="#cronograma">Cronograma</a>
+  <ul class="collapse">
+  <li><a href="#visão-geral" id="toc-visão-geral" class="nav-link" data-scroll-target="#visão-geral">Visão geral</a></li>
+  <li><a href="#linha-do-tempo" id="toc-linha-do-tempo" class="nav-link" data-scroll-target="#linha-do-tempo">Linha do tempo</a>
+  <ul class="collapse">
+  <li><a href="#dia-1-terça-feira-19mai" id="toc-dia-1-terça-feira-19mai" class="nav-link" data-scroll-target="#dia-1-terça-feira-19mai">Dia 1 (terça-feira, 19/mai)</a></li>
+  <li><a href="#dia-2-quarta-feira-20mai" id="toc-dia-2-quarta-feira-20mai" class="nav-link" data-scroll-target="#dia-2-quarta-feira-20mai">Dia 2 (quarta-feira, 20/mai)</a></li>
+  <li><a href="#dia-3-quinta-feira-21mai" id="toc-dia-3-quinta-feira-21mai" class="nav-link" data-scroll-target="#dia-3-quinta-feira-21mai">Dia 3 (quinta-feira, 21/mai)</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#equipe-de-organização-e-treinamento" id="toc-equipe-de-organização-e-treinamento" class="nav-link" data-scroll-target="#equipe-de-organização-e-treinamento">Equipe de organização e treinamento</a></li>
+  <li><a href="#financiamento" id="toc-financiamento" class="nav-link" data-scroll-target="#financiamento">Financiamento</a></li>
+  <li><a href="#participantes" id="toc-participantes" class="nav-link" data-scroll-target="#participantes">Participantes</a></li>
+  <li><a href="#certificados" id="toc-certificados" class="nav-link" data-scroll-target="#certificados">Certificados</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -188,9 +237,124 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Mais informações em breve! ⚠️</p>
+<section id="apresentação" class="level1">
+<h1>Apresentação</h1>
+<p>Damos boas-vindas aos participantes do <strong>3º Curso Espectroscopia em Herbário com MicroNIR: Teoria e Prática</strong>! 😊</p>
+<p>Este curso foi desenvolvido para capacitar estudantes e profissionais no uso do espectrômetro portátil MicroNIR, abrangendo desde a configuração inicial do equipamento até a análise dos dados espectrais.</p>
+<p>Ao longo de três dias de atividades teóricas e práticas, os participantes explorarão os fundamentos da espectroscopia no infravermelho próximo (NIR) e sua aplicação na identificação de plantas.</p>
+<p>Além disso, o curso busca identificar desafios práticos no uso do equipamento, contribuindo para o desenvolvimento de um protocolo padronizado de aplicação no âmbito do <a href="..\index.html">Projeto SpectraPop</a>.</p>
+</section>
+<section id="detalhes-do-curso" class="level1">
+<h1>Detalhes do curso</h1>
+<p><strong>Onde:</strong> Auditório,Instituto de Desenvolvimento Sustentável Mamirauá, Estrada do Bexiga, 2584 - 69553-225 - Fonte Boa, Tefé, Amazonas.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-a6c1d1550283d4ecf4a6" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-a6c1d1550283d4ecf4a6">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]}],"setView":[[-3.35282,-64.73164300000001],17,[]]},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+<p><strong>Data:</strong> De 19 a 21 de maio de 2026.<br>
+</p>
+<p><strong>Público-alvo:</strong> Estudantes e profissionais envolvidos no fluxo de trabalho de herbário/coleções de referência que tenham interesse no uso de espectroscopia portátil para pesquisa científica.<br>
+</p>
+<p><strong>Número de vagas:</strong> 16 (vagas presenciais).<br>
+</p>
+<p><strong>Carga horária:</strong> 18h (com emissão de certificado de participação).<br>
+</p>
+<p><strong>Formato:</strong> Híbrido, contemplando aulas teóricas ministradas em ambiente virtual, com opção de participação presencial e aulas práticas exclusivamente presenciais. Para as atividades práticas, quatro laptops estarão disponíveis, e os participantes serão organizados em quatro grupos.</p>
+<p><strong>Material:</strong> Slides, <em>scripts</em> e dados obtidos durante o curso serão disponibilizados diretamente aos alunos ou via <a href="https://github.com/ccvasconcelos/spectrapop">GitHub</a>.</p>
+</section>
+<section id="cronograma" class="level1">
+<h1>Cronograma</h1>
+<section id="visão-geral" class="level2">
+<h2 class="anchored" data-anchor-id="visão-geral">Visão geral</h2>
+<p>As atividades do curso ocorrerão durante três dias seguidos, de terça a quinta-feira.</p>
+<p>As sessões da manhã serão entre 09h00 e 12h00 (horário padrão do Amazonas).</p>
+<p>As sessões da tarde serão entre 14h00 e 17h00 (horário padrão do Amazonas).</p>
+</section>
+<section id="linha-do-tempo" class="level2">
+<h2 class="anchored" data-anchor-id="linha-do-tempo">Linha do tempo</h2>
+<section id="dia-1-terça-feira-19mai" class="level3">
+<h3 class="anchored" data-anchor-id="dia-1-terça-feira-19mai">Dia 1 (terça-feira, 19/mai)</h3>
+<section id="manhã" class="level4">
+<h4 class="anchored" data-anchor-id="manhã">Manhã</h4>
+<p>Fundamentos teóricos da espectroscopia NIR e suas aplicações</p>
+<p>Link para acessar a aula: <a href="https://meet.jit.si/CursoSpectraPop" class="uri">https://meet.jit.si/CursoSpectraPop</a></p>
+<p>Link para acessar a lista de presença: em breve</p>
+<p>Vídeo Tour do Espectro Eletromagnético (NASA): <a href="https://www.youtube.com/watch?v=2p7FPFvu_j0" class="uri">https://www.youtube.com/watch?v=2p7FPFvu_j0</a></p>
+</section>
+<section id="tarde" class="level4">
+<h4 class="anchored" data-anchor-id="tarde">Tarde</h4>
+<ul>
+<li><p>Apresentação do dispositivo NIR-S-G1 (MicroNIR, InnoSpectra Corp.) e acessórios</p></li>
+<li><p>Configuração do aplicativo ISC-NIRScan GUI (<em>laptop</em> e <em>smartphone</em>)</p></li>
+<li><p>Calibração, coleta de dados espectrais e cuidados necessários na obtenção dos espectros</p></li>
+<li><p>Entendendo os arquivos de saída</p></li>
+</ul>
+<p>Link para acessar a lista de presença: em breve</p>
+</section>
+</section>
+<section id="dia-2-quarta-feira-20mai" class="level3">
+<h3 class="anchored" data-anchor-id="dia-2-quarta-feira-20mai">Dia 2 (quarta-feira, 20/mai)</h3>
+<section id="manhã-1" class="level4">
+<h4 class="anchored" data-anchor-id="manhã-1">Manhã</h4>
+<p>Operações com o micronir e exercício prático de aquisição espectros.</p>
+<p>Obtenção de metadados associados aos espécimes de herbário.</p>
+<p>Link para acessar a lista de presença: em breve</p>
+</section>
+<section id="tarde-1" class="level4">
+<h4 class="anchored" data-anchor-id="tarde-1">Tarde</h4>
+<ul>
+<li><p>Instalação das bibliotecas necessárias</p></li>
+<li><p>Como importar as leituras espectrais para o R</p></li>
+<li><p>Como visualizar espectros e avaliar a qualidade dos dados espectrais</p></li>
+<li><p>Como preparar os conjuntos de dados para análise</p></li>
+</ul>
+<p>Link para acessar a lista de presença: em breve</p>
+</section>
+</section>
+<section id="dia-3-quinta-feira-21mai" class="level3">
+<h3 class="anchored" data-anchor-id="dia-3-quinta-feira-21mai">Dia 3 (quinta-feira, 21/mai)</h3>
+<section id="manhã-2" class="level4">
+<h4 class="anchored" data-anchor-id="manhã-2">Manhã</h4>
+<p>Fundamentos teóricos da espectroscopia NIR e suas aplicações</p>
+<p>Link para acessar a aula: <a href="https://meet.jit.si/CursoSpectraPop" class="uri">https://meet.jit.si/CursoSpectraPop</a></p>
+<p>Link para acessar a lista de presença: em breve</p>
+</section>
+<section id="tarde-2" class="level4">
+<h4 class="anchored" data-anchor-id="tarde-2">Tarde</h4>
+<ul>
+<li><p>Análise discriminante (LDA) com validação cruzada <em>Leave-One-Out</em> (LOO)</p></li>
+<li><p>Avaliação básica dos modelos (acurácia e matriz de confusão)</p></li>
+<li><p>Responder formulário de aproveitamento do curso</p></li>
+</ul>
+<p>Link para acessar a lista de presença: em breve</p>
+<p>Link para acessar acessar o formulário de feedback: em breve</p>
+</section>
+</section>
+</section>
+</section>
+<section id="equipe-de-organização-e-treinamento" class="level1">
+<h1>Equipe de organização e treinamento</h1>
+<p><img src="images/clipboard-768440372.png" class="img-fluid" width="16"> Profa. Dra. <a href="http://lattes.cnpq.br/9866263113578229">Flávia Durgante</a> (Coordenadora do Projeto SpectraPop), INPA/MAUA/ATTO</p>
+<p><img src="images/clipboard-768440372.png" class="img-fluid" width="16"> Dra. <a href="http://lattes.cnpq.br/8990804799144033">Kelly Torralvo</a> (Colaboradora do Projeto SpectraPop), IDSM</p>
+<p><img src="..\images/user.png" class="img-fluid" width="16"> Dra. <a href="http://lattes.cnpq.br/1535461703335857">Caroline Vasconcelos</a> (Bolsista do Projeto HerbSpectra-Amazônia), INPA/MAUA</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Dra. <a href="http://lattes.cnpq.br/1333559162162849">Samyra Ramos</a> (Bolsista do Projeto SpectraPop), INPA/MAUA</p>
+</section>
+<section id="financiamento" class="level1">
+<h1>Financiamento</h1>
+<p>Este curso é parte do Projeto “Popularização do uso da Assinatura Espectral da Espécie na identificação das árvores do Manejo Florestal Sustentável na Amazônia - SPECTRA POP”, financiado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - Mulher Faz Ciência (Processo no. 01.02.016301.04984/2024-17), e apoiado pelo Herbário INPA via Chamada pública MCTI/FINEP/FNDCT no. 02/2016 – Centros Nacionais Multiusuários.</p>
+</section>
+<section id="participantes" class="level1">
+<h1>Participantes</h1>
+<p>Em breve</p>
+</section>
+<section id="certificados" class="level1">
+<h1>Certificados</h1>
+<p>Para gerar seu certificado preencha o formulário: em breve</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -620,7 +784,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>Todos os direitos reservados © 2026. Projeto SpectraPop. Grupo de Estudos Espectrais e Ecofisiológicos da Biodiversidade (BiodivSpEc).</p>
+<p>Todos os direitos reservados © 2026. Projeto SpectraPop - Grupo de Estudos Espectrais e Ecofisiológicos da Biodiversidade (BiodivSpEc).</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

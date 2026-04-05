@@ -39,7 +39,7 @@ editor:
 ::: {.icon-card}
 <img src="icons/briofitas.svg" alt="Briófitas">
 <h4> +20.000 registros</h4>
-<p>Coleção de briófitas…</p>
+<p>Coleção de musgos e hepáticas da Amazônia, importante para entender a biodiversidade e conservação desses grupos.</p>
 :::
 
 ::: {.icon-card}
@@ -78,7 +78,11 @@ diversas regiões do Brasil e da América do Sul.
 
 <ul class="contact-list">
 
-<li><img src="icons/user.svg"/> <strong>Curador: Michael J. G. Hopkins</strong></li>
+<li><img src="icons/user.svg"/>Curador: Michael J. G. Hopkins</li>
+
+<li><img src="icons/user.svg"/>Curadora substituta: Vânia N. Yoshikawa</li>
+
+<li><img src="icons/user.svg"/>Gerente: Mariana R. Mesquita</li>
 
 <li><img src="icons/map.svg"/> Av. André Araújo, 2936 - 69067-375 -
 Manaus, AM, Brasil</li>
@@ -98,7 +102,7 @@ leaflet() %>%
   setView(lng =  -59.986914, lat = -3.095557, zoom = 17)
 ```
 
-### Acompanhe o Herbário INPA
+### Redes sociais
 
 <div class="social-icons">
 

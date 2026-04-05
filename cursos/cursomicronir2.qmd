@@ -140,7 +140,7 @@ Link para acessar acessar o formulário de feedback: <https://forms.gle/GPvYc9k3
 
 # Financiamento
 
-Este curso é parte do Projeto “Popularização do uso da Assinatura Espectral da Espécie na identificação das árvores do Manejo Florestal Sustentável na Amazônia - SPECTRA POP”, financiado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - Mulher Faz Ciência, e apoiado pelo Herbário INPA via Chamada pública MCTI/FINEP/FNDCT no. 02/2016 – Centros Nacionais Multiusuários.
+Este curso é parte do Projeto “Popularização do uso da Assinatura Espectral da Espécie na identificação das árvores do Manejo Florestal Sustentável na Amazônia - SPECTRA POP”, financiado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - Mulher Faz Ciência (Processo no. 01.02.016301.04984/2024-17), e apoiado pelo Herbário INPA via Chamada pública MCTI/FINEP/FNDCT no. 02/2016 – Centros Nacionais Multiusuários.
 
 # Participantes
 
@@ -198,7 +198,7 @@ Para gerar seu certificado preencha o formulário: <https://forms.gle/XGg3XCmdMG
 
 <figure style="text-align:center;">
 
-![](2.jpeg){.slide style="display:block;"}
+![](images/2.jpeg){.slide style="display:block;"}
 
 <figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
 

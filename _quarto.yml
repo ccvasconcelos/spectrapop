@@ -18,11 +18,9 @@ website:
             href: cursos/cursomicronir2.qmd
           - text: "3º Curso (2026)"
             href: cursos/cursomicronir3.qmd
-          - text: "4º Curso (2026)"
+          - text: "Curso Auxiliar de Campo (2026)"
             href: cursos/cursoauxiliardecampo.qmd
-          - text: "Galeria de Fotos"
-            href: cursos/galeria.qmd
-
+        
       - text: "Produção Intelectual"
         href: producaointelectual.qmd
       

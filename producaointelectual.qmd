@@ -4,7 +4,9 @@ title: "Produção Intelectual"
 
 ## Artigos científicos
 
--  Durgante FM, CC Vasconcelos, HL Hadlich, CL Mallmann, RO Perdiz, KCM Cunha, C Paquini, K Torralvo, M Hopkins, J Schöngart, MTF Piedade, PA Sá, MLG Conde, & F Wittmann. **Portable spectrometer as a low-cost tool for tree species identification in herbaria and field studies**. Submetido para publicação, 2025.
+-  Durgante FM, CC Vasconcelos, HL Hadlich, CL Mallmann, RO Perdiz, KCM Cunha, C Paquini, K Torralvo, M Hopkins, J Schöngart, MTF Piedade, PA Sá, MLG Conde, & F Wittmann. **Portable spectrometer as a low-cost tool for tree species identification in herbaria and field studies**. Submetido para publicação, 2026.
+
+-  White DM, FM Durgante, MW Austin, JA Guzmán Q, JA Kennedy, CO Nichodemus, NI Ahlstrand, C Baraloto, B Bekta¸s, K Boughalmi, W Cardinal-McTeague, TLP Couvreur, RP Fortier, RS Fuller, OM Grace, R Jackson, K Karbstein, S Kothari, AK Lee, JL Viana, E Martinez-Victoria, JE Meireles, TH Murphy, C Rodrigues-Vaz, D Spalink, H Tuomisto, CC Vasconcelos, & J Cavender-Bares.  **A Protocol for Standardizing Measurements and Enabling Global Harmonization of Herbarium Leaf Reflectance Spectra**. Submetido para publicação, 2026.
 
 -   Hadlich HL, J Schöngart, F Wittmann, CC Vasconcelos, CL Mallmann, MLG Conde, PA Sá, LO Demarchi, GB Mori, MTF Piedade, & FM Durgante. 2025. **Exploring the potential of field spectroscopy for tree species identification in different Amazonian forest ecosystems**. *Global Ecology and Conservation*, 54: e03970. DOI: <https://doi.org/10.1016/j.gecco.2025.e03970>
 
@@ -35,13 +37,17 @@ title: "Produção Intelectual"
 
 ##  Orientações em andamento
 
-- Maria Clara Abreu Mota de Oliveira Ramos Ferro (INPA). Mestrado PPGBOT-INPA: **Material de fundo importa? Testando padrões de reflectância na espectroscopia de folhas herborizadas em diferentes tipos de materiais de fundo e sua eficácia na discriminação de espécies**. Início: Março/2025. Orientação: Flávia Durgante.
+- Maria Clara Abreu Mota de Oliveira Ramos Ferro (INPA). Mestrado PPGBOT-INPA: **Material de fundo importa? Testando padrões de reflectância na espectroscopia de folhas herborizadas em diferentes tipos de materiais de fundo e sua eficácia na discriminação de espécies**. Início: Março/2025. Orientação: Flávia Durgante. Coorientação: Caroline Vasconcelos.
 
-- Eduardo Leandro Cunha (UFAM). PIBIC-INPA: **Inteligência artificial aplicada à taxonomia de *Ecclinusa* (Sapotaceae): validação espectral e interoperabilidade com espectrômetros portáteis**. Início: Setembro/2025. Supervisão: Michael Hopkins.
+- Eduardo Leandro Cunha (UFAM). PIBIC-INPA: **Inteligência artificial aplicada à taxonomia de *Ecclinusa* (Sapotaceae): validação espectral e interoperabilidade com espectrômetros portáteis**. Início: Setembro/2025. Fim: Janeiro/2026 Supervisão: Michael Hopkins.
 
 - Eliandra Rodrigues Ferreira (Estácio). PIBIC-INPA: **Desenvolvimento de bibliotecas espectrais para identificação de espécies no Herbário INPA: um estudo com Fabaceae e Meliaceae**. Início: Setembro/2025. Orientação: Michael Hopkins.
 
 - Yasmin Jéssica Guimarães Guedes (UFAM). PIBIC-INPA: **Construção de biblioteca espectral aplicada à identificação de Bignoniaceae no Herbário INPA**. Início: Setembro/2025. Orientação: Michael Hopkins.
+
+- Cassia Sousa Ataide (UFAM). PIBIC-INPA: **Inteligência artificial aplicada à taxonomia de *Ecclinusa* (Sapotaceae): validação espectral e interoperabilidade com espectrômetros portáteis**. Início: Fevereiro/2026 Supervisão: Michael Hopkins.
+
+- Túlio Alex Martins da Silva (INPA). Mestrado PPGBOT-INPA: **Desvendando o gênero *Mabea* Aubl. (Euphorbioideae: Euphorbiaceae) na Pan-Amazônia**. Início: Janeiro/2026. Orientação: Layon Demarchi. Coorientação: Caroline Vasconcelos.
 
 ## Disciplinas
 

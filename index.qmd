@@ -1,6 +1,6 @@
 ---
-title: "Popularização do uso da Assinatura Espectral da Espécie na identificação das árvores do Manejo Florestal Sustentável na Amazônia"
-subtitle: "Edital no. 006/2024 - Mulher Faz Ciência - FAPEAM"
+title: "Popularização do uso da Assinatura Espectral da Espécie na identificação das árvores do Manejo Florestal Sustentável na Amazônia - SPECTRA POP"
+subtitle: "Edital no. 006/2024 - Mulher Faz Ciência - FAPEAM <br> Processo no. 01.02.016301.04984/2024-17"
 ---
 
 # Resumo
@@ -15,7 +15,7 @@ Desenvolver e popularizar o herbário espectral (espectroscopia no infravermelho
 
 ## Coordenação
 
-<img src="images/user.png" width="16"/></a> **Flávia M. Durgante** (KIT/INPA/MAUA/ATTO) <a href="http://lattes.cnpq.br/9866263113578229" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-5517-8821" target="_blank"><img src="images/orcid.png" width="18"/></a>
+<img src="images/user.png" width="16"/></a> **Flávia M. Durgante** (INPA/MAUA/ATTO) <a href="http://lattes.cnpq.br/9866263113578229" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-5517-8821" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
 ## Colaboradores
 
@@ -47,15 +47,21 @@ Desenvolver e popularizar o herbário espectral (espectroscopia no infravermelho
 
 ## Bolsistas
 
-<img src="images/user.png" width="16"/></a> **Samyra Ramos Chaves** (INPA) - Bolsista FAPEAM AT/III <a href="http://lattes.cnpq.br/1333559162162849" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="16"/></a> **Samyra Ramos Chaves** (INPA) - Bolsista FAPEAM AT/III <a href="http://lattes.cnpq.br/1333559162162849" target="_blank"><img src="images/lattes.png" width="18"/></a> [(bolsa em andamento)]{style="color:green;"}
 
-<img src="images/user.png" width="16"/></a> **Maria Clara Abreu Mota de Oliveira Ramos Ferro** (INPA) - Bolsista CAPES Mestrado <a href="http://lattes.cnpq.br/8490385946321507" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="16"/></a> **Maria Clara A. M. O. Ramos Ferro** (INPA) - Bolsista CAPES Mestrado <a href="http://lattes.cnpq.br/8490385946321507" target="_blank"><img src="images/lattes.png" width="18"/></a> [(bolsa em andamento)]{style="color:green;"}
 
-<img src="images/user.png" width="16"/></a> **Eduardo Leandro Cunha** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/2142166621987119" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="16"/></a> **Cassia Sousa Ataide** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/6974374662437947" target="_blank"><img src="images/lattes.png" width="18"/></a> [(bolsa em andamento)]{style="color:green;"}
 
-<img src="images/user.png" width="16"/></a> **Eliandra Rodrigues Ferreira** (Estácio) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/3358526069960413" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="16"/></a> **Eliandra Rodrigues Ferreira** (Estácio) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/3358526069960413" target="_blank"><img src="images/lattes.png" width="18"/></a> [(bolsa em andamento)]{style="color:green;"}
 
-<img src="images/user.png" width="16"/></a> **Yasmin Jéssica Guimarães Guedes** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/7129000327997949" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="16"/></a> **Yasmin Jéssica Guimarães Guedes** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/7129000327997949" target="_blank"><img src="images/lattes.png" width="18"/></a> [(bolsa em andamento)]{style="color:green;"}
+
+<img src="images/user.png" width="16"/></a> **Túlio Alex Martins da Silva** (INPA) - Bolsista CAPES Doutorado <a href="http://lattes.cnpq.br/7937040274378072" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0009-0008-2315-1932" target="_blank">![](images/orcid.png){width="18"}</a> [(bolsa em andamento)]{style="color:green;"}
+
+<img src="images/user.png" width="16"/></a> **Caroline C. Vasconcelos** (INPA) - Bolsista FAPEAM AT/III <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7850-6672" target="_blank"><img src="images/orcid.png" width="18"/></a> [(bolsa substituída)]{style="color:blue;"}
+
+<img src="images/user.png" width="16"/></a> **Eduardo Leandro Cunha** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/2142166621987119" target="_blank"><img src="images/lattes.png" width="18"/></a> [(egresso)]{style="color:red;"}
 
 # Cursos oferecidos
 
@@ -63,16 +69,27 @@ Desenvolver e popularizar o herbário espectral (espectroscopia no infravermelho
 
 📚 [**2º Curso**](/cursos/cursomicronir2.html)**:** 17 a 19 de dezembro de 2025 (INPA, Manaus, AM)
 
-📚 [**3º Curso**](/cursos/cursomicronir3.html)**:** previsto para maio de 2026 (Instituto Mamirauá, Tefé, AM)
+📚 [**3º Curso**](/cursos/cursomicronir3.html)**:** previsto para o período de 19 a 21 de maio de 2026 (Instituto Mamirauá, Tefé, AM)
 
-📚 [**Curso Auxiliar de Campo**](/cursos/cursoparabotanicos.html)**:** previsto para 23 a 30 de março de 2026 (Sítio ATTO, São Sebastião do Uatumã, AM)
+📚 [**Curso Auxiliar de Campo**](/cursos/cursoauxiliardecampo.html)**:** 23 a 30 de março de 2026 (Sítio ATTO, São Sebastião do Uatumã, AM)
 
 # Financiamento
 
-O projeto SPECTRA POP é financiado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - Mulher Faz Ciência, e apoiado pelo Herbário INPA via Chamada pública MCTI/FINEP/FNDCT no. 02/2016 – Centros Nacionais Multiusuários.
+O projeto SPECTRA POP é financiado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - Mulher Faz Ciência (Processo no. 01.02.016301.04984/2024-17), e apoiado pelo Herbário INPA via Chamada pública MCTI/FINEP/FNDCT no. 02/2016 – Centros Nacionais Multiusuários.
 
 ![](images/financiamento.png)
 
 # Realização
 
 ![](images/realizacao.png)
+
+# Material de divulgação
+
+
+<p style="text-align:center;">
+  <a href="https://drive.google.com/drive/folders/1VcvIPrWsnVVJCqdQ0rwC2YPsA01Ch-sx?usp=sharing" target="_blank"
+     style="background-color:#0e0740; color:white; padding:12px 20px;
+     border-radius:8px; text-decoration:none;">
+     Baixar logotipos
+  </a>
+</p>

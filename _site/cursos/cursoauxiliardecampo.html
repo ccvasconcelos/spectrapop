@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Curso de Auxiliar de Campo – Projeto SpectraPop</title>
+<title>Curso para Auxiliares de Campo ATTO 2026 – Projeto SpectraPop</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -40,6 +40,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,6 +70,26 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link href="../site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
+
+<script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+
+<script src="../site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+
+<link href="../site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
+
+<script src="../site_libs/leaflet-1.3.1/leaflet.js"></script>
+
+<link href="../site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
+
+<script src="../site_libs/proj4-2.6.2/proj4.min.js"></script>
+
+<script src="../site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+
+<link href="../site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
+
+<script src="../site_libs/leaflet-binding-2.2.2/leaflet.js"></script>
+
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -112,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="../cursos/cursoauxiliardecampo.html">
- <span class="dropdown-text">4º Curso (2026)</span></a>
+ <span class="dropdown-text">Curso Auxiliar de Campo (2026)</span></a>
   </li>  
     </ul>
   </li>
@@ -121,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Produção Intelectual</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../biblioteca.html"> 
+    <a class="nav-link" href="../bibliotecaespectral.html"> 
 <span class="menu-text">Biblioteca Espectral</span></a>
   </li>  
   <li class="nav-item">
@@ -152,6 +175,10 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
+    <a class="nav-link" href="../galeria.html"> 
+<span class="menu-text">Galeria de Fotos</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../contato.html"> 
 <span class="menu-text">Contato</span></a>
   </li>  
@@ -166,15 +193,39 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Nesta página</h2>
+   
+  <ul>
+  <li><a href="#apresentação" id="toc-apresentação" class="nav-link active" data-scroll-target="#apresentação">Apresentação</a></li>
+  <li><a href="#detalhes-do-curso" id="toc-detalhes-do-curso" class="nav-link" data-scroll-target="#detalhes-do-curso">Detalhes do curso</a></li>
+  <li><a href="#cronograma" id="toc-cronograma" class="nav-link" data-scroll-target="#cronograma">Cronograma</a>
+  <ul class="collapse">
+  <li><a href="#visão-geral" id="toc-visão-geral" class="nav-link" data-scroll-target="#visão-geral">Visão geral</a></li>
+  <li><a href="#linha-do-tempo" id="toc-linha-do-tempo" class="nav-link" data-scroll-target="#linha-do-tempo">Linha do tempo</a></li>
+  </ul></li>
+  <li><a href="#equipe" id="toc-equipe" class="nav-link" data-scroll-target="#equipe">Equipe</a>
+  <ul class="collapse">
+  <li><a href="#comissão-organizadora" id="toc-comissão-organizadora" class="nav-link" data-scroll-target="#comissão-organizadora">Comissão organizadora</a></li>
+  <li><a href="#comunicadores-científicos" id="toc-comunicadores-científicos" class="nav-link" data-scroll-target="#comunicadores-científicos">Comunicadores científicos</a></li>
+  <li><a href="#professores" id="toc-professores" class="nav-link" data-scroll-target="#professores">Professores</a></li>
+  <li><a href="#professores-assistentes" id="toc-professores-assistentes" class="nav-link" data-scroll-target="#professores-assistentes">Professores assistentes</a></li>
+  <li><a href="#instrutores" id="toc-instrutores" class="nav-link" data-scroll-target="#instrutores">Instrutores</a></li>
+  <li><a href="#apoio-técnico" id="toc-apoio-técnico" class="nav-link" data-scroll-target="#apoio-técnico">Apoio técnico</a></li>
+  </ul></li>
+  <li><a href="#financiamento" id="toc-financiamento" class="nav-link" data-scroll-target="#financiamento">Financiamento</a></li>
+  <li><a href="#participantes" id="toc-participantes" class="nav-link" data-scroll-target="#participantes">Participantes</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Curso de Auxiliar de Campo</h1>
+<h1 class="title">Curso para Auxiliares de Campo ATTO 2026</h1>
+<p class="subtitle lead">Turma Paulo Boca</p>
 </div>
 
 
@@ -191,10 +242,135 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Curso voltado para comunitários, mateiros, escaladores e parabotânicos.</p>
-<p>Mais informações em breve! ⚠️</p>
+<section id="apresentação" class="level1">
+<h1>Apresentação</h1>
+<p>O curso foi desenvolvido no âmbito do <a href="..\index.html">Projeto SpectraPop</a>, com o objetivo de capacitar auxiliares de campo para atuação em pesquisas científicas na Amazônia, com foco em práticas seguras, organização de dados e coleta botânica. Realizado no sítio ATTO (Amazon Tall Tower Observatory), o curso integrou teoria e prática em ambiente real de floresta, proporcionando aos participantes uma experiência imersiva nas rotinas de campo.</p>
+<figure style="text-align:center;" class="figure">
+<p><a href="images/4.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="images/4.jpeg" class="slide img-fluid figure-img" style="display:block;"></a></p>
+<figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+<p>Flyer de divulgação do curso para formação de Auxiliares de Campo do Projeto SpectraPop.</p>
+</figcaption>
+</figure>
+</section>
+<section id="detalhes-do-curso" class="level1">
+<h1>Detalhes do curso</h1>
+<p><strong>Onde:</strong> Sítio ATTO – Amazon Tall Tower Observatory, Reserva de Desenvolvimento Sustentável do Uatumã, São Sebastião do Uatumã, Amazonas.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-df5e68a1d3ecbcba8da9" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-df5e68a1d3ecbcba8da9">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]}],"setView":[[-2.14855,-59.003481],14,[]]},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+<p><strong>Data:</strong> De 23 a 30 de março de 2026.<br>
+</p>
+<p><strong>Público-alvo:</strong> Auxiliares de campo já atuantes na área e técnicos interessados em atuar como auxiliares de campo em pesquisas científicas na Amazônia, especialmente nas áreas de botânica, ecologia e coleta de dados ambientais.<br>
+</p>
+<p><strong>Número de vagas ofertadas:</strong> 20 vagas.<br>
+</p>
+<p><strong>Carga horária:</strong> 66h (com emissão de certificado de participação).<br>
+</p>
+<p><strong>Formato:</strong> Presencial, com atividades teóricas e práticas realizadas em ambiente de floresta. O curso foi estruturado em regime intensivo, com rotinas diárias de campo, atividades práticas supervisionadas e aulas expositivas no período noturno.</p>
+<p><strong>Material:</strong> Foram utilizados equipamentos de campo, materiais para coleta botânica, ferramentas de escalada, instrumentos para coleta de solo e insumos para preservação de amostras. As orientações foram fornecidas diretamente durante as atividades práticas.</p>
+</section>
+<section id="cronograma" class="level1">
+<h1>Cronograma</h1>
+<section id="visão-geral" class="level2">
+<h2 class="anchored" data-anchor-id="visão-geral">Visão geral</h2>
+<ul>
+<li>Os participantes receberam orientações sobre segurança em campo, incluindo deslocamento em trilhas, uso de equipamentos e conduta em ambiente de floresta.</li>
+<li>Foram abordados princípios de ética na coleta de material biológico, respeitando normas científicas e ambientais.</li>
+<li>As atividades incluíram rotina intensa de campo, exigindo preparo físico e adaptação às condições amazônicas.</li>
+</ul>
+</section>
+<section id="linha-do-tempo" class="level2">
+<h2 class="anchored" data-anchor-id="linha-do-tempo">Linha do tempo</h2>
+<p>Veja a programação completa:</p>
+<iframe src="docs/cronograma.pdf" width="100%" height="600px">
+</iframe>
+</section>
+</section>
+<section id="equipe" class="level1">
+<h1>Equipe</h1>
+<section id="comissão-organizadora" class="level2">
+<h2 class="anchored" data-anchor-id="comissão-organizadora">Comissão organizadora</h2>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Dra. Flávia Machado Durgante (INPA/MAUA/ATTO)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Dra. Samyra Ramos Chaves (INPA/MAUA)</p>
+<p><img src="..\images/user.png" class="img-fluid" width="16"> Dra. Caroline da Cruz Vasconcelos (INPA/MAUA)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Me. Kaio Cesar Marinho da Cunha (INPA/MAUA)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Roberta Pereira de Souza (ATTO)</p>
+</section>
+<section id="comunicadores-científicos" class="level2">
+<h2 class="anchored" data-anchor-id="comunicadores-científicos">Comunicadores científicos</h2>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Dra. Aline Radaelli Basso (ATTO)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Luciano Lima Francisco (INPA/MAUA)</p>
+</section>
+<section id="professores" class="level2">
+<h2 class="anchored" data-anchor-id="professores">Professores</h2>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Dra. Caroline da Cruz Vasconcelos (INPA/MAUA)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Dra. Dirce Leimi Komura (INPA)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Dra. Flávia Machado Durgante (INPA/MAUA/ATTO)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Me. Francisco Alcinei Gomes da Silva (ATTO)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Me. Francisco Javier Farroñay Pacaya (INPA/PDBFF)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Dr.&nbsp;Layon Oreste Demarchi (INPA/MAUA)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Dr.&nbsp;Michael John Gilbert Hopkins (INPA)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Sipko Marten Bulthuis (ATTO)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Dra. Vania Nobuko Yoshikawa (INPA)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Me. Yago Rodrigues Santos (ATTO)</p>
+</section>
+<section id="professores-assistentes" class="level2">
+<h2 class="anchored" data-anchor-id="professores-assistentes">Professores assistentes</h2>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Alice Silva de Lima (INPA)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Me. Kaio Cesar Marinho da Cunha (INPA/MAUA)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Dra. Samyra Ramos Chaves (INPA/MAUA)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Ma. Rafaela Araujo Ferreira Gurgel (INPA/MAUA)</p>
+</section>
+<section id="instrutores" class="level2">
+<h2 class="anchored" data-anchor-id="instrutores">Instrutores</h2>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Francisco Marques Bezerra (Auxiliar de campo)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Jose Francisco Tenacol Andes Jr.&nbsp;(Auxiliar de campo)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Jose Raimundo Ferreira Nunes (Auxiliar de campo/ Escalador)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Ocirio de Souza Pereira (Auxiliar de campo)</p>
+</section>
+<section id="apoio-técnico" class="level2">
+<h2 class="anchored" data-anchor-id="apoio-técnico">Apoio técnico</h2>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> André Luiz Matos (chefe de cozinha, ATTO)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Antonio Huxley Melo do Nascimento (apoio logístico, ATTO)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Adi Vasconcelos Brandão (auxiliar de cozinha, ATTO)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Valmir Ferreira Lima (apoio logístico, ATTO)</p>
+<p><img src="..\images/user.png" class="img-fluid" style="font-size: 11pt;" width="16"> Keven Muniz de Lima (apoio logístico, ATTO)</p>
+</section>
+</section>
+<section id="financiamento" class="level1">
+<h1>Financiamento</h1>
+<p>Este curso é parte do Projeto “Popularização do uso da Assinatura Espectral da Espécie na identificação das árvores do Manejo Florestal Sustentável na Amazônia - SPECTRA POP”, financiado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - Mulher Faz Ciência (Processo no. 01.02.016301.04984/2024-17).</p>
+<p>O curso também contou com o apoio institucional do INPA e de suas iniciativas e estruturas vinculadas, incluindo o Projeto ATTO, ATTO Escola, Grupo MAUA e Editora INPA. Essa integração institucional fortaleceu a qualidade do curso, assegurando uma formação alinhada à pesquisa científica de excelência e às demandas reais do trabalho de campo na Amazônia.</p>
+</section>
+<section id="participantes" class="level1">
+<h1>Participantes</h1>
+<ol type="1">
+<li>Afonso Gomes Guerreiro</li>
+<li>Darviley Gomes da Silva</li>
+<li>Daniel Costa Vieira</li>
+<li>Diana Prado da Costa</li>
+<li>Domingos Jose R. Costa</li>
+<li>Erica Dantas de Lima</li>
+<li>Francisco Marques Bezerra</li>
+<li>Javé Gomes Guerreiro</li>
+<li>Jardeu Valente Nunes</li>
+<li>José Francisco Tenaçol Andes Jr.</li>
+<li>Lucas Figueira Nunes</li>
+<li>Neila Maria de Souza Gonçalves</li>
+<li>Marcia Eugenia Amaral de Carvalho (ouvinte)</li>
+</ol>
+<figure style="text-align:center;" class="figure">
+<p><a href="images/5.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="images/5.jpeg" class="slide img-fluid figure-img" style="display:block;"></a></p>
+<figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+<p>Participantes do curso para formação de Auxiliares de Campo do Projeto SpectraPop, realizado no sítio ATTO, março de 2026.</p>
+</figcaption>
+</figure>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -631,6 +807,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"loop":false,"selector":".lightbox","closeEffect":"zoom","descPosition":"bottom","openEffect":"zoom"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
