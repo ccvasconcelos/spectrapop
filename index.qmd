@@ -47,19 +47,25 @@ Desenvolver e popularizar o herbário espectral (espectroscopia no infravermelho
 
 ## Bolsistas
 
+### Pós-doutorado
+
 <img src="images/user.png" width="16"/></a> **Samyra Ramos Chaves** (INPA) - Bolsista FAPEAM AT/III <a href="http://lattes.cnpq.br/1333559162162849" target="_blank"><img src="images/lattes.png" width="18"/></a> [(bolsa em andamento)]{style="color:green;"}
 
+<img src="images/user.png" width="16"/></a> **Caroline C. Vasconcelos** (INPA) - Bolsista FAPEAM AT/III <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7850-6672" target="_blank"><img src="images/orcid.png" width="18"/></a> [(bolsa substituída)]{style="color:blue;"}
+
+### Pós-graduação (Mestrado e Doutorado)
+
 <img src="images/user.png" width="16"/></a> **Maria Clara A. M. O. Ramos Ferro** (INPA) - Bolsista CAPES Mestrado <a href="http://lattes.cnpq.br/8490385946321507" target="_blank"><img src="images/lattes.png" width="18"/></a> [(bolsa em andamento)]{style="color:green;"}
+
+<img src="images/user.png" width="16"/></a> **Túlio Alex Martins da Silva** (INPA) - Bolsista CAPES Doutorado <a href="http://lattes.cnpq.br/7937040274378072" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0009-0008-2315-1932" target="_blank">![](images/orcid.png){width="18"}</a> [(bolsa em andamento)]{style="color:green;"}
+
+### Graduação (PIBICs)
 
 <img src="images/user.png" width="16"/></a> **Cassia Sousa Ataide** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/6974374662437947" target="_blank"><img src="images/lattes.png" width="18"/></a> [(bolsa em andamento)]{style="color:green;"}
 
 <img src="images/user.png" width="16"/></a> **Eliandra Rodrigues Ferreira** (Estácio) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/3358526069960413" target="_blank"><img src="images/lattes.png" width="18"/></a> [(bolsa em andamento)]{style="color:green;"}
 
 <img src="images/user.png" width="16"/></a> **Yasmin Jéssica Guimarães Guedes** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/7129000327997949" target="_blank"><img src="images/lattes.png" width="18"/></a> [(bolsa em andamento)]{style="color:green;"}
-
-<img src="images/user.png" width="16"/></a> **Túlio Alex Martins da Silva** (INPA) - Bolsista CAPES Doutorado <a href="http://lattes.cnpq.br/7937040274378072" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0009-0008-2315-1932" target="_blank">![](images/orcid.png){width="18"}</a> [(bolsa em andamento)]{style="color:green;"}
-
-<img src="images/user.png" width="16"/></a> **Caroline C. Vasconcelos** (INPA) - Bolsista FAPEAM AT/III <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7850-6672" target="_blank"><img src="images/orcid.png" width="18"/></a> [(bolsa substituída)]{style="color:blue;"}
 
 <img src="images/user.png" width="16"/></a> **Eduardo Leandro Cunha** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/2142166621987119" target="_blank"><img src="images/lattes.png" width="18"/></a> [(egresso)]{style="color:red;"}
 
@@ -82,14 +88,3 @@ O projeto SPECTRA POP é financiado pela Fundação de Amparo à Pesquisa do Est
 # Realização
 
 ![](images/realizacao.png)
-
-# Material de divulgação
-
-
-<p style="text-align:center;">
-  <a href="https://drive.google.com/drive/folders/1VcvIPrWsnVVJCqdQ0rwC2YPsA01Ch-sx?usp=sharing" target="_blank"
-     style="background-color:#0e0740; color:white; padding:12px 20px;
-     border-radius:8px; text-decoration:none;">
-     Baixar logotipos
-  </a>
-</p>

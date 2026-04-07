@@ -6,7 +6,7 @@ website:
   favicon: images/favicon.ico
 
   navbar:
-    left:
+    right:
       - text: "Início"
         href: index.qmd
         
@@ -49,10 +49,12 @@ website:
      
       - text: "Contato"
         href: contato.qmd
-    
+        
+      - text: "Download"
+        href: download.qmd   
   page-footer:
-    center: "Todos os direitos reservados © 2026. Projeto SpectraPop - Grupo de Estudos Espectrais e Ecofisiológicos da Biodiversidade (BiodivSpEc)."
-
+    left: "© 2025-2026 Projeto SpectraPop. Todos os direitos reservados."
+    right: "Desenvolvido por <a href='https://ccvasconcelos.github.io/' target='_blank' style='color:#257cfd;'>Caroline C. Vasconcelos</a>"
 format:
   html:
     lightbox: true

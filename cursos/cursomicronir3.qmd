@@ -15,7 +15,7 @@ Além disso, o curso busca identificar desafios práticos no uso do equipamento,
 
 # Detalhes do curso
 
-**Onde:** Auditório,Instituto de Desenvolvimento Sustentável Mamirauá, Estrada do Bexiga, 2584 - 69553-225 - Fonte Boa, Tefé, Amazonas.
+**Onde:** Auditório, Instituto de Desenvolvimento Sustentável Mamirauá, Estrada do Bexiga, 2584 - 69553-225 - Fonte Boa, Tefé, Amazonas.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(leaflet)
