@@ -70,13 +70,15 @@ Desenvolver e popularizar o herbário espectral (espectroscopia no infravermelho
 
 # Cursos oferecidos
 
-📚 [**1º Curso**](/cursos/cursomicronir1.html)**:** 02 a 04 de abril de 2025 (INPA, Manaus, AM)
+[<img src="images/learning.png" width="20"/>](/cursos/cursomicronir1.html) **1º Curso:** 02 a 04 de abril de 2025 (INPA, Manaus, AM)
 
-📚 [**2º Curso**](/cursos/cursomicronir2.html)**:** 17 a 19 de dezembro de 2025 (INPA, Manaus, AM)
+[<img src="images/learning.png" width="20"/>](/cursos/cursomicronir2.html) **2º Curso:** 17 a 19 de dezembro de 2025 (INPA, Manaus, AM)
 
-📚 [**3º Curso**](/cursos/cursomicronir3.html)**:** previsto para o período de 19 a 21 de maio de 2026 (Instituto Mamirauá, Tefé, AM)
+[<img src="images/learning.png" width="20"/>](/cursos/cursomicronir3.html) **3º Curso:** previsto para o período de 19 a 21 de maio de 2026 (Instituto Mamirauá, Tefé, AM)
 
-📚 [**Curso Auxiliar de Campo**](/cursos/cursoauxiliardecampo.html)**:** 23 a 30 de março de 2026 (Sítio ATTO, São Sebastião do Uatumã, AM)
+[<img src="images/learning.png" width="20"/>]() **Minicurso ERBOT Norte:** previsto para o dia 26 de abril de 2026 (Universidade Federal do Pará, Belém, PA)
+ 
+[<img src="images/learning.png" width="20"/>](/cursos/cursoauxiliardecampo.html) **Curso Auxiliar de Campo:** 23 a 30 de março de 2026 (Sítio ATTO, São Sebastião do Uatumã, AM)
 
 # Financiamento
 

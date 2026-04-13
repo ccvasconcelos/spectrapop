@@ -7,8 +7,8 @@ website:
 
   navbar:
     right:
-      - text: "Início"
-        href: index.qmd
+   #   - text: "Início"
+   #     href: index.qmd
         
       - text: "Cursos"
         menu:
@@ -18,6 +18,8 @@ website:
             href: cursos/cursomicronir2.qmd
           - text: "3º Curso (2026)"
             href: cursos/cursomicronir3.qmd
+          - text: "Minicurso ERBOT Norte (2026)"
+            href: cursos/minicursoerbotnorte.qmd
           - text: "Curso Auxiliar de Campo (2026)"
             href: cursos/cursoauxiliardecampo.qmd
         
