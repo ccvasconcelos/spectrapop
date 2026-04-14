@@ -7,7 +7,11 @@ website:
 
   navbar:
     logo: assets/images/logo.png
-    right:
+    right: 
+      - icon: github
+        href: https://github.com/ccvasconcelos/spectrapop
+        aria-label: GitHub
+    left:
       - text: "Início"
         href: index.qmd
         
@@ -60,6 +64,9 @@ website:
     right: "Desenvolvido por <a href='https://ccvasconcelos.github.io/' target='_blank' style='color:#257cfd;'>Caroline C. Vasconcelos</a>"
 format:
   html:
+    theme:
+      light: flatly
+      dark: darkly
     lightbox: true
     css: styles.css
     toc: true
