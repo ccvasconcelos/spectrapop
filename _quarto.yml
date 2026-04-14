@@ -6,9 +6,10 @@ website:
   favicon: images/favicon.ico
 
   navbar:
+    logo: assets/images/logo.png
     right:
-   #   - text: "Início"
-   #     href: index.qmd
+      - text: "Início"
+        href: index.qmd
         
       - text: "Cursos"
         menu:

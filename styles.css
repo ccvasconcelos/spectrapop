@@ -151,3 +151,27 @@
 }
 
 </style>
+
+
+
+/* 🌿 Aumentar altura da barra */
+.navbar {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.navbar-brand img {
+  max-height: 80px;
+  max-width: 80px;
+}
+
+
+h1 {
+  color:#0e0740;
+  font-weight: 600;
+}
+
+h2, h3 {
+  color: #0e0740;
+  font-weight: 500;
+}

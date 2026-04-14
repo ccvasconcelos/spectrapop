@@ -118,13 +118,16 @@ Link para acessar acessar o formulário de feedback: em breve
 
 # Equipe de organização e treinamento
 
-![](images/clipboard-768440372.png){width="16"} Profa. Dra. [Flávia Durgante](http://lattes.cnpq.br/9866263113578229) (Coordenadora do Projeto SpectraPop), INPA/MAUA/ATTO
+<img src="images/user.png" width="12"/> Profa. Dra. Flávia Durgante (Coordenadora dos Projetos SpectraPop/HerbSpectra-Amazônia), MAUA/ATTO/INPA <a href="http://lattes.cnpq.br/9866263113578229" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-![](images/clipboard-768440372.png){width="16"} Dra. [Kelly Torralvo](http://lattes.cnpq.br/8990804799144033) (Colaboradora do Projeto SpectraPop), IDSM
+<img src="images/user.png" width="12"/> Dra. Caroline Vasconcelos (Bolsista do Projeto HerbSpectra-Amazônia), MAUA/INPA <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-![](/images/user.png){width="16"} Dra. [Caroline Vasconcelos](http://lattes.cnpq.br/1535461703335857) (Bolsista do Projeto HerbSpectra-Amazônia), INPA/MAUA
+<img src="images/user.png" width="12"/> Me. Kaio Cunha (Bolsista do Projeto HerbSpectra-Amazônia), MAUA/INPA <a href="http://lattes.cnpq.br/2664299098538335" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-![](/images/user.png){width="16" style="font-size: 11pt;"} Dra. [Samyra Ramos](http://lattes.cnpq.br/1333559162162849) (Bolsista do Projeto SpectraPop), INPA/MAUA
+<img src="images/user.png" width="12"/> Dra. Kelly Torralvo (Colaboradora do Projeto SpectraPop), IDSM <a href="http://lattes.cnpq.br/8990804799144033" target="_blank"><img src="images/lattes.png" width="18"/></a>
+
+<img src="images/user.png" width="12"/> Dra. Darlene Gris (Colaboradora do Projeto SpectraPop), IDSM <a href="http://lattes.cnpq.br/9797541704067903" target="_blank"><img src="images/lattes.png" width="18"/></a>
+
 
 # Financiamento
 

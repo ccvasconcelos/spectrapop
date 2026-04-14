@@ -141,11 +141,11 @@ Link para acessar acessar o formulário de feedback: <https://forms.gle/jFX8RhJp
 
 # Equipe de organização e treinamento
 
-👤Profa. Dra. [Flávia Durgante](http://lattes.cnpq.br/9866263113578229) (Coordenadora do Projeto SpectraPop), KIT/ MAUA/INPA
+<img src="images/user.png" width="12"/> Profa. Dra. Flávia Durgante (Coordenadora do Projeto SpectraPop), KIT/ MAUA/INPA <a href="http://lattes.cnpq.br/9866263113578229" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-👤Dra. [Caroline Vasconcelos](http://lattes.cnpq.br/1535461703335857) (Bolsista AT/III do Projeto SpectraPop), INPA
+<img src="images/user.png" width="12"/> Dra. Caroline Vasconcelos (Bolsista AT/III do Projeto SpectraPop), INPA <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-👤Prof. Dr. [Michael Hopkins](http://lattes.cnpq.br/5738793047673962) (Colaborador), Curadoria do Herbário INPA
+<img src="images/user.png" width="12"/> Prof. Dr. Michael Hopkins (Colaborador), Curadoria do Herbário INPA <a href="http://lattes.cnpq.br/5738793047673962" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
 # Financiamento
 
@@ -179,21 +179,24 @@ Este curso é parte do Projeto “Popularização do uso da Assinatura Espectral
 
 13. Samyra Ramos
 
-**Ouvintes (participação parcial)\***
+14.  Maria Clara Ferro (Ouvinte)
 
-1.  Maria Clara Ferro - Virtual/Presencial
+15.  Natália Deggau da Costa (Ouvinte)
 
-2.  Natália Deggau da Costa - Virtual
+16.  Thiago Caique Alves (Ouvinte)
 
-3.  Thiago Caique Alves - Virtual
+17.  Marcos Vinicius Vizioli Klaus (Ouvinte)
 
-4.  Marcos Vinicius Vizioli Klaus - Virtual
-
-\*Ouvintes (virtuais e presenciais) não terão direito a certificado.
+[Observação: Ouvintes (virtuais e presenciais) não terão direito a certificado.]{style="color:tomato;"}
 
 <figure style="text-align:center;">
-  <img src="images/1.jpg" class="slide" style="width:100%; display:block;"/>
-  <figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
-        Participantes do 1º Curso do Projeto SpectraPop, Herbário INPA, abril de 2025.
-  </figcaption>
+
+<img src="images/1.jpg" class="slide" style="width:100%; display:block;"/>
+
+<figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+
+Participantes do 1º Curso do Projeto SpectraPop, Herbário INPA, abril de 2025.
+
+</figcaption>
+
 </figure>

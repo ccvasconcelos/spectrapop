@@ -69,6 +69,6 @@ O SpectraPop, apoiado pela FAPEAM, se alinha diretamente a essa visão. O projet
 
 A participação de pesquisadoras(es) vinculados ao SpectraPop nesse artigo destaca a relevância do projeto em um cenário científico internacional e reafirma nosso compromisso com ciência aberta, inovação metodológica e retorno social do conhecimento.
 
-🔗 Quer saber mais? Acesse o artigo completo aqui: <https://doi.org/10.1111/nph.70645> ![](/images/Open_Access_logo_PLoS_transparent.svg.png){width="10" height="14"}
+🔗 Quer saber mais? Acesse o artigo completo aqui: <https://doi.org/10.1111/nph.70645> ![](/images/openaccess.png){width="10" height="14"}
 
 Fique de olho no blog do SpectraPop para mais novidades sobre espectroscopia, herbários e biodiversidade!

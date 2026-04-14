@@ -15,17 +15,17 @@ Desenvolver e popularizar o herbário espectral (espectroscopia no infravermelho
 
 ## Coordenação
 
-<img src="images/user.png" width="16"/></a> **Flávia M. Durgante** (INPA/MAUA/ATTO) <a href="http://lattes.cnpq.br/9866263113578229" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-5517-8821" target="_blank"><img src="images/orcid.png" width="18"/></a>
+<img src="images/user.png" width="16"/></a> **Flávia M. Durgante** (MAUA/ATTO/INPA) <a href="http://lattes.cnpq.br/9866263113578229" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-5517-8821" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
 ## Pesquisadores colaboradores
 
 <img src="images/user.png" width="16"/></a> **Florian Wittmann** (KIT/MAUA/ATTO) <a href="http://lattes.cnpq.br/5130662662509830" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0001-9180-356X" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
-<img src="images/user.png" width="16"/></a> **Jochen Schöngart** (INPA/MAUA/ATTO) <a href="http://lattes.cnpq.br/2468979908831549" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7696-9657" target="_blank"><img src="images/orcid.png" width="18"/></a>
+<img src="images/user.png" width="16"/></a> **Jochen Schöngart** (MAUA/ATTO/INPA) <a href="http://lattes.cnpq.br/2468979908831549" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7696-9657" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
-<img src="images/user.png" width="16"/></a> **Maria T. F. Piedade** (INPA/ATTO/MAUA) <a href="http://lattes.cnpq.br/0626509177712805" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7320-0498" target="_blank"><img src="images/orcid.png" width="18"/></a>
+<img src="images/user.png" width="16"/></a> **Maria T. F. Piedade** (MAUA/ATTO/INPA) <a href="http://lattes.cnpq.br/0626509177712805" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7320-0498" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
-<img src="images/user.png" width="16"/></a> **Layon O. Demarchi** (INPA/MAUA) <a href="http://lattes.cnpq.br/2504309339279053" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0001-8441-2106" target="_blank"><img src="images/orcid.png" width="18"/></a>
+<img src="images/user.png" width="16"/></a> **Layon O. Demarchi** (MAUA/INPA) <a href="http://lattes.cnpq.br/2504309339279053" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0001-8441-2106" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
 <img src="images/user.png" width="16"/></a> **Alberto Vicentini** (INPA) <a href="http://lattes.cnpq.br/1416853089847332" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-5906-9358" target="_blank"><img src="images/orcid.png" width="18"/></a>
 
@@ -41,32 +41,31 @@ Desenvolver e popularizar o herbário espectral (espectroscopia no infravermelho
 
 ### Pós-doutorado
 
-<img src="images/user.png" width="16"/></a> **Caroline C. Vasconcelos** (INPA/MAUA) - Bolsista CNPq DTI-A <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7850-6672" target="_blank"><img src="images/orcid.png" width="18"/></a> [(bolsa em andamento)]{style="color:GREEN;"}
+<img src="images/user.png" width="16"/></a> **Caroline C. Vasconcelos** (MAUA/INPA) - Bolsista CNPq DTI-A <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7850-6672" target="_blank"><img src="images/orcid.png" width="18"/></a> [\[bolsa em andamento\]]{style="color:GREEN;"}
 
-<img src="images/user.png" width="16"/></a> **Samyra Ramos Chaves** (INPA/MAUA) - Bolsista FAPEAM AT/III <a href="http://lattes.cnpq.br/1333559162162849" target="_blank"><img src="images/lattes.png" width="18"/></a> [(bolsa em andamento)]{style="color:green;"}
+<img src="images/user.png" width="16"/></a> **Samyra Ramos Chaves** (MAUA/INPA) - Bolsista FAPEAM AT/III <a href="http://lattes.cnpq.br/1333559162162849" target="_blank"><img src="images/lattes.png" width="18"/></a> [\[bolsa em andamento\]]{style="color:green;"}
 
 ### Pós-graduação (Mestrado e Doutorado)
 
-<img src="images/user.png" width="16"/></a> **Maria Clara A. M. O. Ramos Ferro** (INPA/MAUA) - Bolsista CAPES Mestrado <a href="http://lattes.cnpq.br/8490385946321507" target="_blank"><img src="images/lattes.png" width="18"/></a> [(bolsa em andamento)]{style="color:green;"}
+<img src="images/user.png" width="16"/></a> **Maria Clara A. M. O. Ramos Ferro** (MAUA/INPA) - Bolsista CAPES Mestrado <a href="http://lattes.cnpq.br/8490385946321507" target="_blank"><img src="images/lattes.png" width="18"/></a> [\[bolsa em andamento\]]{style="color:green;"}
 
-<img src="images/user.png" width="16"/></a> **Túlio Alex Martins da Silva** (INPA/MAUA) - Bolsista CAPES Doutorado <a href="http://lattes.cnpq.br/7937040274378072" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0009-0008-2315-1932" target="_blank">![](images/orcid.png){width="18"}</a> [(bolsa em andamento)]{style="color:green;"}
+<img src="images/user.png" width="16"/></a> **Túlio Alex Martins da Silva** (MAUA/INPA) - Bolsista CAPES Doutorado <a href="http://lattes.cnpq.br/7937040274378072" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0009-0008-2315-1932" target="_blank">![](images/orcid.png){width="18"}</a> [\[bolsa em andamento\]]{style="color:green;"}
 
-<img src="images/user.png" width="16"/></a> **Caroline L. Mallmann** (UFSM) - Doutoranda <a href="http://lattes.cnpq.br/2812901246354210" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-2967-1313" target="_blank"><img src="images/orcid.png" width="18"/></a>
+<img src="images/user.png" width="16"/></a> **Caroline L. Mallmann** (UFSM/MAUA/INPA) - Bolsista CAPES Doutorado <a href="http://lattes.cnpq.br/2812901246354210" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-2967-1313" target="_blank"><img src="images/orcid.png" width="18"/></a> [\[bolsa finalizada\]]{style="color:steelblue;"}
 
-<img src="images/user.png" width="16"/></a> **Hilana L. Hadlich** (INPA/MAUA) - Doutoranda - Bolsista CNPq DTI-B <a href="http://lattes.cnpq.br/2228944258807319" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-3054-8574" target="_blank"><img src="images/orcid.png" width="18"/></a> [(bolsa em andamento)]{style="color:green;"}
+<img src="images/user.png" width="16"/></a> **Hilana L. Hadlich** (MAUA/INPA) - Doutoranda - Bolsista CNPq DTI-B <a href="http://lattes.cnpq.br/2228944258807319" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-3054-8574" target="_blank"><img src="images/orcid.png" width="18"/></a> [[bolsa em andamento]]{style="color:green;"}
 
-<img src="images/user.png" width="16"/></a> **Kaio Cesar M. da Cunha** (INPA/MAUA) - Mestre - Bolsista CNPq DTI-B <a href="http://lattes.cnpq.br/2664299098538335" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0003-2197-9687" target="_blank">![](images/orcid.png){width="18"}</a> [(bolsa em andamento)]{style="color:green;"}
-
+<img src="images/user.png" width="16"/></a> **Kaio Cesar M. da Cunha** (MAUA/INPA) - Mestre - Bolsista CNPq DTI-B <a href="http://lattes.cnpq.br/2664299098538335" target="_blank"><img src="images/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0003-2197-9687" target="_blank">![](images/orcid.png){width="18"}</a> [\[bolsa em andamento\]]{style="color:green;"}
 
 ### Graduação (PIBICs)
 
-<img src="images/user.png" width="16"/></a> **Cassia Sousa Ataide** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/6974374662437947" target="_blank"><img src="images/lattes.png" width="18"/></a> [(bolsa em andamento)]{style="color:green;"}
+<img src="images/user.png" width="16"/></a> **Cassia Sousa Ataide** (UFAM/Herbário INPA) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/6974374662437947" target="_blank"><img src="images/lattes.png" width="18"/></a> [\[bolsa em andamento\]]{style="color:green;"}
 
-<img src="images/user.png" width="16"/></a> **Eliandra Rodrigues Ferreira** (Estácio) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/3358526069960413" target="_blank"><img src="images/lattes.png" width="18"/></a> [(bolsa em andamento)]{style="color:green;"}
+<img src="images/user.png" width="16"/></a> **Eliandra Rodrigues Ferreira** (Estácio/Herbário INPA) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/3358526069960413" target="_blank"><img src="images/lattes.png" width="18"/></a> [\[bolsa em andamento\]]{style="color:green;"}
 
-<img src="images/user.png" width="16"/></a> **Yasmin Jéssica Guimarães Guedes** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/7129000327997949" target="_blank"><img src="images/lattes.png" width="18"/></a> [(bolsa em andamento)]{style="color:green;"}
+<img src="images/user.png" width="16"/></a> **Yasmin Jéssica G. Guedes** (UFAM/Herbário INPA) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/7129000327997949" target="_blank"><img src="images/lattes.png" width="18"/></a> [\[bolsa em andamento\]]{style="color:green;"}
 
-<img src="images/user.png" width="16"/></a> **Eduardo Leandro Cunha** (UFAM) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/2142166621987119" target="_blank"><img src="images/lattes.png" width="18"/></a> [(egresso)]{style="color:red;"}
+<img src="images/user.png" width="16"/></a> **Eduardo Leandro Cunha** (UFAM/Herbário INPA) - Bolsista CNPq PIBIC <a href="http://lattes.cnpq.br/2142166621987119" target="_blank"><img src="images/lattes.png" width="18"/></a> [\[egresso\]]{style="color:tomato;"}
 
 # Cursos oferecidos
 
@@ -74,18 +73,22 @@ Desenvolver e popularizar o herbário espectral (espectroscopia no infravermelho
 
 [<img src="images/learning.png" width="20"/>](/cursos/cursomicronir2.html) **2º Curso:** 17 a 19 de dezembro de 2025 (INPA, Manaus, AM)
 
-[<img src="images/learning.png" width="20"/>](/cursos/cursomicronir3.html) **3º Curso:** previsto para o período de 19 a 21 de maio de 2026 (Instituto Mamirauá, Tefé, AM)
+[<img src="images/learning.png" width="20"/>](/cursos/cursomicronir3.html) **3º Curso:** [previsto para o período de 19 a 21 de maio de 2026 (Instituto Mamirauá, Tefé, AM)]{style="color:purple;"}
 
-[<img src="images/learning.png" width="20"/>]() **Minicurso ERBOT Norte:** previsto para o dia 26 de abril de 2026 (Universidade Federal do Pará, Belém, PA)
- 
+[<img src="images/learning.png" width="20"/>]() **Minicurso ERBOT Norte:** [previsto para o dia 26 de abril de 2026 (UFPA, Belém, PA)]{style="color:purple;"}
+
 [<img src="images/learning.png" width="20"/>](/cursos/cursoauxiliardecampo.html) **Curso Auxiliar de Campo:** 23 a 30 de março de 2026 (Sítio ATTO, São Sebastião do Uatumã, AM)
 
-# Financiamento
+# Financiadores
 
 O projeto SPECTRA POP é financiado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - Mulher Faz Ciência (Processo no. 01.02.016301.04984/2024-17), e apoiado pelo Herbário INPA via Chamada pública MCTI/FINEP/FNDCT no. 02/2016 – Centros Nacionais Multiusuários.
 
-![](images/financiamento.png)
+![](images/financiadores.png)
 
 # Realização
 
 ![](images/realizacao.png)
+
+# Parceiros
+
+![](images/parceiros.png)

@@ -13,6 +13,18 @@ Ao longo de três dias de atividades teóricas e práticas, os participantes exp
 
 Além disso, o curso busca identificar desafios práticos no uso do equipamento, contribuindo para o desenvolvimento de um protocolo padronizado de aplicação no âmbito do [Projeto SpectraPop](/index.html).
 
+<figure style="text-align:center;">
+
+![](images/2_1.png){.slide style="display:block;"}
+
+<figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+
+Flyer de divulgação do 2º Curso de Espectroscopia em Herbário com Micronir: Teoria e Prática do Projeto SpectraPop.
+
+</figcaption>
+
+</figure>
+
 # Detalhes do curso
 
 **Onde:** Sala de aula do PPG-Botânica e Herbário INPA, Instituto Nacional de Pesquisas da Amazônia (INPA, campus I), Av. André Araújo, 2.936 - 69067-375 - Petrópolis, Manaus, Amazonas.
@@ -126,25 +138,23 @@ Link para acessar acessar o formulário de feedback: <https://forms.gle/GPvYc9k3
 
 # Equipe de organização e treinamento
 
-![](images/clipboard-768440372.png){width="16"} Profa. Dra. [Flávia Durgante](http://lattes.cnpq.br/9866263113578229) (Coordenadora do Projeto SpectraPop), KIT/ INPA/MAUA/ATTO
+<img src="images/user.png" width="12"/> Profa. Dra. Flávia Durgante (Coordenadora do Projeto SpectraPop), KIT/INPA/MAUA/ATTO <a href="http://lattes.cnpq.br/9866263113578229" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-![](/images/user.png){width="16"} Dra. [Caroline Vasconcelos](http://lattes.cnpq.br/1535461703335857) (Bolsista do Projeto SpectraPop), INPA
+<img src="images/user.png" width="12"/> Dra. Caroline Vasconcelos (Bolsista do Projeto SpectraPop), INPA <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-![](/images/user.png){width="16" style="font-size: 11pt;"} Prof. Dr. [Michael Hopkins](http://lattes.cnpq.br/5738793047673962) (Colaborador), Curadoria do Herbário INPA
+<img src="images/user.png" width="12"/> Prof. Dr. Michael Hopkins (Colaborador), Curadoria do Herbário INPA <a href="http://lattes.cnpq.br/5738793047673962" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-![](/images/user.png){width="16" style="font-size: 11pt;"} Dra. [Samyra Ramos](http://lattes.cnpq.br/1333559162162849) (Colaboradora), INPA
+<img src="images/user.png" width="12"/> Dra. Samyra Ramos (Colaboradora), INPA <a href="http://lattes.cnpq.br/1333559162162849" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-![](/images/user.png){width="16" style="font-size: 11pt;"} Me. [Kaio Cunha](http://lattes.cnpq.br/2664299098538335) (Colaborador), INPA
+<img src="images/user.png" width="12"/> Me. Kaio Cunha (Colaborador), INPA <a href="http://lattes.cnpq.br/2664299098538335" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-![](/images/user.png){width="16" style="font-size: 11pt;"} Me. [Luiz Melo](http://lattes.cnpq.br/0848738423393318) (Colaborador), INPA
+<img src="images/user.png" width="12"/> Me. Luiz Melo (Colaborador), INPA <a href="http://lattes.cnpq.br/0848738423393318" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
 # Financiamento
 
 Este curso é parte do Projeto “Popularização do uso da Assinatura Espectral da Espécie na identificação das árvores do Manejo Florestal Sustentável na Amazônia - SPECTRA POP”, financiado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - Mulher Faz Ciência (Processo no. 01.02.016301.04984/2024-17), e apoiado pelo Herbário INPA via Chamada pública MCTI/FINEP/FNDCT no. 02/2016 – Centros Nacionais Multiusuários.
 
 # Participantes
-
-Lista atualizada em 16-12-2025:
 
 1.  Álvaro Brasil Barbosa Neto
 
@@ -182,15 +192,11 @@ Lista atualizada em 16-12-2025:
 
 18. Túlio Alex Martins
 
-**Ouvintes (participação parcial)\***
+19. Eliandra Rodrigues (Ouvinte)
 
-1.  Ana Luiza Tuma - Virtual
+20. Yasmin Guimarães (Ouvinte)
 
-2.  Eliandra Rodrigues - Virtual
-
-3.  Yasmin Guimarães - Virtual
-
-\*Ouvintes (virtuais e presenciais) não terão direito a certificado.
+[Observação: Ouvintes (virtuais e presenciais) não terão direito a certificado.]{style="color:tomato;"}
 
 # Certificados
 
@@ -198,7 +204,7 @@ Para gerar seu certificado preencha o formulário: <https://forms.gle/XGg3XCmdMG
 
 <figure style="text-align:center;">
 
-![](images/2.jpeg){.slide style="display:block;"}
+![](images/2_2.jpeg){.slide style="display:block;"}
 
 <figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
 
