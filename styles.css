@@ -175,3 +175,32 @@ h2, h3 {
   color: #0e0740;
   font-weight: 500;
 }
+
+
+.doi-line {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.doi-badge {
+  display: inline-flex;
+  text-decoration: none;
+  border-radius: 4px;
+  overflow: hidden;
+  vertical-align: middle;
+}
+
+.doi-label {
+  background: #555;
+  color: white;
+  padding: 3px 6px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.doi-number {
+  background: #007ec6;
+  color: white;
+  padding: 3px 8px;
+  font-size: 13px;
+}
