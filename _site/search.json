@@ -72,23 +72,23 @@
   {
     "objectID": "cursos/cursomicronir3.html",
     "href": "cursos/cursomicronir3.html",
-    "title": "3º Curso de Espectroscopia em herbário com MicroNIR",
+    "title": "3º Curso de Espectroscopia em herbário com NIR portátil",
     "section": "",
-    "text": "Damos boas-vindas aos participantes do 3º Curso Espectroscopia em Herbário com MicroNIR: Teoria e Prática! 😊\nEste curso foi desenvolvido para capacitar estudantes e profissionais no uso do espectrômetro portátil MicroNIR, abrangendo desde a configuração inicial do equipamento até a análise dos dados espectrais.\nAo longo de três dias de atividades teóricas e práticas, os participantes explorarão os fundamentos da espectroscopia no infravermelho próximo (NIR) e sua aplicação na identificação de plantas.\nAlém disso, o curso busca identificar desafios práticos no uso do equipamento, contribuindo para o desenvolvimento de um protocolo padronizado de aplicação no âmbito do Projeto SpectraPop."
+    "text": "Damos boas-vindas aos participantes do 3º Curso Espectroscopia em Herbário com NIR portátil: Teoria e Prática! 😊\nEste curso foi desenvolvido para capacitar estudantes e profissionais no uso do espectrômetro portátil, abrangendo desde a configuração inicial do equipamento até a análise dos dados espectrais.\nAo longo de três dias de atividades teóricas e práticas, os participantes explorarão os fundamentos da espectroscopia no infravermelho próximo (NIR) e sua aplicação na identificação de plantas.\nAlém disso, o curso busca identificar desafios práticos no uso do equipamento, contribuindo para o desenvolvimento de um protocolo padronizado de aplicação no âmbito do Projeto SpectraPop."
   },
   {
     "objectID": "cursos/cursomicronir3.html#visão-geral",
     "href": "cursos/cursomicronir3.html#visão-geral",
-    "title": "3º Curso de Espectroscopia em herbário com MicroNIR",
+    "title": "3º Curso de Espectroscopia em herbário com NIR portátil",
     "section": "Visão geral",
     "text": "Visão geral\nAs atividades do curso ocorrerão durante três dias seguidos, de terça a quinta-feira.\nAs sessões da manhã serão entre 09h00 e 12h00 (horário padrão do Amazonas).\nAs sessões da tarde serão entre 14h00 e 17h00 (horário padrão do Amazonas)."
   },
   {
     "objectID": "cursos/cursomicronir3.html#linha-do-tempo",
     "href": "cursos/cursomicronir3.html#linha-do-tempo",
-    "title": "3º Curso de Espectroscopia em herbário com MicroNIR",
+    "title": "3º Curso de Espectroscopia em herbário com NIR portátil",
     "section": "Linha do tempo",
-    "text": "Linha do tempo\n\nDia 1 (terça-feira, 19/mai)\n\nManhã\nFundamentos teóricos da espectroscopia NIR e suas aplicações\nLink para acessar a aula: https://meet.jit.si/CursoSpectraPop\nLink para acessar a lista de presença: em breve\nVídeo Tour do Espectro Eletromagnético (NASA): https://www.youtube.com/watch?v=2p7FPFvu_j0\n\n\nTarde\n\nApresentação do dispositivo NIR-S-G1 (MicroNIR, InnoSpectra Corp.) e acessórios\nConfiguração do aplicativo ISC-NIRScan GUI (laptop e smartphone)\nCalibração, coleta de dados espectrais e cuidados necessários na obtenção dos espectros\nEntendendo os arquivos de saída\n\nLink para acessar a lista de presença: em breve\n\n\n\nDia 2 (quarta-feira, 20/mai)\n\nManhã\nOperações com o micronir e exercício prático de aquisição espectros.\nObtenção de metadados associados aos espécimes de herbário.\nLink para acessar a lista de presença: em breve\n\n\nTarde\n\nInstalação das bibliotecas necessárias\nComo importar as leituras espectrais para o R\nComo visualizar espectros e avaliar a qualidade dos dados espectrais\nComo preparar os conjuntos de dados para análise\n\nLink para acessar a lista de presença: em breve\n\n\n\nDia 3 (quinta-feira, 21/mai)\n\nManhã\nFundamentos teóricos da espectroscopia NIR e suas aplicações\nLink para acessar a aula: https://meet.jit.si/CursoSpectraPop\nLink para acessar a lista de presença: em breve\n\n\nTarde\n\nAnálise discriminante (LDA) com validação cruzada Leave-One-Out (LOO)\nAvaliação básica dos modelos (acurácia e matriz de confusão)\nResponder formulário de aproveitamento do curso\n\nLink para acessar a lista de presença: em breve\nLink para acessar acessar o formulário de feedback: em breve"
+    "text": "Linha do tempo\n\nDia 1 (terça-feira, 19/mai)\n\nManhã\n\nFundamentos teóricos da espectroscopia NIR e suas aplicações\n\nLink para acessar a aula: https://meet.jit.si/CursoSpectraPop\nVídeo Tour do Espectro Eletromagnético (NASA): https://www.youtube.com/watch?v=2p7FPFvu_j0\n\n\nTarde\n\nApresentação do dispositivo NIR-S-G1 (InnoSpectra Corp.) e acessórios\nConfiguração do aplicativo ISC-NIRScan GUI (laptop e smartphone)\nCalibração, coleta de dados espectrais e cuidados necessários na obtenção dos espectros\nEntendendo os arquivos de saída\n\n\n\n\nDia 2 (quarta-feira, 20/mai)\n\nManhã\n\nOperações com o NIR portátil e exercício prático de aquisição espectros.\nObtenção de metadados associados aos espécimes de herbário.\n\n\n\nTarde\n\nInstalação das bibliotecas necessárias\nComo importar as leituras espectrais para o R\nComo visualizar espectros e avaliar a qualidade dos dados espectrais\nComo preparar os conjuntos de dados para análise\n\nLink para acessar a lista de presença: em breve\n\n\n\nDia 3 (quinta-feira, 21/mai)\n\nManhã\n\nFundamentos teóricos da espectroscopia NIR e suas aplicações\n\nLink para acessar a aula: https://meet.jit.si/CursoSpectraPop\n\n\nTarde\n\nAnálise discriminante (LDA) com validação cruzada Leave-One-Out (LOO)\nAvaliação básica dos modelos (acurácia e matriz de confusão)"
   },
   {
     "objectID": "cursos/cursomicronir1.html",
@@ -289,8 +289,64 @@
   {
     "objectID": "cursos/minicursoerbotnorte.html",
     "href": "cursos/minicursoerbotnorte.html",
-    "title": "Assinatura espectral das espécies: teoria e prática sobre a espectroscopia em herbário com micronir",
+    "title": "Assinatura espectral das espécies: teoria e prática sobre a espectroscopia em herbário com NIR portátil",
+    "section": "",
+    "text": "Sejam bem-vindos(as)!\nEste curso foi desenvolvido para capacitar estudantes e profissionais no uso de espectrômetros portáteis de infravermelho próximo (NIR). Ao longo do dia, os participantes explorarão os fundamentos da espectroscopia no NIR e suas aplicações na identificação de plantas em contexto de herbário.\nSerão também abordados, de forma teórica e prática, os principais fluxos de trabalho analíticos, incluindo aquisição de espectros e controle de qualidade (para fins demonstrativos), curadoria de dados espectrais e análises multivariadas aplicadas à discriminação de espécies.\n\n\n\nFlyer de divulgação do minicurso no ERBOT Norte 2026."
+  },
+  {
+    "objectID": "cursos/minicursogoeldi.html",
+    "href": "cursos/minicursogoeldi.html",
+    "title": "Assinatura espectral das espécies",
     "section": "",
     "text": "Mais informações em breve! ⚠️"
+  },
+  {
+    "objectID": "cursos/minicursogoeldi.html#visão-geral",
+    "href": "cursos/minicursogoeldi.html#visão-geral",
+    "title": "Assinatura espectral das espécies",
+    "section": "Visão geral",
+    "text": "Visão geral\nAs atividades do curso ocorrerão durante três dias seguidos, de terça a quinta-feira.\nAs sessões da manhã serão entre 09h00 e 12h00 (horário padrão de Belém).\nAs sessões da tarde serão entre 14h00 e 17h00 (horário padrão de Belém)."
+  },
+  {
+    "objectID": "cursos/minicursogoeldi.html#linha-do-tempo",
+    "href": "cursos/minicursogoeldi.html#linha-do-tempo",
+    "title": "Assinatura espectral das espécies",
+    "section": "Linha do tempo",
+    "text": "Linha do tempo\n\nDia 1 (segunda-feira, 04/mai)\n\nManhã\nFundamentos teóricos da espectroscopia NIR e suas aplicações\nLink para acessar a aula: https://meet.jit.si/CursoGoeldi\nLink para acessar a lista de presença: em breve\nVídeo Tour do Espectro Eletromagnético (NASA): https://www.youtube.com/watch?v=2p7FPFvu_j0\n\n\nTarde\n\nApresentação do dispositivo NIR-S-G1 (MicroNIR, InnoSpectra Corp.) e acessórios\nConfiguração do aplicativo ISC-NIRScan GUI (laptop e smartphone)\nCalibração, coleta de dados espectrais e cuidados necessários na obtenção dos espectros\nEntendendo os arquivos de saída\n\nLink para acessar a lista de presença: em breve\n\n\n\nDia 2 terça-feira, 05/mai)\n\nManhã\nOperações com o micronir e exercício prático de aquisição espectros.\nObtenção de metadados associados aos espécimes de herbário.\nLink para acessar a lista de presença: em breve\n\n\nTarde\n\nInstalação das bibliotecas necessárias\nComo importar as leituras espectrais para o R\nComo visualizar espectros e avaliar a qualidade dos dados espectrais\nComo preparar os conjuntos de dados para análise\n\nLink para acessar a lista de presença: em breve\n\n\n\nDia 3 (quarta-feira, 06/mai)\n\nManhã\nFundamentos teóricos da espectroscopia NIR e suas aplicações\nLink para acessar a aula: https://meet.jit.si/CursoGoeldi\nLink para acessar a lista de presença: em breve\n\n\nTarde\n\nAnálise discriminante (LDA) com validação cruzada Leave-One-Out (LOO)\nAvaliação básica dos modelos (acurácia e matriz de confusão)\nResponder formulário de aproveitamento do curso\n\nLink para acessar a lista de presença: em breve\nLink para acessar acessar o formulário de feedback: em breve"
+  },
+  {
+    "objectID": "cursos/cursogoeldi.html",
+    "href": "cursos/cursogoeldi.html",
+    "title": "Assinatura espectral das espécies",
+    "section": "",
+    "text": "Damos boas-vindas aos participantes! 😊\nEste curso foi desenvolvido para capacitar estudantes e profissionais no uso do espectrômetro portátil NIR, abrangendo desde a configuração inicial do equipamento até a análise dos dados espectrais.\nAo longo de três dias de atividades teóricas e práticas, os participantes explorarão os fundamentos da espectroscopia no infravermelho próximo (NIR) e sua aplicação na identificação de plantas.\n\n\n\nFlyer de divulgação do curso no Herbário do Museu Paraense Emílio Goeldi."
+  },
+  {
+    "objectID": "cursos/cursogoeldi.html#visão-geral",
+    "href": "cursos/cursogoeldi.html#visão-geral",
+    "title": "Assinatura espectral das espécies",
+    "section": "Visão geral",
+    "text": "Visão geral\nAs atividades do curso ocorrerão durante três dias seguidos, de segunda a quarta-feira.\nAs sessões da manhã serão entre 09h00 e 12h00 (horário local de Belém).\nAs sessões da tarde serão entre 14h00 e 17h00 (horário local de Belém)."
+  },
+  {
+    "objectID": "cursos/cursogoeldi.html#linha-do-tempo",
+    "href": "cursos/cursogoeldi.html#linha-do-tempo",
+    "title": "Assinatura espectral das espécies",
+    "section": "Linha do tempo",
+    "text": "Linha do tempo\n\nDia 1 (segunda-feira, 04/mai)\n\nManhã\n\nFundamentos teóricos da espectroscopia NIR e suas aplicações\n\nLink para acessar a aula: https://meet.jit.si/CursoGoeldi\nVídeo Tour do Espectro Eletromagnético (NASA): https://www.youtube.com/watch?v=2p7FPFvu_j0\n\n\nTarde\n\nApresentação do dispositivo NIR-S-G1 (InnoSpectra Corp.) e acessórios\nConfiguração do aplicativo ISC-NIRScan GUI (laptop e smartphone)\nCalibração, coleta de dados espectrais e cuidados necessários na obtenção dos espectros\nEntendendo os arquivos de saída\n\n\n\n\nDia 2 terça-feira, 05/mai)\n\nManhã\n\nOperações com o NIR portátil e exercício prático de aquisição espectros.\nObtenção de metadados associados aos espécimes de herbário.\n\n\n\nTarde\n\nInstalação das bibliotecas necessárias\nComo importar as leituras espectrais para o R\nComo visualizar espectros e avaliar a qualidade dos dados espectrais\nComo preparar os conjuntos de dados para análise\n\n\n\n\nDia 3 (quarta-feira, 06/mai)\n\nManhã\n\nFundamentos teóricos da espectroscopia NIR e suas aplicações\n\nLink para acessar a aula: https://meet.jit.si/CursoGoeldi\n\n\nTarde\n\nAnálise discriminante (LDA) com validação cruzada Leave-One-Out (LOO)\nAvaliação básica dos modelos (acurácia e matriz de confusão)"
+  },
+  {
+    "objectID": "cursos/minicursoerbotnorte.html#visão-geral",
+    "href": "cursos/minicursoerbotnorte.html#visão-geral",
+    "title": "Assinatura espectral das espécies: teoria e prática sobre a espectroscopia em herbário com NIR portátil",
+    "section": "Visão geral",
+    "text": "Visão geral\nAs atividades do curso serão realizadas em período integral, das 8h00 às 12h00, com intervalo para almoço, e das 14h00 às 17h00 (horário local de Belém).\n\n⚠️ Atenção (almoço):\nPor se tratar de um domingo, os restaurantes da UFPA não estarão em funcionamento.\nA organização do evento viabilizou uma refeição no valor de R$ 17,00 por pessoa (cardápio: chapa mista ou filé de frango empanado). Interessados devem entrar em contato com Jesiane (91 988199025), realizar o pagamento via PIX para este número e enviar o comprovante."
+  },
+  {
+    "objectID": "cursos/minicursoerbotnorte.html#linha-do-tempo",
+    "href": "cursos/minicursoerbotnorte.html#linha-do-tempo",
+    "title": "Assinatura espectral das espécies: teoria e prática sobre a espectroscopia em herbário com NIR portátil",
+    "section": "Linha do tempo",
+    "text": "Linha do tempo\n\nManhã (aula ministrada por Flávia Durgante)\n\nFundamentos da espectroscopia no infravermelho próximo (NIR)\nAplicações em herbários e identificação de espécies\nIntrodução a análises multivariadas\n\nAcesso à aula: https://meet.jit.si/MinicursoERBOT2026\nMaterial complementar: Vídeo – Tour do Espectro Eletromagnético (NASA) https://www.youtube.com/watch?v=2p7FPFvu_j0\n\n\nTarde (aula ministrada por Caroline Vasconcelos e Kaio Cunha)\nDemonstração prática do NIR portátil\n\nApresentação do dispositivo NIR-S-G1 (InnoSpectra Corp.), acessórios e aplicativo\n\nDemonstração da aquisição de espectros em exsicatas (amostras de referência)\n\nEstrutura dos dados espectrais gerados pelo equipamento\n\nAnálises em R\n(utilizando conjunto de dados previamente disponibilizado — https://doi.org/10.5281/zenodo.15531968)\n\nInstalação e carregamento das bibliotecas necessárias\n\nImportação de dados espectrais\n\nVisualização e avaliação da qualidade dos espectros\n\nPreparação dos dados para análise\n\nAnálise discriminante (LDA) com validação cruzada Leave-One-Out (LOO)\n\nAvaliação de desempenho (acurácia e matriz de confusão)"
   }
 ]

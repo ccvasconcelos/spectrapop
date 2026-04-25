@@ -87,105 +87,119 @@ Veja a programação completa:
 
 ## Comissão organizadora
 
-<img src="images/user.png" width="12"/> Dra. Flávia
-Machado Durgante (MAUA/ATTO/INPA) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Dra. Flávia Machado Durgante
+(MAUA/ATTO/INPA)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-<img src="images/user.png" width="12"/> Dra. Samyra
-Ramos Chaves (MAUA/INPA) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a> 
+<img src="images/user.png" width="12"/> Dra. Samyra Ramos Chaves
+(MAUA/INPA)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-<img src="images/user.png" width="12"/> Dra. Caroline da Cruz Vasconcelos
-(MAUA/INPA) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Dra. Caroline da Cruz
+Vasconcelos (MAUA/INPA)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-<img src="images/user.png" width="12"/> Me. Kaio
-Cesar Marinho da Cunha (MAUA/INPA) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Me. Kaio Cesar Marinho da Cunha
+(MAUA/INPA)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-<img src="images/user.png" width="12"/> Roberta
-Pereira de Souza (ATTO) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Roberta Pereira de Souza (ATTO)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
 ## Comunicadores científicos
 
-<img src="images/user.png" width="12"/> Dra. Aline
-Radaelli Basso (ATTO) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Dra. Aline Radaelli Basso (ATTO)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-<img src="images/user.png" width="12"/> Luciano Lima
-Francisco (MAUA/INPA) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Luciano Lima Francisco
+(MAUA/INPA)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
 ## Professores
 
-<img src="images/user.png" width="12"/> Dra. Caroline
-da Cruz Vasconcelos (MAUA/INPA) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Dra. Caroline da Cruz
+Vasconcelos (MAUA/INPA)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-<img src="images/user.png" width="12"/> Dra. Dirce
-Leimi Komura (INPA) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Dra. Dirce Leimi Komura (INPA)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-<img src="images/user.png" width="12"/> Dra. Flávia
-Machado Durgante (MAUA/ATTO/INPA) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Dra. Flávia Machado Durgante
+(MAUA/ATTO/INPA)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-<img src="images/user.png" width="12"/> Me. Francisco
-Alcinei Gomes da Silva (ATTO) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Me. Francisco Alcinei Gomes da
+Silva (ATTO)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-<img src="images/user.png" width="12"/> Me. Francisco
-Javier Farroñay Pacaya (PDBFF/INPA) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Me. Francisco Javier Farroñay
+Pacaya (PDBFF/INPA)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-<img src="images/user.png" width="12"/> Dr. Layon
-Oreste Demarchi (MAUA/INPA) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Dr. Layon Oreste Demarchi
+(MAUA/INPA)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-<img src="images/user.png" width="12"/> Dr. Michael
-John Gilbert Hopkins (INPA) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Dr. Michael John Gilbert Hopkins
+(INPA)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-<img src="images/user.png" width="12"/> Sipko Marten
-Bulthuis (ATTO)
+<img src="images/user.png" width="12"/> Sipko Marten Bulthuis (ATTO)
 
-<img src="images/user.png" width="12"/> Dra. Vania
-Nobuko Yoshikawa (INPA) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Dra. Vania Nobuko Yoshikawa
+(INPA)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-<img src="images/user.png" width="12"/> Me. Yago
-Rodrigues Santos (ATTO) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Me. Yago Rodrigues Santos (ATTO)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
 ## Professores assistentes
 
-<img src="images/user.png" width="12"/> Alice Silva
-de Lima (INPA) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Alice Silva de Lima (INPA)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-<img src="images/user.png" width="12"/> Me. Kaio
-Cesar Marinho da Cunha (MAUA/INPA) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Me. Kaio Cesar Marinho da Cunha
+(MAUA/INPA)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-<img src="images/user.png" width="12"/> Dra. Samyra
-Ramos Chaves (MAUA/INPA) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Dra. Samyra Ramos Chaves
+(MAUA/INPA)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-<img src="images/user.png" width="12"/> Ma. Rafaela
-Araujo Ferreira Gurgel (MAUA/INPA) <a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
+<img src="images/user.png" width="12"/> Ma. Rafaela Araujo Ferreira
+Gurgel (MAUA/INPA)
+<a href="xxx" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
 ## Instrutores
 
-<img src="images/user.png" width="12"/> Francisco
-Marques Bezerra (Auxiliar de campo)
+<img src="images/user.png" width="12"/> Francisco Marques Bezerra
+(Auxiliar de campo)
 
-<img src="images/user.png" width="12"/> Jose
-Francisco Tenacol Andes Jr. (Auxiliar de campo)
+<img src="images/user.png" width="12"/> Jose Francisco Tenacol Andes Jr.
+(Auxiliar de campo)
 
-<img src="images/user.png" width="12"/> Jose Raimundo
-Ferreira Nunes (Auxiliar de campo/Escalador)
+<img src="images/user.png" width="12"/> Jose Raimundo Ferreira Nunes
+(Auxiliar de campo/Escalador)
 
-<img src="images/user.png" width="12"/>  Ocirio de
-Souza Pereira (Auxiliar de campo)
+<img src="images/user.png" width="12"/> Ocirio de Souza Pereira
+(Auxiliar de campo)
 
 ## Apoio técnico
 
-<img src="images/user.png" width="12"/> André Luiz
-Matos (Chefe de cozinha, ATTO)
+<img src="images/user.png" width="12"/> André Luiz Matos (Chefe de
+cozinha, ATTO)
 
-<img src="images/user.png" width="12"/> Antonio
-Huxley Melo do Nascimento (Apoio logístico, ATTO)
+<img src="images/user.png" width="12"/> Antonio Huxley Melo do
+Nascimento (Apoio logístico, ATTO)
 
-<img src="images/user.png" width="12"/> Adi
-Vasconcelos Brandão (Auxiliar de cozinha, ATTO)
+<img src="images/user.png" width="12"/> Adi Vasconcelos Brandão
+(Auxiliar de cozinha, ATTO)
 
-<img src="images/user.png" width="12"/> Valmir
-Ferreira Lima (Apoio logístico, ATTO)
+<img src="images/user.png" width="12"/> Valmir Ferreira Lima (Apoio
+logístico, ATTO)
 
-<img src="images/user.png" width="12"/> Keven Muniz
-de Lima (Apoio logístico, ATTO)
+<img src="images/user.png" width="12"/> Keven Muniz de Lima (Apoio
+logístico, ATTO)
 
 # Financiamento
 

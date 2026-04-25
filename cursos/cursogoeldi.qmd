@@ -1,0 +1,197 @@
+---
+title: "Assinatura espectral das espécies"
+subtitle: "Teoria e prática sobre a espectroscopia em herbário com NIR portátil"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Apresentação
+
+Damos boas-vindas aos participantes! 😊
+
+Este curso foi desenvolvido para capacitar estudantes e profissionais no
+uso do espectrômetro portátil NIR, abrangendo desde a configuração
+inicial do equipamento até a análise dos dados espectrais.
+
+Ao longo de três dias de atividades teóricas e práticas, os
+participantes explorarão os fundamentos da espectroscopia no
+infravermelho próximo (NIR) e sua aplicação na identificação de plantas.
+
+<figure style="text-align:center;">
+
+![](images/flyer_cursogoeldi.png){.slide style="display:block;"}
+
+<figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+
+Flyer de divulgação do curso no Herbário do Museu Paraense Emílio Goeldi.
+
+</figcaption>
+
+</figure>
+
+# Detalhes do curso
+
+**Onde:** Herbário MG, Campus de Pesquisa - Museu Paraense Emílio Goeldi, Av. Perimetral, 1901 - 66077-830 - Terra Firme, Belém, Pará.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(leaflet)
+leaflet() %>%
+  addTiles %>% # Add default OpenStreetMap map tiles
+  setView(lng = -48.443668, lat = -1.451330, zoom = 17)
+```
+
+**Data:** De 04 a 06 de maio de 2026.\
+
+**Público-alvo:** Estudantes e profissionais envolvidos no fluxo de
+trabalho de herbário/coleções de referência que tenham interesse no uso
+de espectroscopia portátil para pesquisa científica.\
+
+**Número de vagas:** 16 (vagas presenciais).\
+
+**Carga horária:** 18h (com emissão de certificado de participação).\
+
+**Formato:** Curso presencial, com aulas teóricas transmitidas ao vivo em ambiente virtual e atividades práticas realizadas presencialmente. Para as atividades práticas, quatro laptops estarão disponíveis, e os participantes serão organizados em quatro grupos.
+
+**Material:** Slides, *scripts* e dados obtidos durante o curso serão
+disponibilizados diretamente aos participantes ou via
+[GitHub](https://github.com/ccvasconcelos/spectrapop).
+
+# Cronograma
+
+## Visão geral
+
+As atividades do curso ocorrerão durante três dias seguidos, de segunda a
+quarta-feira.
+
+As sessões da manhã serão entre 09h00 e 12h00 (horário local de Belém).
+
+As sessões da tarde serão entre 14h00 e 17h00 (horário local de Belém).
+
+## Linha do tempo
+
+### Dia 1 (segunda-feira, 04/mai)
+
+#### Manhã
+
+- Fundamentos teóricos da espectroscopia NIR e suas aplicações
+
+Link para acessar a aula: <https://meet.jit.si/CursoGoeldi>
+
+Vídeo Tour do Espectro Eletromagnético (NASA):
+<https://www.youtube.com/watch?v=2p7FPFvu_j0>
+
+#### Tarde
+
+-   Apresentação do dispositivo NIR-S-G1 (InnoSpectra Corp.) e
+    acessórios
+
+-   Configuração do aplicativo ISC-NIRScan GUI (*laptop* e *smartphone*)
+
+-   Calibração, coleta de dados espectrais e cuidados necessários na
+    obtenção dos espectros
+
+-   Entendendo os arquivos de saída
+
+
+### Dia 2 terça-feira, 05/mai)
+
+#### Manhã
+
+- Operações com o NIR portátil e exercício prático de aquisição espectros.
+
+- Obtenção de metadados associados aos espécimes de herbário.
+
+#### Tarde
+
+-   Instalação das bibliotecas necessárias
+
+-   Como importar as leituras espectrais para o R
+
+-   Como visualizar espectros e avaliar a qualidade dos dados espectrais
+
+-   Como preparar os conjuntos de dados para análise
+
+
+### Dia 3 (quarta-feira, 06/mai)
+
+#### Manhã
+
+- Fundamentos teóricos da espectroscopia NIR e suas aplicações
+
+Link para acessar a aula: <https://meet.jit.si/CursoGoeldi>
+
+#### Tarde
+
+-   Análise discriminante (LDA) com validação cruzada *Leave-One-Out*
+    (LOO)
+
+-   Avaliação básica dos modelos (acurácia e matriz de confusão)
+
+
+# Equipe de organização e treinamento
+
+<img src="images/user.png" width="12"/> Profa. Dra. Flávia Durgante
+(Coordenadora dos Projetos SpectraPop/HerbSpectra-Amazônia),
+MAUA/ATTO/INPA
+<a href="http://lattes.cnpq.br/9866263113578229" target="_blank"><img src="images/lattes.png" width="18"/></a>
+
+<img src="images/user.png" width="12"/> Dra. Caroline Vasconcelos
+(Bolsista do Projeto HerbSpectra-Amazônia), MAUA/INPA
+<a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="images/lattes.png" width="18"/></a>
+
+<img src="images/user.png" width="12"/> Me. Kaio Cunha (Bolsista do
+Projeto HerbSpectra-Amazônia), MAUA/INPA
+<a href="http://lattes.cnpq.br/2664299098538335" target="_blank"><img src="images/lattes.png" width="18"/></a>
+
+# Financiamento
+
+Este curso é parte dos projetos "Rede de Herbários Espectrais da
+Amazônia: Espectroscopia e inteligência artificial para a identificação
+automatizada da biodiversidade em herbários amazônicos -
+HerbSpectra-Amazônia", financiado pelo CNPq, Chamada Pública MCTI/CNPq
+no. 03/2025 - Pró-Amazônia (processo no. 385465/2025-4);“Popularização
+do uso da Assinatura Espectral da Espécie na identificação das árvores
+do Manejo Florestal Sustentável na Amazônia - SPECTRA POP”, financiado
+pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM),
+Edital no. 006/2024 - Mulher Faz Ciência (Processo no.
+01.02.016301.04984/2024-17); e apoiado pelo Herbário INPA via Chamada
+pública MCTI/FINEP/FNDCT no. 02/2016 – Centros Nacionais Multiusuários.
+
+# Participantes
+
+1.  Adson Jordan Moreira Corrêa
+
+2.  André Gil
+
+3.  Anna Luiza Ilkiu
+
+4.  Antônio Elielson Rocha
+
+5.  Ely Simone Gurgel
+
+6.  Emili Larissa Silva de Oliveira
+
+7.  Flávia Lucas
+
+8.  Gustavo Batista Borges
+
+9.  Joseane Monteiro
+
+10. Julia Meireles
+
+11. Maria Antônia Ferreira Goes
+
+12. Maria de Fátima Almeida
+
+13. \[inscrição/seleção em andamento\]
+
+14. \[inscrição/seleção em andamento\]
+
+15. \[inscrição/seleção em andamento\]
+
+16. \[inscrição/seleção em andamento\]
+
+# Certificados
+
+Para gerar seu certificado preencha o formulário: em breve

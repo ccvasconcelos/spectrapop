@@ -73,11 +73,13 @@ Desenvolver e popularizar o herbário espectral (espectroscopia no infravermelho
 
 [<img src="images/learning.png" width="20"/>](/cursos/cursomicronir2.html) **2º Curso:** 17 a 19 de dezembro de 2025 (INPA, Manaus, AM)
 
-[<img src="images/learning.png" width="20"/>](/cursos/cursomicronir3.html) **3º Curso:** [previsto para o período de 19 a 21 de maio de 2026 (Instituto Mamirauá, Tefé, AM)]{style="color:purple;"}
-
-[<img src="images/learning.png" width="20"/>]() **Minicurso ERBOT Norte:** [previsto para o dia 26 de abril de 2026 (UFPA, Belém, PA)]{style="color:purple;"}
-
 [<img src="images/learning.png" width="20"/>](/cursos/cursoauxiliardecampo.html) **Curso Auxiliar de Campo:** 23 a 30 de março de 2026 (Sítio ATTO, São Sebastião do Uatumã, AM)
+
+[<img src="images/learning.png" width="20"/>]() **Minicurso ERBOT Norte:** [previsto para o dia 26 de abril de 2026 (ICB/UFPA, Belém, PA)]{style="color:purple;"}
+
+[<img src="images/learning.png" width="20"/>]() **Curso no Herbário Goeldi:** [previsto para o período de 04 a 06 de maio de 2026 (Herbário/Museu Goeldi, Belém, PA)]{style="color:purple;"}
+
+[<img src="images/learning.png" width="20"/>](/cursos/cursomicronir3.html) **3º Curso:** [previsto para o período de 10 a 12 de junho de 2026 (Herbário/Instituto Mamirauá, Tefé, AM)]{style="color:purple;"}
 
 # Financiadores
 

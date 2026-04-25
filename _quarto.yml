@@ -17,16 +17,18 @@ website:
         
       - text: "Cursos"
         menu:
-          - text: "1º Curso (2025)"
+          - text: "2025 | 1º Curso"
             href: cursos/cursomicronir1.qmd
-          - text: "2º Curso (2025)"
+          - text: "2025 | 2º Curso"
             href: cursos/cursomicronir2.qmd
-          - text: "3º Curso (2026)"
-            href: cursos/cursomicronir3.qmd
-          - text: "Minicurso ERBOT Norte (2026)"
-            href: cursos/minicursoerbotnorte.qmd
-          - text: "Curso Auxiliar de Campo (2026)"
+          - text: "2026 | Curso Auxiliar de Campo"
             href: cursos/cursoauxiliardecampo.qmd
+          - text: "2026 | Minicurso ERBOT Norte"
+            href: cursos/minicursoerbotnorte.qmd    
+          - text: "2026 | Curso Herbário Goeldi"
+            href: cursos/cursogoeldi.qmd
+          - text: "2026 | 3º Curso"
+            href: cursos/cursomicronir3.qmd
         
       - text: "Produção Intelectual"
         href: producaointelectual.qmd

@@ -1,13 +1,13 @@
 ---
-title: "3º Curso de Espectroscopia em herbário com MicroNIR"
+title: "3º Curso de Espectroscopia em herbário com NIR portátil"
 subtitle: "Teoria e prática"
 ---
 
 # Apresentação
 
-Damos boas-vindas aos participantes do **3º Curso Espectroscopia em Herbário com MicroNIR: Teoria e Prática**! 😊
+Damos boas-vindas aos participantes do **3º Curso Espectroscopia em Herbário com NIR portátil: Teoria e Prática**! 😊
 
-Este curso foi desenvolvido para capacitar estudantes e profissionais no uso do espectrômetro portátil MicroNIR, abrangendo desde a configuração inicial do equipamento até a análise dos dados espectrais.
+Este curso foi desenvolvido para capacitar estudantes e profissionais no uso do espectrômetro portátil, abrangendo desde a configuração inicial do equipamento até a análise dos dados espectrais.
 
 Ao longo de três dias de atividades teóricas e práticas, os participantes explorarão os fundamentos da espectroscopia no infravermelho próximo (NIR) e sua aplicação na identificação de plantas.
 
@@ -24,7 +24,7 @@ leaflet() %>%
   setView(lng = -64.731643, lat = -3.352820, zoom = 17)
 ```
 
-**Data:** De 19 a 21 de maio de 2026.\
+**Data:** De 10 a 12 de junho de 2026.\
 
 **Público-alvo:** Estudantes e profissionais envolvidos no fluxo de trabalho de herbário/coleções de referência que tenham interesse no uso de espectroscopia portátil para pesquisa científica.\
 
@@ -32,9 +32,9 @@ leaflet() %>%
 
 **Carga horária:** 18h (com emissão de certificado de participação).\
 
-**Formato:** Híbrido, contemplando aulas teóricas ministradas em ambiente virtual, com opção de participação presencial e aulas práticas exclusivamente presenciais. Para as atividades práticas, quatro laptops estarão disponíveis, e os participantes serão organizados em quatro grupos.
+**Formato:** Curso presencial, com aulas teóricas transmitidas ao vivo em ambiente virtual e atividades práticas realizadas presencialmente. Para as atividades práticas, quatro laptops estarão disponíveis, e os participantes serão organizados em quatro grupos.
 
-**Material:** Slides, *scripts* e dados obtidos durante o curso serão disponibilizados diretamente aos alunos ou via [GitHub](https://github.com/ccvasconcelos/spectrapop).
+**Material:** Slides, *scripts* e dados obtidos durante o curso serão disponibilizados diretamente aos participantes ou via [GitHub](https://github.com/ccvasconcelos/spectrapop).
 
 # Cronograma
 
@@ -52,17 +52,15 @@ As sessões da tarde serão entre 14h00 e 17h00 (horário padrão do Amazonas).
 
 #### Manhã
 
-Fundamentos teóricos da espectroscopia NIR e suas aplicações
+- Fundamentos teóricos da espectroscopia NIR e suas aplicações
 
 Link para acessar a aula: <https://meet.jit.si/CursoSpectraPop>
-
-Link para acessar a lista de presença: em breve
 
 Vídeo Tour do Espectro Eletromagnético (NASA): <https://www.youtube.com/watch?v=2p7FPFvu_j0>
 
 #### Tarde
 
--   Apresentação do dispositivo NIR-S-G1 (MicroNIR, InnoSpectra Corp.) e acessórios
+-   Apresentação do dispositivo NIR-S-G1 (InnoSpectra Corp.) e acessórios
 
 -   Configuração do aplicativo ISC-NIRScan GUI (*laptop* e *smartphone*)
 
@@ -70,17 +68,13 @@ Vídeo Tour do Espectro Eletromagnético (NASA): <https://www.youtube.com/watch?
 
 -   Entendendo os arquivos de saída
 
-Link para acessar a lista de presença: em breve
-
 ### Dia 2 (quarta-feira, 20/mai)
 
 #### Manhã
 
-Operações com o micronir e exercício prático de aquisição espectros.
+- Operações com o NIR portátil e exercício prático de aquisição espectros.
 
-Obtenção de metadados associados aos espécimes de herbário.
-
-Link para acessar a lista de presença: em breve
+- Obtenção de metadados associados aos espécimes de herbário.
 
 #### Tarde
 
@@ -98,23 +92,16 @@ Link para acessar a lista de presença: em breve
 
 #### Manhã
 
-Fundamentos teóricos da espectroscopia NIR e suas aplicações
+- Fundamentos teóricos da espectroscopia NIR e suas aplicações
 
 Link para acessar a aula: <https://meet.jit.si/CursoSpectraPop>
 
-Link para acessar a lista de presença: em breve
 
 #### Tarde
 
 -   Análise discriminante (LDA) com validação cruzada *Leave-One-Out* (LOO)
 
 -   Avaliação básica dos modelos (acurácia e matriz de confusão)
-
--   Responder formulário de aproveitamento do curso
-
-Link para acessar a lista de presença: em breve
-
-Link para acessar acessar o formulário de feedback: em breve
 
 # Equipe de organização e treinamento
 
