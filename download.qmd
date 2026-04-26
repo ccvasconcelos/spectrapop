@@ -3,7 +3,7 @@ title: "Download"
 editor: visual
 ---
 
-:::::::::: {style="display:flex; gap:20px; flex-wrap:wrap;"}
+::::::::: {style="display:flex; gap:20px; flex-wrap:wrap;"}
 <!-- LOGOTIPOS -->
 
 ::: {style="border:1px solid #ddd; padding:18px; border-radius:12px; width:220px; text-align:center;"}
@@ -28,26 +28,13 @@ style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6
 
 </svg>
 
-<p><strong>Dados exemplo</strong></p>
+<p><strong>MinicursoERBOT2026</strong></p>
 
-<a href=https://drive.google.com/drive/folders/1y8jrERVBLAKpJe6-OjPBVl44HkhJznJ6?usp=drive_link" target="_blank"
+<a href=https://drive.google.com/drive/folders/161p2ZrMnvdCHPFBxl7hZD7A49xBdSYev?usp=sharing" target="_blank"
 style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6px; text-decoration:none;">Download</a>
 :::
 
 <!-- SCRIPTS -->
-
-::: {style="border:1px solid #ddd; padding:18px; border-radius:12px; width:220px; text-align:center;"}
-<svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#0e0740" stroke-width="1.5">
-
-<polyline points="8 6 3 12 8 18"/><polyline points="16 6 21 12 16 18"/>
-
-</svg>
-
-<p><strong>Scripts em R</strong></p>
-
-<a href="link_em_breve" target="_blank"
-style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6px; text-decoration:none;">Download</a>
-:::
 
 <!-- R BASE -->
 
@@ -108,4 +95,4 @@ style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6
 <a href="https://drive.google.com/drive/folders/1gZbpwea3qfhBDjIe8fa_3sOy5WFDn8S5?usp=drive_link" target="_blank"
 style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6px; text-decoration:none;">Download</a>
 :::
-::::::::::
+:::::::::
