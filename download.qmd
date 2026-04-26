@@ -28,7 +28,7 @@ style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6
 
 </svg>
 
-<p><strong>Dados espectrais (exemplo)</strong></p>
+<p><strong>Dados exemplo</strong></p>
 
 <a href=https://drive.google.com/drive/folders/1y8jrERVBLAKpJe6-OjPBVl44HkhJznJ6?usp=drive_link" target="_blank"
 style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6px; text-decoration:none;">Download</a>
