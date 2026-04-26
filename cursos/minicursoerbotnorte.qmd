@@ -60,8 +60,7 @@ organização do ERBOT Norte).\
 ambiente virtual e atividades práticas realizadas presencialmente.
 
 **Material:** Slides e *scripts* serão disponibilizados diretamente aos
-participantes ou via
-[GitHub](https://github.com/ccvasconcelos/spectrapop).
+participantes ou via [Download](/download.html).
 
 # Cronograma
 
@@ -101,7 +100,6 @@ Material complementar: Vídeo – Tour do Espectro Eletromagnético (NASA)
     e aplicativo\
 -   Demonstração da aquisição de espectros em exsicatas (amostras de
     referência)\
--   Estrutura dos dados espectrais gerados pelo equipamento
 
 **Análises em R**\
 *(utilizando conjunto de dados previamente disponibilizado —*
