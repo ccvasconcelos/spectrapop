@@ -146,7 +146,7 @@ do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - Mulher Faz Ciência
 apoio do Herbário INPA via Chamada pública MCTI/FINEP/FNDCT no. 02/2016
 – Centros Nacionais Multiusuários.
 
-# Participantes
+# Participantes inscritos
 
 1.  Alisson Reis (participação presencial)
 
@@ -161,3 +161,17 @@ apoio do Herbário INPA via Chamada pública MCTI/FINEP/FNDCT no. 02/2016
 6.  Lucas de Jesus Camilo (participação presencial)
 
 7.  Mellissa Sousa Sobrinho (participação remota)
+
+<figure style="text-align:center;">
+
+![](images/6.jpg){.slide fig-align="right" style="display:block;"
+width="100%"}
+
+<figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+
+Participantes do Minicurso no 4º ERBOT Norte 2026 em Belém-PA, abril de
+2026
+
+</figcaption>
+
+</figure>

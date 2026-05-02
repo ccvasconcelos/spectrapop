@@ -10,7 +10,9 @@ editor:
 
 Sejam bem-vindos(as)! 😊
 
-Este curso foi desenvolvido para capacitar estudantes e profissionais no
+Este curso foi desenvolvido no âmbito do Projeto
+[HerbSpectra-Amazônia](https://linktr.ee/herbspectraamazonia?) (Chamada
+n° 03/2025 - Pró-Amazônia) para capacitar estudantes e profissionais no
 uso do espectrômetro portátil NIR, abrangendo desde a configuração
 inicial do equipamento até a análise dos dados espectrais.
 
@@ -54,10 +56,12 @@ de espectroscopia portátil para pesquisa científica.\
 **Carga horária:** 18h (com emissão de certificado de participação).\
 
 **Formato:** Curso presencial, com aulas teóricas transmitidas ao vivo
-em ambiente virtual e atividades práticas realizadas presencialmente. Para as atividades práticas, quatro laptops estarão disponíveis, e os
+em ambiente virtual e atividades práticas realizadas presencialmente.
+Para as atividades práticas, quatro laptops estarão disponíveis, e os
 participantes serão organizados em quatro grupos.
 
-**Material:** Slides e *scripts* serão disponibilizados diretamente aos participantes ou via [Download](/download.html).
+**Material:** Slides e *scripts* serão disponibilizados diretamente aos
+participantes ou via ⬇️ [Download](/download.html).
 
 # Cronograma
 
@@ -72,32 +76,33 @@ As sessões da tarde serão entre 14h00 e 17h00 (horário local de Belém).
 
 ## Linha do tempo
 
-### Dia 1 (segunda-feira, 04/mai)
+### Dia 1 (segunda, 04/mai)
 
 #### Manhã (Flávia Durgante)
 
 -   Fundamentos teóricos da espectroscopia NIR e suas aplicações (parte I)
 
-Acesso à aula: <https://meet.jit.si/CursoGoeldi>
+▶️ Acesso à aula: <https://meet.jit.si/CursoGoeldi>
 
-Material complementar: Vídeo – Tour do Espectro Eletromagnético (NASA):
-<https://www.youtube.com/watch?v=2p7FPFvu_j0>
+📚 Material complementar: Vídeo – Tour do Espectro Eletromagnético
+(NASA): <https://www.youtube.com/watch?v=2p7FPFvu_j0>
 
 #### Tarde (Caroline Vasconcelos, Kaio Cunha e Gabrielly Ribeiro)
 
--   Apresentação do dispositivo NIR-S-G1 (InnoSpectra Corp.) e acessórios
+-   Apresentação do dispositivo NIR-S-G1 (InnoSpectra Corp.) e
+    acessórios
 
 -   Configuração do aplicativo ISC-NIRScan GUI (*laptop* e *smartphone*)
 
 -   Introdução ao fluxo de trabalho com o NIR portátil
 
-
-### Dia 2 (terça-feira, 05/mai)
+### Dia 2 (terça, 05/mai)
 
 #### Manhã (Caroline Vasconcelos, Kaio Cunha e Gabrielly Ribeiro)
 
-- Exercício prático de aquisição de espectros e metadados de exsicatas. 
-- As espécies listadas a seguir serão testadas durante o curso:
+-   Exercício prático de aquisição de espectros e metadados de exsicatas
+
+-   As espécies listadas a seguir serão testadas durante o curso:
 
 <iframe src="https://docs.google.com/spreadsheets/d/1nDfQMOe26fblt0OLafKL6Gx1h7syhyFjfGT0lVjOYj4/edit?usp=sharing" width="100%" height="600">
 
@@ -111,39 +116,39 @@ Material complementar: Vídeo – Tour do Espectro Eletromagnético (NASA):
     -   Visualização e avaliação da qualidade dos espectros
     -   Preparação dos dados para análise
 
-### Dia 3 (quarta-feira, 06/mai)
+### Dia 3 (quarta, 06/mai)
 
 #### Manhã (Flávia Durgante)
 
 -   Fundamentos teóricos da espectroscopia NIR e suas aplicações (parte II)
 -   Introdução às análises espectrais
 
-Acesso à aula: <https://meet.jit.si/CursoGoeldi>
+▶️ Acesso à aula: <https://meet.jit.si/CursoGoeldi>
 
 #### Tarde (Caroline Vasconcelos, Kaio Cunha e Gabrielly Ribeiro)
 
 -   Em ambiente R:
-    -   Análise discriminante (LDA) com validação cruzada Leave-One-Out (LOO)
+    -   Análise discriminante (LDA) com validação cruzada Leave-One-Out
+        (LOO)
     -   Avaliação de desempenho (acurácia e matriz de confusão)
     -   Interpretação dos resultados
 
 # Equipe de organização e treinamento
 
 <img src="images/user.png" width="12"/> Profa. Dra. Flávia Durgante
-(Coordenadora dos Projetos SpectraPop/HerbSpectra-Amazônia),
-MAUA/ATTO/INPA
+(Coordenadora do HerbSpectra-Amazônia), MAUA/ATTO/INPA
 <a href="http://lattes.cnpq.br/9866263113578229" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
 <img src="images/user.png" width="12"/> Dra. Caroline Vasconcelos
-(Bolsista do Projeto HerbSpectra-Amazônia), MAUA/INPA
+(Bolsista do HerbSpectra-Amazônia), MAUA/INPA
 <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
-![](images/user.png){width="12"} Me. Kaio Cunha (Bolsista do Projeto
+![](images/user.png){width="12"} Me. Kaio Cunha (Bolsista do
 HerbSpectra-Amazônia), MAUA/INPA
 <a href="http://lattes.cnpq.br/2664299098538335" target="_blank">![](images/lattes.png){width="18"}</a>
 
 <img src="images/user.png" width="12"/> Me. Gabrielly Guabiraba Ribeiro
-(Doutoranda), JBRJ
+(Doutoranda no PPGBOT), JBRJ
 <a href="http://lattes.cnpq.br/4435352680317467" target="_blank"><img src="images/lattes.png" width="18"/></a>
 
 # Financiamento
@@ -165,7 +170,7 @@ no. 01.02.016301.04984/2024-17). O curso também conta com apoio do
 Herbário INPA via Chamada pública MCTI/FINEP/FNDCT no. 02/2016 – Centros
 Nacionais Multiusuários.
 
-# Participantes
+# Participantes inscritos
 
 1.  Adson Jordan Moreira Corrêa
 2.  Alcindo da Silva Martins Junior
@@ -186,5 +191,5 @@ Nacionais Multiusuários.
 
 # Certificado
 
-Para gerar seu certificado preencha o formulário:
+Para gerar seu certificado preencha o formulário: 🔗
 <https://forms.gle/3R5HoPVWErxvzQDY8>
