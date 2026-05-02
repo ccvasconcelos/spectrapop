@@ -46,7 +46,7 @@ style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6
 
 <p><strong>CursoGoeldi2026v1.0</strong></p>
 
-<a href= target="_blank"
+<a href=cursogoeldi target="_blank"
 style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6px; text-decoration:none;">Em breve</a>
 :::
 
@@ -125,7 +125,7 @@ style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6
 
 <p><strong>Protocolo INPA</strong></p>
 
-<a href= target="_blank"
+<a href=protocoloinpa target="_blank"
 style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6px; text-decoration:none;">Em construção</a>
 :::
 
@@ -141,7 +141,7 @@ style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6
 
 <p><strong>Protocolo IHerbSpec</strong></p>
 
-<a href=https://iherbspec.github.io/protocol.html" target="_blank"
+<a href=https://iherbspec.github.io/protocol.html target="_blank"
 style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6px; text-decoration:none;">Acessar</a>
 :::
 ::::::::::::
