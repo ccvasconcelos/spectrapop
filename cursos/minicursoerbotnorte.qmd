@@ -1,6 +1,6 @@
 ---
 title: "Assinatura espectral das espécies: teoria e prática sobre a espectroscopia em herbário com NIR portátil"
-subtitle: "ERBOT Norte 2026"
+subtitle: "4º ERBOT Norte 2026"
 editor: 
   markdown: 
     wrap: 72
@@ -75,9 +75,8 @@ Belém).
 > funcionamento.\
 > A organização do evento viabilizou uma refeição no valor de R\$ 17,00
 > por pessoa (cardápio: chapa mista ou filé de frango empanado).
-> Interessados devem entrar em contato com [Jesiane (91
-> 988199025)](https://wa.me/91988199025), realizar o pagamento via PIX
-> para este número e enviar o comprovante.
+> Interessados devem entrar em contato com Jesiane \[link removido\],
+> realizar o pagamento via PIX para este número e enviar o comprovante.
 
 ## Linha do tempo
 
@@ -149,16 +148,16 @@ apoio do Herbário INPA via Chamada pública MCTI/FINEP/FNDCT no. 02/2016
 
 # Participantes
 
-1.  Alisson Reis
+1.  Alisson Reis (participação presencial)
 
 2.  Carla Rebeca Santos Souza
 
 3.  Ely Simone Cajuero Gurgel
 
-4.  Grazielle Sales Teodoro
+4.  Grazielle Sales Teodoro (participação híbrida)
 
 5.  Loarena Leal Cruz
 
-6.  Lucas de Jesus Camilo
+6.  Lucas de Jesus Camilo (participação presencial)
 
-7.  Mellissa Sousa Sobrinho
+7.  Mellissa Sousa Sobrinho (participação remota)
